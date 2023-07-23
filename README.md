@@ -5,10 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 Ouvertüre(F...			3次    
+🥈 星降る夜に - ふみこ...			2次    
+🥉 Are You Los...			2次    
+🏅 Sulyvahn - ...			1次    
+🏅 Enchanted W...			1次    
 ```
 
 <!-- netease-music-box end -->

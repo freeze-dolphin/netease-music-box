@@ -19,7 +19,7 @@ jobs:
           TIMEZONE: Asia/Shanghai
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           NETEASE_GIST_ID: 8341b370556ca6eb6b1451616894114a
-          NETEASE_USER_ID: 367328190
+          NETEASE_USER_ID: 268596414
           NETEASE_USER_TOKEN: ${{ secrets.USER_TOKEN }}
           MARKDOWN_FILE: README.md
       - name: Commit and push

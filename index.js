@@ -42,8 +42,8 @@ const {
     console.log(name);
     console.log(name.length);
 
-    let flag = name.length > 11;
-    name = name.slice(0, 11);
+    let flag = name.length > 21;
+    name = name.slice(0, 21);
     name = flag ? name + '...' : name;
 
     let tab;

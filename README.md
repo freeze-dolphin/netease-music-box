@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Ouvertüre(F...			3次    
-🥈 星降る夜に - ふみこ...			2次    
-🥉 Are You Los...			2次    
-🏅 Sulyvahn - ...			1次    
-🏅 Enchanted W...			1次    
+🥇 Ouvertüre(FULL Ver) -...			3次    
+🥈 星降る夜に - ふみこみどり(fumiko...			2次    
+🥉 Are You Lost - Strict...			2次    
+🏅 Sulyvahn - Kobaryo/US...			1次    
+🏅 Enchanted Woods - Sun...			1次    
 ```
 
 <!-- netease-music-box end -->

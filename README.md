@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Ouvertüre(FULL Ver) - USAO/DJ Genki/河瀬茉希
-🥈 星降る夜に - ふみこみどり(fumikomidori)
-🥉 Are You Lost - Strictlyviolin荀博/马克Musician
-🏅 Sulyvahn - Kobaryo/USAO
-🏅 古都に咲く花 - ふみこみどり(fumikomidori)
+🥈 BREAK OUT - USAO/Massive New Krew
+🥉 星降る夜に - ふみこみどり(fumikomidori)
+🏅 Are You Lost - Strictlyviolin荀博/马克Musician
+🏅 City Lights - Rebelion
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 BREAK OUT - USAO/Massive New Krew
-🥈 星降る夜に - ふみこみどり(fumikomidori)
-🥉 Ouvertüre(FULL Ver) - USAO/DJ Genki/河瀬茉希
-🏅 Are You Lost - Strictlyviolin荀博/马克Musician
-🏅 City Lights - Rebelion
+🥈 Ouvertüre(FULL Ver) - USAO/DJ Genki/河瀬茉希
+🥉 City Lights - Rebelion
+🏅 Cosmic Air Ride - YUC’e/Snail's House
+🏅 Polozhenie - T3nzu
 ```
 
 <!-- netease-music-box end -->

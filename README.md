@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 BREAK OUT - USAO/Massive New Krew
-🥈 Ouvertüre(FULL Ver) - USAO/DJ Genki/河瀬茉希
-🥉 City Lights - Rebelion
+🥇 Danger - USAO
+🥈 THE COIL - 澤野弘之/Benjamin/mpi
+🥉 Take It Easy - Sunhiausa
 🏅 Cosmic Air Ride - YUC’e/Snail's House
-🏅 Polozhenie - T3nzu
+🏅 Forever (Masta Bootleg) - Masta
 ```
 
 <!-- netease-music-box end -->

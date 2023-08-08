@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Danger - USAO
-🥈 THE COIL - 澤野弘之/Benjamin/mpi
-🥉 Take It Easy - Sunhiausa
-🏅 Cosmic Air Ride - YUC’e/Snail's House
-🏅 Na Le (Levenkhan Frenchcore Bootleg) - Levenkhan/Omiki
+🥇 Умри если меня не любишь - AnimeVibe
+🥈 Poltergeist - CircusP/鏡音レン
+🥉 I Hate Myself For Loving You - Joan Jett
+🏅 Danger - USAO
+🏅 THE COIL - 澤野弘之/Benjamin/mpi
 ```
 
 <!-- netease-music-box end -->

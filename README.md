@@ -6,10 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Умри если меня не любишь - AnimeVibe
-🥈 Poltergeist - CircusP/鏡音レン
-🥉 I Hate Myself For Loving You - Joan Jett
-🏅 Danger - USAO
-🏅 THE COIL - 澤野弘之/Benjamin/mpi
+🥈 Da da Da - Jarico
+🥉 #тамада (Сингл) - Wooshendoo/Al l Bo/Miyagi & Эндшпиль
 ```
 
 <!-- netease-music-box end -->

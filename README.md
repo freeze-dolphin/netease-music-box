@@ -5,9 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Умри если меня не любишь - AnimeVibe
-🥈 Da da Da - Jarico
-🥉 #тамада (Сингл) - Wooshendoo/Al l Bo/Miyagi & Эндшпиль
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->

@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 Stay - Zedd/Alessia Cara
+🥈 Illusion of Time - Dr. Peacock
+🥉 STAY(Avicii Style Bootleg Demo） - Void_Creatures
+🏅 The Kid LAROI-stay（Frenchcore）（Hard carry remix） - Hard carry
 ```
 
 <!-- netease-music-box end -->

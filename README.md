@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Stay - Zedd/Alessia Cara
-🥈 Windy Hill - 羽肿
-🥉 Illusion of Time - Dr. Peacock
-🏅 人间烟火 - 程响
-🏅 Envision - Seredris
+🥇 Psycho - Post Malone/Ty Dolla $ign
+🥈 Stargazing - Severo/Amélie
+🥉 S.T.A.Y. (Delta Heavy Tribute) - Delta Heavy/Hans Zimmer
+🏅 Stay - Zedd/Alessia Cara
+🏅 Windy Hill - 羽肿
 ```
 
 <!-- netease-music-box end -->

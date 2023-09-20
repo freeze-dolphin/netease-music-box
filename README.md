@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Psycho - Post Malone/Ty Dolla $ign
-🥈 Stargazing - Severo/Amélie
-🥉 S.T.A.Y. (Delta Heavy Tribute) - Delta Heavy/Hans Zimmer
-🏅 Stay - Zedd/Alessia Cara
-🏅 Windy Hill - 羽肿
+🥇 Moments in Time - Timecop1983
+🥈 On The Run - Timecop1983
+🥉 Nightfall - Timecop1983
+🏅 色は匂へど 散りぬるを -Full Version- - 森永真由美
+🏅 Psycho - Post Malone/Ty Dolla $ign
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Moments in Time - Timecop1983
-🥈 On The Run - Timecop1983
-🥉 Nightfall - Timecop1983
-🏅 色は匂へど 散りぬるを -Full Version- - 森永真由美
-🏅 Psycho - Post Malone/Ty Dolla $ign
+🥇 On The Run - Timecop1983
+🥈 Windy Hill - 羽肿
+🥉 Moments in Time - Timecop1983
+🏅 STYX HELIX - MYTH & ROID
+🏅 Envision - Seredris
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 On The Run - Timecop1983
-🥈 Moments in Time - Timecop1983
-🥉 Windy Hill - 羽肿
-🏅 STYX HELIX - MYTH & ROID
-🏅 Nightfall - Timecop1983
+🥇 Windy Hill - 羽肿
+🥈 STYX HELIX - MYTH & ROID
+🥉 Awake - Seredris
+🏅 Envision - Seredris
+🏅 等你归来 - 程响
 ```
 
 <!-- netease-music-box end -->

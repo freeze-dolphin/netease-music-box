@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 夏恋 - Otokaze
-🥈 城南花已开 - 三亩地
-🥉 冬之韵 - 文武贝
-🏅 Refrain - 阿南亮子
-🏅 Fake Love (Orchestral Version) - MDP
+🥇 城南花已开 - 三亩地
+🥈 Refrain - 阿南亮子
+🥉 夏恋 - Otokaze
+🏅 冬之韵 - 文武贝
+🏅 アイドル (RiraN Remix) - RiraN
 ```
 
 <!-- netease-music-box end -->

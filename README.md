@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 城南花已开 - 三亩地
-🥈 Refrain - 阿南亮子
-🥉 夏恋 - Otokaze
-🏅 冬之韵 - 文武贝
+🥇 Orca - Feryquitous/xi
+🥈 城南花已开 - 三亩地
+🥉 Refrain - 阿南亮子
+🏅 Arghena - Laur/Feryquitous
 🏅 アイドル (RiraN Remix) - RiraN
 ```
 

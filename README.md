@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 アイドル (RiraN Remix) - RiraN
-🥈 Lividi - Feryquitous
-🥉 城南花已开 - 三亩地
-🏅 緋の青 - Sennzai/Feryquitous
-🏅 Refrain - 阿南亮子
+🥇 Lividi - Feryquitous
+🥈 城南花已开 - 三亩地
+🥉 緋の青 - Sennzai/Feryquitous
+🏅 Arghena - Laur/Feryquitous
+🏅 アイドル (RiraN Remix) - RiraN
 ```
 
 <!-- netease-music-box end -->

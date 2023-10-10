@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Lividi - Feryquitous
-🥈 城南花已开 - 三亩地
-🥉 緋の青 - Sennzai/Feryquitous
-🏅 Arghena - Laur/Feryquitous
-🏅 アイドル (RiraN Remix) - RiraN
+🥈 緋の青 - Sennzai/Feryquitous
+🥉 Arghena - Laur/Feryquitous
+🏅 Dille - Feryquitous
+🏅 Sound Chimera - Laur
 ```
 
 <!-- netease-music-box end -->

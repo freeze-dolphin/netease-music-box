@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Lividi - Feryquitous
-🥈 緋の青 - Sennzai/Feryquitous
-🥉 Arghena - Laur/Feryquitous
-🏅 Dille - Feryquitous
-🏅 Sound Chimera - Laur
+🥇 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
+🥈 realize -夢の待つ場所- (Green Wanna Mix) - Cyua
+🥉 realize ～夢の待つ場所～ (TV Size) - Cyua
+🏅 清风 - 陈壹千
+🏅 Blumenkranz - Cyua
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
-🥈 realize -夢の待つ場所- (Green Wanna Mix) - Cyua
-🥉 realize ～夢の待つ場所～ (TV Size) - Cyua
-🏅 清风 - 陈壹千
-🏅 Blumenkranz - Cyua
+🥈 Sound Chimera - Laur
+🥉 Cage - Tielle/SawanoHiroyuki[nZk]
+🏅 βίος <MK+nZk Version> - 小林未郁
+🏅 κrOnё - 澤野弘之
 ```
 
 <!-- netease-music-box end -->

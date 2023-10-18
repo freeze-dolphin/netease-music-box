@@ -7,9 +7,9 @@
 ```text
 🥇 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
 🥈 Cage - Tielle/SawanoHiroyuki[nZk]
-🥉 βίος <MK+nZk Version> - 小林未郁
-🏅 κrOnё - 澤野弘之
-🏅 βios - 小林未郁
+🥉 Zombie (Extended Mix) - Ran-D
+🏅 Ever After - Cyua
+🏅 realize -夢の待つ場所- (Green Wanna Mix) - Cyua
 ```
 
 <!-- netease-music-box end -->

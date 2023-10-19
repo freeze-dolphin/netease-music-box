@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
-🥈 Cage - Tielle/SawanoHiroyuki[nZk]
-🥉 Zombie (Extended Mix) - Ran-D
+🥇 On The Run - Timecop1983
+🥈 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
+🥉 Cage - Tielle/SawanoHiroyuki[nZk]
+🏅 Zombie (Extended Mix) - Ran-D
 🏅 Ever After - Cyua
-🏅 realize -夢の待つ場所- (Green Wanna Mix) - Cyua
 ```
 
 <!-- netease-music-box end -->

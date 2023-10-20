@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 On The Run - Timecop1983
-🥈 Cure -selector×Lostorage remix- Remixed by Wataru Maeguchi - Cyua/前口渉
-🥉 Cage - Tielle/SawanoHiroyuki[nZk]
-🏅 Zombie (Extended Mix) - Ran-D
-🏅 Ever After - Cyua
+🥈 Cage - Tielle/SawanoHiroyuki[nZk]
+🥉 Zombie (Extended Mix) - Ran-D
+🏅 I Got Love - MiyaGi/Эндшпиль/Рем Дигга
+🏅 Zombie - The Cranberries
 ```
 
 <!-- netease-music-box end -->

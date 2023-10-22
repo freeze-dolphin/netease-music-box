@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 I Got Love - MiyaGi/Эндшпиль/Рем Дигга
-🥈 Drink - Dr. Peacock/D-Frek
-🥉 On The Run - Timecop1983
+🥈 Viens je t'emmène - D-Frek
+🥉 Drink - Dr. Peacock/D-Frek
+🏅 On The Run - Timecop1983
 🏅 Zombie (Extended Mix) - Ran-D
-🏅 Ever After - Cyua
 ```
 
 <!-- netease-music-box end -->

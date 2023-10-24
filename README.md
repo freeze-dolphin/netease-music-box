@@ -9,7 +9,7 @@
 🥈 Drink - Dr. Peacock/D-Frek
 🥉 My Milkshake - Mass Destruct!on
 🏅 Ever After - Cyua
-🏅 I Got Love - MiyaGi/Эндшпиль/Рем Дигга
+🏅 Текстура - MiyaGi
 ```
 
 <!-- netease-music-box end -->

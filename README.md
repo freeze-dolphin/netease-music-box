@@ -8,8 +8,8 @@
 🥇 Viens je t'emmène - D-Frek
 🥈 Drink - Dr. Peacock/D-Frek
 🥉 等你归来 - 程响
-🏅 Rain And Wind - Sounds Of Nature
-🏅 Rain and Wind - Rain Relax
+🏅 When the rain - void
+🏅 Heartbeat - Kronos
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Viens je t'emmène - D-Frek
-🥈 Drink - Dr. Peacock/D-Frek
-🥉 等你归来 - 程响
-🏅 When the rain - void
-🏅 Heartbeat - Kronos
+🥇 等你归来 - 程响
+🥈 Altersist - void
+🥉 When the rain - void
+🏅 可能 - 程响
+🏅 Children (Eat Me Edit) - Robert Miles
 ```
 
 <!-- netease-music-box end -->

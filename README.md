@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 等你归来 - 程响
-🥈 Altersist - void
-🥉 When the rain - void
-🏅 可能 - 程响
-🏅 Children (Eat Me Edit) - Robert Miles
+🥇 Altersist - void
+🥈 When the rain - void
+🥉 等你归来 - 程响
+🏅 wasteland - DM DOKURO
+🏅 COLOR CHART (feat. Emi Evans) - onoken/Emi Evans
 ```
 
 <!-- netease-music-box end -->

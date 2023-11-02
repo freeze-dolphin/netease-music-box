@@ -7,9 +7,9 @@
 ```text
 🥇 Altersist - void
 🥈 When the rain - void
-🥉 等你归来 - 程响
-🏅 wasteland - DM DOKURO
-🏅 COLOR CHART (feat. Emi Evans) - onoken/Emi Evans
+🥉 wasteland - DM DOKURO
+🏅 等你归来 - 程响
+🏅 Generation (Sandy Corzeta Extended Remix) - Sandy Corzeta/you/Freezer/nayuta/妃苺
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Altersist - void
-🥈 When the rain - void
-🥉 wasteland - DM DOKURO
-🏅 等你归来 - 程响
-🏅 Generation (Sandy Corzeta Extended Remix) - Sandy Corzeta/you/Freezer/nayuta/妃苺
+🥇 wasteland - DM DOKURO
+🥈 Altersist - void
+🥉 When the rain - void
+🏅 You Me And Gravity - Koven/Crystal Skies
+🏅 Broken - Gill Chang/Hier
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 wasteland - DM DOKURO
-🥈 Altersist - void
-🥉 When the rain - void
-🏅 You Me And Gravity - Koven/Crystal Skies
-🏅 Broken - Gill Chang/Hier
+🥈 You Me And Gravity - Koven/Crystal Skies
+🥉 Broken - Gill Chang/Hier
+🏅 Altersist - void
+🏅 sh0ut - Tielle/R!N/Gemie/SawanoHiroyuki[nZk]
 ```
 
 <!-- netease-music-box end -->

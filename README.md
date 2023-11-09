@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 wasteland - DM DOKURO
+🥇 Soviet March - James Hannigan/The Skywalker Symphony Chorus
 🥈 You Me And Gravity - Koven/Crystal Skies
 🥉 Broken - Gill Chang/Hier
-🏅 Altersist - void
-🏅 Soviet March - James Hannigan/The Skywalker Symphony Chorus
+🏅 sh0ut - Tielle/R!N/Gemie/SawanoHiroyuki[nZk]
+🏅 Bad Apple!! feat.nomico (Nhato Remix) - Nhato
 ```
 
 <!-- netease-music-box end -->

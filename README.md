@@ -8,8 +8,8 @@
 🥇 Soviet March - James Hannigan/The Skywalker Symphony Chorus
 🥈 You Me And Gravity - Koven/Crystal Skies
 🥉 Broken - Gill Chang/Hier
-🏅 sh0ut - Tielle/R!N/Gemie/SawanoHiroyuki[nZk]
-🏅 Bad Apple!! feat.nomico (Nhato Remix) - Nhato
+🏅 The Son of Flynn - Daft Punk
+🏅 櫻ノ詩 - はな
 ```
 
 <!-- netease-music-box end -->

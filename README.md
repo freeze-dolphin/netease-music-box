@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Soviet March - James Hannigan/The Skywalker Symphony Chorus
-🥈 You Me And Gravity - Koven/Crystal Skies
-🥉 Broken - Gill Chang/Hier
-🏅 The Son of Flynn - Daft Punk
-🏅 櫻ノ詩 - はな
+🥈 The Son of Flynn - Daft Punk
+🥉 櫻ノ詩 - はな
+🏅 登れない坂道 - monet
+🏅 空気力学少女と少年の詩 -PianoVocalVar.- - はな
 ```
 
 <!-- netease-music-box end -->

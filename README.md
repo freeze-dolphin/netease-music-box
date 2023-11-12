@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Soviet March - James Hannigan/The Skywalker Symphony Chorus
-🥈 The Son of Flynn - Daft Punk
-🥉 櫻ノ詩 - はな
-🏅 登れない坂道 - monet
-🏅 空気力学少女と少年の詩 -PianoVocalVar.- - はな
+🥇 God's Wrath - D-Frek/Dr. Peacock
+🥈 On The Run - Timecop1983
+🥉 雪落无声 - 鲤羽Lyka/十指流玉
+🏅 月色与雪色之间，你是第三种绝色。 - 十指流玉/鲤羽Lyka
+🏅 Soviet March - James Hannigan/The Skywalker Symphony Chorus
 ```
 
 <!-- netease-music-box end -->

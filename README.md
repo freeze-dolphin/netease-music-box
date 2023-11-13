@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 God's Wrath - D-Frek/Dr. Peacock
-🥈 On The Run - Timecop1983
-🥉 雪落无声 - 鲤羽Lyka/十指流玉
-🏅 月色与雪色之间，你是第三种绝色。 - 十指流玉/鲤羽Lyka
-🏅 Soviet March - James Hannigan/The Skywalker Symphony Chorus
+🥇 Trip to Valhalla - Dr. Peacock
+🥈 Me Voy De Fiesta (Original Mix) - Mad Love
+🥉 Static (feat. The Midnight) - Timecop1983/The Midnight
+🏅 Viens je t'emmène - D-Frek
+🏅 Apocalypse - Phuture Noize/Sefa
 ```
 
 <!-- netease-music-box end -->

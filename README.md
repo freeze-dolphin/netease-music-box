@@ -7,9 +7,9 @@
 ```text
 🥇 Trip to Valhalla - Dr. Peacock
 🥈 Me Voy De Fiesta (Original Mix) - Mad Love
-🥉 Static (feat. The Midnight) - Timecop1983/The Midnight
-🏅 Viens je t'emmène - D-Frek
-🏅 Apocalypse - Phuture Noize/Sefa
+🥉 Viens je t'emmène - D-Frek
+🏅 God's Wrath - D-Frek/Dr. Peacock
+🏅 Static (feat. The Midnight) - Timecop1983/The Midnight
 ```
 
 <!-- netease-music-box end -->

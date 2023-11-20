@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Trip to Valhalla - Dr. Peacock
-🥈 Viens je t'emmène - D-Frek
-🥉 Luminescence - 米虾Fomiki/初云CLoudie/卉HUI-Works
-🏅 Me Voy De Fiesta (Original Mix) - Mad Love
-🏅 Static (feat. The Midnight) - Timecop1983/The Midnight
+🥈 Luminescence - 米虾Fomiki/初云CLoudie/卉HUI-Works
+🥉 Me Voy De Fiesta (Original Mix) - Mad Love
+🏅 Apocalypse - Phuture Noize/Sefa
+🏅 Viens je t'emmène - D-Frek
 ```
 
 <!-- netease-music-box end -->

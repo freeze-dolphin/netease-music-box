@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Luminescence - 米虾Fomiki/初云CLoudie/卉HUI-Works
-🥈 Trip to Valhalla - Dr. Peacock
-🥉 海市蜃楼 - Joysaaaa
-🏅 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
+🥈 海市蜃楼 - Joysaaaa
+🥉 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
 🏅 Be Still - Crystal Skies
+🏅 Lone Wanderer - Rameses B
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 Luminescence - 米虾Fomiki/初云CLoudie/卉HUI-Works
 🥈 海市蜃楼 - Joysaaaa
 🥉 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
-🏅 Be Still - Crystal Skies
-🏅 Lone Wanderer - Rameses B
+🏅 Totality of Reality - Mr. Ivex/Dr. Peacock
+🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
 ```
 
 <!-- netease-music-box end -->

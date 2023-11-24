@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Luminescence - 米虾Fomiki/初云CLoudie/卉HUI-Works
-🥈 海市蜃楼 - Joysaaaa
-🥉 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
+🥇 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
+🥈 Heaven - Lab-E/X-Treme
+🥉 鬼哭慟哭地獄楽 (feat. ほたる) - Halozy
 🏅 Totality of Reality - Mr. Ivex/Dr. Peacock
-🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
+🏅 Love On Drugs - Sprinky/Radium
 ```
 
 <!-- netease-music-box end -->

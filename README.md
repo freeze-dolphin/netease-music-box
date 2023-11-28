@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 大地の閾を探して -Looking for Edge of Ground- - かめりあ/初音ミク
-🥈 鬼哭慟哭地獄楽 (feat. ほたる) - Halozy
-🥉 Glitched Universe - 削除
-🏅 Polygon - 削除
-🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
+🥇 Glitched Universe - 削除
+🥈 A500 Rebooted - Dr. Peacock/Stormtrooper
+🥉 Influenceur (Hard Version) - Dr. Peacock/Ascendant Vierge
+🏅 8bit Angel - 削除
+🏅 鬼哭慟哭地獄楽 (feat. ほたる) - Halozy
 ```
 
 <!-- netease-music-box end -->

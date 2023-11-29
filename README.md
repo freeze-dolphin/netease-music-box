@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Glitched Universe - 削除
-🥈 A500 Rebooted - Dr. Peacock/Stormtrooper
-🥉 Influenceur (Hard Version) - Dr. Peacock/Ascendant Vierge
-🏅 8bit Angel - 削除
-🏅 鬼哭慟哭地獄楽 (feat. ほたる) - Halozy
+🥈 鬼哭慟哭地獄楽 (feat. ほたる) - Halozy
+🥉 Polygon - 削除
+🏅 A500 Rebooted - Dr. Peacock/Stormtrooper
+🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
 ```
 
 <!-- netease-music-box end -->

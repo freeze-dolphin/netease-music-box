@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Glitched Universe - 削除
-🥈 GHOST - かめりあ
-🥉 NotToNotice(); - 削除/遠野ひかる
-🏅 Conversion - 削除
+🥈 NotToNotice(); - 削除/遠野ひかる
+🥉 Conversion - 削除
 🏅 Polygon - 削除
+🏅 对望 - 爱星人
 ```
 
 <!-- netease-music-box end -->

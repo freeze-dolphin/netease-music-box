@@ -9,7 +9,7 @@
 🥈 NotToNotice(); - 削除/遠野ひかる
 🥉 Conversion - 削除
 🏅 Polygon - 削除
-🏅 对望 - 爱星人
+🏅 Influenceur (Hard Version) - Dr. Peacock/Ascendant Vierge
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Glitched Universe - 削除
-🥈 NotToNotice(); - 削除/遠野ひかる
-🥉 Conversion - 削除
-🏅 Polygon - 削除
-🏅 Influenceur (Hard Version) - Dr. Peacock/Ascendant Vierge
+🥇 汤家凤起床闹铃.mp3 - 航子一米八
+🥈 Glitched Universe - 削除
+🥉 NotToNotice(); - 削除/遠野ひかる
+🏅 永遠の水面 - 葉月ゆら
+🏅 Conversion - 削除
 ```
 
 <!-- netease-music-box end -->

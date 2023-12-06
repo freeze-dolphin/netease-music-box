@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 汤家凤起床闹铃.mp3 - 航子一米八
-🥈 Glitched Universe - 削除
-🥉 NotToNotice(); - 削除/遠野ひかる
-🏅 永遠の水面 - 葉月ゆら
-🏅 Conversion - 削除
+🥇 永遠の水面 - 葉月ゆら
+🥈 汤家凤起床闹铃.mp3 - 航子一米八
+🥉 麻雀 - 李荣浩
+🏅 对望 - 爱星人
+🏅 Truest Lies - Far Out/Karra
 ```
 
 <!-- netease-music-box end -->

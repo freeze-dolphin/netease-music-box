@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 永遠の水面 - 葉月ゆら
-🥈 汤家凤起床闹铃.mp3 - 航子一米八
-🥉 麻雀 - 李荣浩
-🏅 对望 - 爱星人
-🏅 Truest Lies - Far Out/Karra
+🥈 砕月 - 黄昏フロンティア/上海アリス幻樂団
+🥉 汤家凤起床闹铃.mp3 - 航子一米八
+🏅 麻雀 - 李荣浩
+🏅 色は匂へど 散りぬるを -Full Version- - 森永真由美
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 色は匂へど 散りぬるを -Full Version- - 森永真由美
 🥈 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
-🥉 永遠の水面 - 葉月ゆら
-🏅 砕月 - 黄昏フロンティア/上海アリス幻樂団
+🥉 砕月 - 黄昏フロンティア/上海アリス幻樂団
 🏅 Glitched Universe - 削除
+🏅 Dragonflame - Kirara Magic
 ```
 
 <!-- netease-music-box end -->

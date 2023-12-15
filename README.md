@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Glitched Universe - 削除
-🥈 Dragonflame - Kirara Magic
-🥉 色は匂へど 散りぬるを -Full Version- - 森永真由美
-🏅 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
-🏅 砕月 - 黄昏フロンティア/上海アリス幻樂団
+🥇 Dragonflame - Kirara Magic
+🥈 Glitched Universe - 削除
+🥉 Monody (feat. Laura Brehm) - TheFatRat/Laura Brehm
+🏅 Terminal Station - GET IN THE RING
+🏅 Eutopia - Yooh
 ```
 
 <!-- netease-music-box end -->

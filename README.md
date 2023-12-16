@@ -7,9 +7,9 @@
 ```text
 🥇 Dragonflame - Kirara Magic
 🥈 Glitched Universe - 削除
-🥉 Monody (feat. Laura Brehm) - TheFatRat/Laura Brehm
-🏅 Terminal Station - GET IN THE RING
-🏅 Eutopia - Yooh
+🥉 夏休みの転校生 - 鎖那
+🏅 Merry Christmas Mr. Lawrence (Heart Of Asia) (Quicksilver's Q Edit) - Watergate
+🏅 Monody (feat. Laura Brehm) - TheFatRat/Laura Brehm
 ```
 
 <!-- netease-music-box end -->

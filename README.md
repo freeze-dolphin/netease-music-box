@@ -7,9 +7,9 @@
 ```text
 🥇 Dragonflame - Kirara Magic
 🥈 Glitched Universe - 削除
-🥉 夏休みの転校生 - 鎖那
-🏅 Merry Christmas Mr. Lawrence (Heart Of Asia) (Quicksilver's Q Edit) - Watergate
-🏅 Monody (feat. Laura Brehm) - TheFatRat/Laura Brehm
+🥉 Ash - Kirara Magic
+🏅 Momo - Shion Hinano
+🏅 Sky Mirrors - Jannik
 ```
 
 <!-- netease-music-box end -->

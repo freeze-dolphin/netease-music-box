@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Dragonflame - Kirara Magic
-🥈 Glitched Universe - 削除
-🥉 Ash - Kirara Magic
-🏅 Momo - Shion Hinano
-🏅 Sky Mirrors - Jannik
+🥈 三十路岬 - 今野宏美
+🥉 Glitched Universe - 削除
+🏅 Ash - Kirara Magic
+🏅 冬の花 - 宮本浩次
 ```
 
 <!-- netease-music-box end -->

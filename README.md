@@ -7,9 +7,9 @@
 ```text
 🥇 Dragonflame - Kirara Magic
 🥈 三十路岬 - 今野宏美
-🥉 Glitched Universe - 削除
-🏅 Ash - Kirara Magic
+🥉 Ash - Kirara Magic
 🏅 冬の花 - 宮本浩次
+🏅 Disclude - void
 ```
 
 <!-- netease-music-box end -->

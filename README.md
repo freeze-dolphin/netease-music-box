@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Dragonflame - Kirara Magic
-🥈 三十路岬 - 今野宏美
-🥉 Ash - Kirara Magic
-🏅 冬の花 - 宮本浩次
-🏅 Disclude - void
+🥇 Glitched Universe - 削除
+🥈 Disclude - void
+🥉 三十路岬 - 今野宏美
+🏅 Conversion - 削除
+🏅 Dragonflame - Kirara Magic
 ```
 
 <!-- netease-music-box end -->

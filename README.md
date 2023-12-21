@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Glitched Universe - 削除
-🥈 Disclude - void
-🥉 三十路岬 - 今野宏美
+🥇 Disclude - void
+🥈 Glitched Universe - 削除
+🥉 遥か彼方 Remixed Svenson - Key Sounds Label
+🏅 三十路岬 - 今野宏美
 🏅 Conversion - 削除
-🏅 Dragonflame - Kirara Magic
 ```
 
 <!-- netease-music-box end -->

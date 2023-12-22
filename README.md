@@ -7,9 +7,9 @@
 ```text
 🥇 Disclude - void
 🥈 Glitched Universe - 削除
-🥉 遥か彼方 Remixed Svenson - Key Sounds Label
-🏅 三十路岬 - 今野宏美
+🥉 三十路岬 - 今野宏美
 🏅 Conversion - 削除
+🏅 Aegleseeker,over the horizon - Silentroom/Frums
 ```
 
 <!-- netease-music-box end -->

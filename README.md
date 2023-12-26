@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Disclude - void
-🥈 Glitched Universe - 削除
-🥉 三十路岬 - 今野宏美
+🥇 Glitched Universe - 削除
+🥈 機械降神 - JINGYAN/Rigel Music
+🥉 Disclude - void
 🏅 the end of this world, and the girl who crossed the moon's oceans. - Frums
 🏅 Conversion - 削除
 ```

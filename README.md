@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Glitched Universe - 削除
+🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
 🥈 機械降神 - JINGYAN/Rigel Music
-🥉 Disclude - void
+🥉 Mayohiga～遠野幻想～ - 東方隔離郷
 🏅 the end of this world, and the girl who crossed the moon's oceans. - Frums
-🏅 Conversion - 削除
+🏅 人恋し神様 - JINGYAN/Rigel Music
 ```
 
 <!-- netease-music-box end -->

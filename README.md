@@ -7,9 +7,9 @@
 ```text
 🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
 🥈 機械降神 - JINGYAN/Rigel Music
-🥉 Mayohiga～遠野幻想～ - 東方隔離郷
-🏅 the end of this world, and the girl who crossed the moon's oceans. - Frums
-🏅 人恋し神様 - JINGYAN/Rigel Music
+🥉 人恋し神様 - JINGYAN/Rigel Music
+🏅 Mayohiga～遠野幻想～ - 東方隔離郷
+🏅 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
 ```
 
 <!-- netease-music-box end -->

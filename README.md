@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
-🥈 機械降神 - JINGYAN/Rigel Music
-🥉 人恋し神様 - JINGYAN/Rigel Music
-🏅 Mayohiga～遠野幻想～ - 東方隔離郷
-🏅 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
+🥈 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
+🥉 星降る森 - 池田綾子
+🏅 Dedication - void
+🏅 機械降神 - JINGYAN/Rigel Music
 ```
 
 <!-- netease-music-box end -->

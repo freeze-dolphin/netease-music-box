@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
-🥈 華鳥風月(with senya) <幻想万華鏡 花の異変の章 OP主題歌> - 森永真由美
-🥉 星降る森 - 池田綾子
-🏅 Dedication - void
-🏅 機械降神 - JINGYAN/Rigel Music
+🥇 星降る森 - 池田綾子
+🥈 Dedication - void
+🥉 Midnight Hour (Original Mix) - Hartshorn
+🏅 Crystar - 削除
+🏅 君と在りし日々の歌 - TATOO/池田綾子
 ```
 
 <!-- netease-music-box end -->

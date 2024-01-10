@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 星降る森 - 池田綾子
-🥈 Dedication - void
-🥉 Midnight Hour (Original Mix) - Hartshorn
-🏅 Crystar - 削除
-🏅 君と在りし日々の歌 - TATOO/池田綾子
+🥈 Sky Mirrors - Jannik
+🥉 命 - 石田勝範
+🏅 Dragonflame - Kirara Magic
+🏅 Neuralcloud - Rabbit J/赛博传媒-2064/Vanguard Sound
 ```
 
 <!-- netease-music-box end -->

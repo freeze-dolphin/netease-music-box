@@ -8,7 +8,6 @@
 🥇 Conversion - 削除
 🥈 Glitched Universe - 削除
 🥉 Blessing of the Moon - DM DOKURO
-🏅 Light It Up - Robin Hustin/TobiMorrow/Jex
 ```
 
 <!-- netease-music-box end -->

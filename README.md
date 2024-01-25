@@ -5,8 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 One Step Forward (Original Mix) - Nhato/Glascat
-🥈 Remind the Souls - Nhato
+🥇 Vicious Heroism -Traitor Version- - Kobaryo
+🥈 One Step Forward (Original Mix) - Nhato/Glascat
+🥉 Remind the Souls - Nhato
 ```
 
 <!-- netease-music-box end -->

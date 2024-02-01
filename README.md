@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 我好像在哪见过你 - 薛之谦
-🥈 Endless Night - NEHCA
-🥉 Awake - Seredris
+🥇 Binary Star - Uru/SawanoHiroyuki[nZk]
+🥈 我好像在哪见过你 - 薛之谦
+🥉 Endless Night - NEHCA
+🏅 Awake - Seredris
 🏅 Envision - Seredris
-🏅 Vicious Heroism -Traitor Version- - Kobaryo
 ```
 
 <!-- netease-music-box end -->

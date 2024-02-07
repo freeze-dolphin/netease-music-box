@@ -7,9 +7,6 @@
 ```text
 🥇 Binary Star - Uru/SawanoHiroyuki[nZk]
 🥈 我好像在哪见过你 - 薛之谦
-🥉 Endless Night - NEHCA
-🏅 Awake - Seredris
-🏅 Envision - Seredris
 ```
 
 <!-- netease-music-box end -->

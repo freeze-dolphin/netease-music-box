@@ -5,10 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 Sleepwalking - The Chain Gang of 1974
+🥈 River of Darkness (feat. Timecop1983) - The Midnight/Timecop1983
 ```
 
 <!-- netease-music-box end -->

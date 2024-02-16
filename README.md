@@ -8,8 +8,8 @@
 🥇 Heliocentrism - MYTK
 🥈 Miss You - Nhato/蒼姫ラピス
 🥉 Penglaishan - MYTK
-🏅 Humanity - Nhato/Taishi
 🏅 Heart of the Ocean [Radio Mix] - Mythos 'N DJ Cosmo
+🏅 Humanity - Nhato/Taishi
 ```
 
 <!-- netease-music-box end -->

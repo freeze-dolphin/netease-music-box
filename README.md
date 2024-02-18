@@ -6,8 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Heliocentrism - MYTK
-🥈 Miss You - Nhato/蒼姫ラピス
-🥉 Penglaishan - MYTK
+🥈 Penglaishan - MYTK
+🥉 Miss You - Nhato/蒼姫ラピス
 🏅 Heart of the Ocean [Radio Mix] - Mythos 'N DJ Cosmo
 🏅 Humanity - Nhato/Taishi
 ```

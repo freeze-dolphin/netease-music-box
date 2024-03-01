@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Miss You - Nhato/蒼姫ラピス
-🥈 末界 - 乐府令
-🥉 清平 - 乐府令
-🏅 Penglaishan - MYTK
-🏅 Heliocentrism - MYTK
+🥈 Penglaishan - MYTK
+🥉 Heliocentrism - MYTK
+🏅 末界 - 乐府令
+🏅 ココロ - トラボルタP/鏡音リン
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Miss You - Nhato/蒼姫ラピス
-🥈 Penglaishan - MYTK
-🥉 Heliocentrism - MYTK
-🏅 末界 - 乐府令
-🏅 ココロ - トラボルタP/鏡音リン
+🥇 ココロ - トラボルタP/鏡音リン
+🥈 Total Domination - Daniel Sadowski
+🥉 Crimson Assault - Daniel Sadowski
+🏅 Miss You - Nhato/蒼姫ラピス
+🏅 えれくとりっく・えんじぇぅ - ななひら/Reol
 ```
 
 <!-- netease-music-box end -->

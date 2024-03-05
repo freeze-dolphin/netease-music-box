@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 ココロ・キセキ - ジュンP/鏡音レン
+🥇 桜華月（SHIKI's Remix） - SHIKI
 🥈 ココロ・キセキ - 鏡音レン/鏡音リン/トラボルタP
-🥉 ココロ - トラボルタP/鏡音リン
-🏅 Total Domination - Daniel Sadowski
-🏅 Crimson Assault - Daniel Sadowski
+🥉 物凄い狂っとるフランちゃんが物凄いうた (feat. ななひら) - ななひら
+🏅 Eye Of The Dragon - Daniel Sadowski
+🏅 レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆ - ななひら
 ```
 
 <!-- netease-music-box end -->

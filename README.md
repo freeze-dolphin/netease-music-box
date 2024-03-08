@@ -7,9 +7,9 @@
 ```text
 🥇 桜華月（SHIKI's Remix） - SHIKI
 🥈 ココロ・キセキ - 鏡音レン/鏡音リン/トラボルタP
-🥉 物凄い狂っとるフランちゃんが物凄いうた (feat. ななひら) - ななひら
-🏅 Eye Of The Dragon - Daniel Sadowski
-🏅 レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆ - ななひら
+🥉 レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆ - ななひら
+🏅 Disclude - void
+🏅 Altersist - void
 ```
 
 <!-- netease-music-box end -->

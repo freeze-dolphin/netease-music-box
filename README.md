@@ -7,9 +7,9 @@
 ```text
 🥇 桜華月（SHIKI's Remix） - SHIKI
 🥈 ココロ・キセキ - 鏡音レン/鏡音リン/トラボルタP
-🥉 レンジで好吃☆電子調理器使用中華料理四千年歴史瞬間調理完了武闘的料理長☆ - ななひら
-🏅 Disclude - void
+🥉 Disclude - void
 🏅 Altersist - void
+🏅 Ibuki (Intro Mix) - Nhato
 ```
 
 <!-- netease-music-box end -->

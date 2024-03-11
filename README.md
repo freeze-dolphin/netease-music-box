@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 桜華月（SHIKI's Remix） - SHIKI
-🥈 ココロ・キセキ - 鏡音レン/鏡音リン/トラボルタP
-🥉 Disclude - void
-🏅 Altersist - void
+🥈 Disclude - void
+🥉 Altersist - void
 🏅 Ibuki (Intro Mix) - Nhato
+🏅 Startaction - Daniel Sadowski
 ```
 
 <!-- netease-music-box end -->

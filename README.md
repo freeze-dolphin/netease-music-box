@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
-🥈 Lovely Bastards (Kordhell Remix) - Kordhell/ZWE1HVNDXR/yatashigang
-🥉 Asphalt 8: Airborne – “Bleach” - Gameloft/Krubb Wenkroist
-🏅 The theme of Sachio - Mabanua
-🏅 Startaction - Daniel Sadowski
+🥇 Angelic layer - SHIKI
+🥈 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
+🥉 Astral Sea - Aspect
+🏅 Mercury Lamp - SHIKI
+🏅 Lapis - SHIKI
 ```
 
 <!-- netease-music-box end -->

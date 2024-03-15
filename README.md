@@ -8,8 +8,8 @@
 🥇 Angelic layer - SHIKI
 🥈 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
 🥉 Astral Sea - Aspect
+🏅 In Hell We Live, Lament (feat. KIHOW) - Mili/KIHOW
 🏅 Mercury Lamp - SHIKI
-🏅 Lapis - SHIKI
 ```
 
 <!-- netease-music-box end -->

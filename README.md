@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Angelic layer - SHIKI
-🥈 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
-🥉 Astral Sea - Aspect
-🏅 In Hell We Live, Lament (feat. KIHOW) - Mili/KIHOW
+🥇 幾年月 - Mili
+🥈 Angelic layer - SHIKI
+🥉 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
+🏅 Astral Sea - Aspect
 🏅 Mercury Lamp - SHIKI
 ```
 

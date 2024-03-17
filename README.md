@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 幾年月 - Mili
-🥈 Angelic layer - SHIKI
-🥉 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
-🏅 Astral Sea - Aspect
-🏅 Mercury Lamp - SHIKI
+🥇 Astral Sea - Aspect
+🥈 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
+🥉 Angelic layer - SHIKI
+🏅 Sepia - SHIKI
+🏅 若梦 - en
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Astral Sea - Aspect
-🥈 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
-🥉 Angelic layer - SHIKI
-🏅 Sepia - SHIKI
-🏅 若梦 - en
+🥈 祈灵 - SHIKI
+🥉 若梦 - en
+🏅 LOVELY BASTARDS - ZWE1HVNDXR/yatashigang
+🏅 Angelic layer - SHIKI
 ```
 
 <!-- netease-music-box end -->

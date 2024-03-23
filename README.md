@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 祈灵 - SHIKI
-🥈 幾年月 - Mili
-🥉 月夜に舞う恋の花 - ういにゃす
-🏅 Sky Mirrors - Jannik
+🥈 A Story of Fate - Jannik
+🥉 Sky Mirrors - Jannik
 🏅 THE STAR - Vitas
+🏅 Sepia - SHIKI
 ```
 
 <!-- netease-music-box end -->

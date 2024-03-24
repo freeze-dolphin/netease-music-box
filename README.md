@@ -7,9 +7,9 @@
 ```text
 🥇 祈灵 - SHIKI
 🥈 A Story of Fate - Jannik
-🥉 Sky Mirrors - Jannik
-🏅 THE STAR - Vitas
-🏅 Sepia - SHIKI
+🥉 若梦 - en
+🏅 Duetting Solo - Mili
+🏅 宇宙尽头的碎片 - 知晏
 ```
 
 <!-- netease-music-box end -->

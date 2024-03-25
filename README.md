@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 祈灵 - SHIKI
-🥈 A Story of Fate - Jannik
-🥉 若梦 - en
-🏅 Duetting Solo - Mili
-🏅 宇宙尽头的碎片 - 知晏
+🥇 A Story of Fate - Jannik
+🥈 宇宙尽头的碎片 - 知晏
+🥉 Sky Mirrors - Jannik
+🏅 Compass - Mili
+🏅 祈灵 - SHIKI
 ```
 
 <!-- netease-music-box end -->

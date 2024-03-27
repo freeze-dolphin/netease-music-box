@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 A Story of Fate - Jannik
-🥈 Sky Mirrors - Jannik
-🥉 宇宙尽头的碎片 - 知晏
+🥈 宇宙尽头的碎片 - 知晏
+🥉 深水炸弹 - xamce/Adrian Music
+🏅 Sky Mirrors - Jannik
 🏅 Compass - Mili
-🏅 祈灵 - SHIKI
 ```
 
 <!-- netease-music-box end -->

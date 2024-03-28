@@ -7,9 +7,9 @@
 ```text
 🥇 A Story of Fate - Jannik
 🥈 宇宙尽头的碎片 - 知晏
-🥉 深水炸弹 - xamce/Adrian Music
-🏅 Sky Mirrors - Jannik
-🏅 Compass - Mili
+🥉 Compass - Mili
+🏅 月詠に鳴る (feat. 藍月なくる) - Feryquitous/藍月なくる
+🏅 深水炸弹 - xamce/Adrian Music
 ```
 
 <!-- netease-music-box end -->

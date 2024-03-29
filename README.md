@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 A Story of Fate - Jannik
-🥈 宇宙尽头的碎片 - 知晏
-🥉 Compass - Mili
-🏅 月詠に鳴る (feat. 藍月なくる) - Feryquitous/藍月なくる
+🥈 Compass - Mili
+🥉 月詠に鳴る (feat. 藍月なくる) - Feryquitous/藍月なくる
 🏅 深水炸弹 - xamce/Adrian Music
+🏅 Duetting Solo - Mili
 ```
 
 <!-- netease-music-box end -->

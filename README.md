@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 深水炸弹 - xamce/Adrian Music
-🥈 A Story of Fate - Jannik
-🥉 宇宙尽头的碎片 - 知晏
-🏅 月詠に鳴る (feat. 藍月なくる) - Feryquitous/藍月なくる
-🏅 Electronic Life (Original Club Mix) - Klubbhoppers
+🥇 Zhurek - Adam
+🥈 深水炸弹 - xamce/Adrian Music
+🥉 A Story of Fate - Jannik
+🏅 宇宙尽头的碎片 - 知晏
+🏅 Zhurek (Isko Alvarez remix) - Adam
 ```
 
 <!-- netease-music-box end -->

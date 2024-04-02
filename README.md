@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Zhurek - Adam
-🥈 Zhurek (Isko Alvarez remix) - Adam
-🥉 Портрет - Adam
+🥈 Портрет - Adam
+🥉 Zhurek (Isko Alvarez remix) - Adam
 🏅 深水炸弹 - xamce/Adrian Music
-🏅 Tri martolod - Alan Stivell
+🏅 Altersist - void
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Zhurek - Adam
-🥈 Портрет - Adam
-🥉 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
-🏅 Oilama - Adam
-🏅 Zhurek (Isko Alvarez remix) - Adam
+🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
+🥈 Oilama - Adam
+🥉 Портрет - Adam
+🏅 Zhurek - Adam
+🏅 Your Mind - Ophidian
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
 🥈 Oilama - Adam
 🥉 Портрет - Adam
-🏅 Zhurek - Adam
 🏅 Your Mind - Ophidian
+🏅 西海情歌 - 刀郎
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 宛城、炎上!! (feat. おもしろ三国志) - Cranky/おもしろ三国志
-🥈 Oilama - Adam
-🥉 Портрет - Adam
-🏅 Your Mind - Ophidian
-🏅 西海情歌 - 刀郎
+🥇 Million Question - MYTK
+🥈 西海情歌 - 刀郎
+🥉 perceived notion tAgetes - MYTK
+🏅 Higgs Boson - 月代彩
+🏅 Voices - Nhato
 ```
 
 <!-- netease-music-box end -->

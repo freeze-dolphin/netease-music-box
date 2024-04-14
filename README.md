@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Million Question - MYTK
-🥈 西海情歌 - 刀郎
-🥉 perceived notion tAgetes - MYTK
+🥈 Vortex - Karl Casey
+🥉 西海情歌 - 刀郎
+🏅 perceived notion tAgetes - MYTK
 🏅 Higgs Boson - 月代彩
-🏅 Voices - Nhato
 ```
 
 <!-- netease-music-box end -->

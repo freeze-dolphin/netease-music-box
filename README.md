@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Million Question - MYTK
-🥈 Vortex - Karl Casey
-🥉 perceived notion tAgetes - MYTK
-🏅 Higgs Boson - 月代彩
-🏅 Voices - Nhato
+🥇 main menu - Daniel Sadowski
+🥈 Million Question - MYTK
+🥉 Vortex - Karl Casey
+🏅 reason - Rad Cat
+🏅 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
 ```
 
 <!-- netease-music-box end -->

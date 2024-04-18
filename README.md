@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 main menu - Daniel Sadowski
-🥈 Million Question - MYTK
-🥉 Vortex - Karl Casey
-🏅 reason - Rad Cat
-🏅 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
+🥇 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
+🥈 main menu - Daniel Sadowski
+🥉 Night of Bloom (feat. nayuta) - Kirara Magic/Xomu/nayuta
+🏅 Total Domination - Daniel Sadowski
+🏅 Crimson Assault - Daniel Sadowski
 ```
 
 <!-- netease-music-box end -->

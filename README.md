@@ -7,9 +7,9 @@
 ```text
 🥇 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
 🥈 main menu - Daniel Sadowski
-🥉 Night of Bloom (feat. nayuta) - Kirara Magic/Xomu/nayuta
-🏅 Total Domination - Daniel Sadowski
+🥉 Total Domination - Daniel Sadowski
 🏅 Crimson Assault - Daniel Sadowski
+🏅 赴大荒 - 塞壬唱片-MSR/Kirara Magic
 ```
 
 <!-- netease-music-box end -->

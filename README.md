@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
-🥈 main menu - Daniel Sadowski
-🥉 Total Domination - Daniel Sadowski
-🏅 Crimson Assault - Daniel Sadowski
-🏅 赴大荒 - 塞壬唱片-MSR/Kirara Magic
+🥇 Perfect Solitude - void
+🥈 赴大荒 - 塞壬唱片-MSR/Kirara Magic
+🥉 Night of Bloom (feat. nayuta) - Kirara Magic/Xomu/nayuta
+🏅 Under Bright Lights (feat. Indy Skies) - TWERL/Ekko & Sidetrack/Indy Skies
+🏅 World Vanquisher - void
 ```
 
 <!-- netease-music-box end -->

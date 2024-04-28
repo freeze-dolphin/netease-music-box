@@ -7,9 +7,9 @@
 ```text
 🥇 Perfect Solitude - void
 🥈 World Vanquisher - void
-🥉 Lost Souls - Meechy Darko/Denzel Curry/Busta Rhymes
-🏅 Anguished Unmaking - void
+🥉 Anguished Unmaking - void
 🏅 reverieland - void
+🏅 Never Escape - void
 ```
 
 <!-- netease-music-box end -->

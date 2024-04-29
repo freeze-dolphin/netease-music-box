@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Perfect Solitude - void
-🥈 World Vanquisher - void
-🥉 Anguished Unmaking - void
+🥈 Carcelera / Reflejo Andaluz - Festiva Barcelona
+🥉 World Vanquisher - void
+🏅 Anguished Unmaking - void
 🏅 reverieland - void
-🏅 Never Escape - void
 ```
 
 <!-- netease-music-box end -->

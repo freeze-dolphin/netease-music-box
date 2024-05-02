@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Perfect Solitude - void
-🥈 Carcelera / Reflejo Andaluz - Festiva Barcelona
-🥉 World Vanquisher - void
-🏅 超度我 - 福禄寿FloruitShow
-🏅 Anguished Unmaking - void
+🥇 Carcelera / Reflejo Andaluz - Festiva Barcelona
+🥈 超度我 - 福禄寿FloruitShow
+🥉 时间煮雨 - 郁可唯
+🏅 AOSAKI 2023 UNNAMED 3 UNBAN「BOOMBAP BEAT」 - Aosaki
+🏅 Social Path (Feat. LiSA) (Korean Ver.) - Stray Kids/LiSA
 ```
 
 <!-- netease-music-box end -->

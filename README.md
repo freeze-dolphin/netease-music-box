@@ -7,9 +7,9 @@
 ```text
 🥇 Carcelera / Reflejo Andaluz - Festiva Barcelona
 🥈 超度我 - 福禄寿FloruitShow
-🥉 时间煮雨 - 郁可唯
-🏅 AOSAKI 2023 UNNAMED 3 UNBAN「BOOMBAP BEAT」 - Aosaki
-🏅 Social Path (Feat. LiSA) (Korean Ver.) - Stray Kids/LiSA
+🥉 Social Path (Feat. LiSA) (Korean Ver.) - Stray Kids/LiSA
+🏅 暮野荒原 - 吴垚滔/DOUDOU
+🏅 南三环东路 - DOUDOU
 ```
 
 <!-- netease-music-box end -->

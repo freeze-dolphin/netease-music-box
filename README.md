@@ -5,11 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Carcelera / Reflejo Andaluz - Festiva Barcelona
-🥈 超度我 - 福禄寿FloruitShow
-🥉 Social Path (Feat. LiSA) (Korean Ver.) - Stray Kids/LiSA
-🏅 暮野荒原 - 吴垚滔/DOUDOU
-🏅 南三环东路 - DOUDOU
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->

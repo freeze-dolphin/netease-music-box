@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 可可托海的牧羊人 - 王琪
-🥈 乌兰巴托的夜 - 川川/丹正母子/左小祖咒
+🥇 乌兰巴托的夜 - 川川/丹正母子/左小祖咒
+🥈 可可托海的牧羊人 - 王琪
 🥉 马 - BBoxer酋长
+🏅 丹正母子-乌兰巴托的夜（NanNingDJXH Remix） - NanNingDJXH/Siqe
 🏅 超度我 - 福禄寿FloruitShow
-🏅 Carcelera / Reflejo Andaluz - Festiva Barcelona
 ```
 
 <!-- netease-music-box end -->

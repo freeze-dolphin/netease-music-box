@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 可可托海的牧羊人 - 王琪
-🥈 马 - BBoxer酋长
-🥉 丹正母子-乌兰巴托的夜（NanNingDJXH Remix） - NanNingDJXH/Siqe
-🏅 冲动的惩罚 - 刀郎
-🏅 孤独的牧羊人 - 刀郎
+🥈 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
+🥉 Altersist - void
+🏅 马 - BBoxer酋长
+🏅 丹正母子-乌兰巴托的夜（NanNingDJXH Remix） - NanNingDJXH/Siqe
 ```
 
 <!-- netease-music-box end -->

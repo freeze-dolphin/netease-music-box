@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 可可托海的牧羊人 - 王琪
-🥈 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
-🥉 Altersist - void
-🏅 马 - BBoxer酋长
+🥈 Altersist - void
+🥉 马 - BBoxer酋长
 🏅 丹正母子-乌兰巴托的夜（NanNingDJXH Remix） - NanNingDJXH/Siqe
+🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
 ```
 
 <!-- netease-music-box end -->

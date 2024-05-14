@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 可可托海的牧羊人 - 王琪
-🥈 Altersist - void
-🥉 马 - BBoxer酋长
-🏅 丹正母子-乌兰巴托的夜（NanNingDJXH Remix） - NanNingDJXH/Siqe
-🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
+🥇 Hot Pursuit - TOKYO ROSE
+🥈 Escape from Miami - Metropolis
+🥉 Downtown Lights - Metropolis
+🏅 Back To You - Timecop1983
+🏅 Time Lapse - Kalax
 ```
 
 <!-- netease-music-box end -->

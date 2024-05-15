@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Hot Pursuit - TOKYO ROSE
-🥈 Escape from Miami - Metropolis
-🥉 Downtown Lights - Metropolis
-🏅 Back To You - Timecop1983
-🏅 Time Lapse - Kalax
+🥇 Tonight - Timecop1983
+🥈 Hot Pursuit - TOKYO ROSE
+🥉 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
+🏅 Lost Time - Timecop1983
+🏅 Escape from Miami - Metropolis
 ```
 
 <!-- netease-music-box end -->

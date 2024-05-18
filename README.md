@@ -7,9 +7,9 @@
 ```text
 🥇 Tonight - Timecop1983
 🥈 Hot Pursuit - TOKYO ROSE
-🥉 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
-🏅 Lost Time - Timecop1983
+🥉 Lost Time - Timecop1983
 🏅 Escape from Miami - Metropolis
+🏅 Downtown Lights - Metropolis
 ```
 
 <!-- netease-music-box end -->

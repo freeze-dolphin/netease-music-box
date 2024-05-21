@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Tonight - Timecop1983
-🥈 Hot Pursuit - TOKYO ROSE
-🥉 Lost Time - Timecop1983
-🏅 Escape from Miami - Metropolis
+🥈 Lost Time - Timecop1983
+🥉 Escape from Miami - Metropolis
 🏅 Downtown Lights - Metropolis
+🏅 Back To You - Timecop1983
 ```
 
 <!-- netease-music-box end -->

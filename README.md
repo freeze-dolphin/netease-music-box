@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 at'aek ON taitn - 澤野弘之/小林未郁
-🥈 Bachram - Austin Wintory/Peter Hollens
-🥉 βios - 小林未郁
-🏅 千年之羽 - 小林未郁
-🏅 崩壊世界の歌姫 - 小林未郁
+🥈 βios - 小林未郁
+🥉 BRE@TH//LESS - 小林未郁
+🏅 Bachram - Austin Wintory/Peter Hollens
+🏅 Barricades <MOVIEver.> - 澤野弘之/Yosh
 ```
 
 <!-- netease-music-box end -->

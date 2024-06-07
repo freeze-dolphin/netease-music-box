@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 手心里的温柔 - 刀郎
-🥈 Surveillance (feat. RANASOL) - Nhato/RANASOL
-🥉 新阿瓦尔古丽 - 刀郎
-🏅 2002年的第一场雪 - 刀郎
-🏅 爱是你我 - 刀郎/王翰仪/云朵
+🥇 Surveillance (feat. RANASOL) - Nhato/RANASOL
+🥈 Gekka (Original Mix) - Nhato
+🥉 Ibuki (Intro Mix) - Nhato
+🏅 Vibronic Transition (Yuta Imai Remix) - crayvxn/Yuta Imai
+🏅 Dance with Silence - かめりあ
 ```
 
 <!-- netease-music-box end -->

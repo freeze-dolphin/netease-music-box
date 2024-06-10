@@ -8,8 +8,8 @@
 🥇 Surveillance (feat. RANASOL) - Nhato/RANASOL
 🥈 Gekka (Original Mix) - Nhato
 🥉 Ibuki (Intro Mix) - Nhato
+🏅 Miss You - Nhato/蒼姫ラピス
 🏅 Vibronic Transition (Yuta Imai Remix) - crayvxn/Yuta Imai
-🏅 Dance with Silence - かめりあ
 ```
 
 <!-- netease-music-box end -->

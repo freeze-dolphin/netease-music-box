@@ -9,7 +9,7 @@
 🥈 Gekka (Original Mix) - Nhato
 🥉 Ibuki (Intro Mix) - Nhato
 🏅 Miss You - Nhato/蒼姫ラピス
-🏅 Vibronic Transition (Yuta Imai Remix) - crayvxn/Yuta Imai
+🏅 Muma - Nhato
 ```
 
 <!-- netease-music-box end -->

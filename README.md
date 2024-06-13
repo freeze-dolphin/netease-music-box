@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Surveillance (feat. RANASOL) - Nhato/RANASOL
-🥈 Gekka (Original Mix) - Nhato
+🥇 Gekka (Original Mix) - Nhato
+🥈 Surveillance (feat. RANASOL) - Nhato/RANASOL
 🥉 Ibuki (Intro Mix) - Nhato
-🏅 Miss You - Nhato/蒼姫ラピス
-🏅 Muma - Nhato
+🏅 小河淌水 - 云朵
+🏅 牧羊人 - 云朵
 ```
 
 <!-- netease-music-box end -->

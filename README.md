@@ -5,11 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 小河淌水 - 云朵
-🥈 手心里的温柔 - 云朵
-🥉 牧羊人 - 云朵
-🏅 云朵 - 云朵
-🏅 蝴蝶泉边 - 云朵
+Oh my God!
+~~~~~~
+我最近一周竟然没有听歌～
+~~~~~~
 ```
 
 <!-- netease-music-box end -->

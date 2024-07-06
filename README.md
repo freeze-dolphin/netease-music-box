@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 牧羊人 - 云朵
-🥈 Remnant Fragment - SADRECORDS/Titan Chaos
-🥉 Ichor - Xtrullor
-🏅 砕月 & 绯想天 - Re：Volte
-🏅 Rendezvous - Vivienne
+🥇 Remnant Fragment - SADRECORDS/Titan Chaos
+🥈 Ichor - Xtrullor
+🥉 Rush Over Me - Seven Lions/ILLENIUM/HALIENE/Said The Sky
+🏅 牧羊人 - 云朵
+🏅 Arise - Au5
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Remnant Fragment - SADRECORDS/Titan Chaos
-🥈 Ichor - Xtrullor
-🥉 Rush Over Me - Seven Lions/ILLENIUM/HALIENE/Said The Sky
-🏅 Arise - Au5
-🏅 羌笛 - 云朵
+🥇 Altersist - void
+🥈 Endline - Tiegel
+🥉 Ibuki (Intro Mix) - Nhato
+🏅 The Son of Flynn - Daft Punk
+🏅 Tonight - Timecop1983
 ```
 
 <!-- netease-music-box end -->

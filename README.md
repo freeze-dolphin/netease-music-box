@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 西海情歌 - 刀郎
-🥈 Altersist - void
-🥉 Endline - Tiegel
-🏅 Ibuki (Intro Mix) - Nhato
-🏅 The Son of Flynn - Daft Punk
+🥇 subconsciousness - maki（薪）/guna/チーム・キュッキュ
+🥈 南天飞来的火焰 - 余梓桾/张子薇
+🥉 奈何桥 (器乐版) - 音速行星
+🏅 清平 - 乐府令
+🏅 西海情歌 - 刀郎
 ```
 
 <!-- netease-music-box end -->

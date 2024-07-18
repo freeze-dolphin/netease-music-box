@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 subconsciousness - maki（薪）/guna/チーム・キュッキュ
-🥈 南天飞来的火焰 - 余梓桾/张子薇
-🥉 奈何桥 (器乐版) - 音速行星
-🏅 清平 - 乐府令
-🏅 西海情歌 - 刀郎
+🥈 Chroma//Surge - Sad Keyboard Guy/Myntian/Sleepless
+🥉 西海情歌 - 刀郎
+🏅 Altersist - void
+🏅 Endline - Tiegel
 ```
 
 <!-- netease-music-box end -->

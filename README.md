@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 subconsciousness - maki（薪）/guna/チーム・キュッキュ
-🥈 AUDIO DAMAGE (Original Mix) - Sickmode
-🥉 西海情歌 - 刀郎
-🏅 Altersist - void
-🏅 Endline - Tiegel
+🥇 Ibuki (Intro Mix) - Nhato
+🥈 subconsciousness - maki（薪）/guna/チーム・キュッキュ
+🥉 Northern Lights - Ryan Farish
+🏅 hyperReality - nuphory/crayvxn
+🏅 Garden of Enders - Xacla
 ```
 
 <!-- netease-music-box end -->

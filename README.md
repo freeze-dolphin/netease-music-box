@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Ibuki (Intro Mix) - Nhato
+🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
 🥈 subconsciousness - maki（薪）/guna/チーム・キュッキュ
-🥉 Northern Lights - Ryan Farish
-🏅 hyperReality - nuphory/crayvxn
-🏅 Garden of Enders - Xacla
+🥉 Gekka (Original Mix) - Nhato
+🏅 Ibuki (Intro Mix) - Nhato
+🏅 Iron Hornet - Do As Infinity
 ```
 
 <!-- netease-music-box end -->

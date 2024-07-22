@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
-🥈 subconsciousness - maki（薪）/guna/チーム・キュッキュ
-🥉 Gekka (Original Mix) - Nhato
-🏅 Ibuki (Intro Mix) - Nhato
-🏅 Iron Hornet - Do As Infinity
+🥈 Northern Lights - Ryan Farish
+🥉 Escape this Moment （0.8×） - 卷毛
+🏅 Wonderful life - Adam
+🏅 Oilama - Adam
 ```
 
 <!-- netease-music-box end -->

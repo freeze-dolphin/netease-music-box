@@ -7,9 +7,9 @@
 ```text
 🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
 🥈 Northern Lights - Ryan Farish
-🥉 Escape this Moment （0.8×） - 卷毛
-🏅 Wonderful life - Adam
+🥉 Wonderful life - Adam
 🏅 Oilama - Adam
+🏅 subconsciousness - maki（薪）/guna/チーム・キュッキュ
 ```
 
 <!-- netease-music-box end -->

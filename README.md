@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
-🥈 Northern Lights - Ryan Farish
-🥉 Wonderful life - Adam
-🏅 Oilama - Adam
+🥈 Wonderful life - Adam
+🥉 Oilama - Adam
 🏅 忘却 - 姜米條
+🏅 夢難尋 Ⅱ - 姜米條/心华
 ```
 
 <!-- netease-music-box end -->

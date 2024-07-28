@@ -8,8 +8,8 @@
 🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
 🥈 Wonderful life - Adam
 🥉 Oilama - Adam
+🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
 🏅 忘却 - 姜米條
-🏅 夢難尋 Ⅱ - 姜米條/心华
 ```
 
 <!-- netease-music-box end -->

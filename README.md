@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 XXX（Feat.V在燃烧）混音版 - MRKrypton
+🥇 Riverlight (feat. vally.exe) - aethoro/Vally.exe
 🥈 Wonderful life - Adam
 🥉 Oilama - Adam
-🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
+🏅 XXX（Feat.V在燃烧）混音版 - MRKrypton
 🏅 忘却 - 姜米條
 ```
 

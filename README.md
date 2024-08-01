@@ -7,9 +7,9 @@
 ```text
 🥇 Riverlight (feat. vally.exe) - aethoro/Vally.exe
 🥈 春弦 - 塞壬唱片-MSR/横山克
-🥉 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
+🥉 Radioactivity - Kraftwerk
+🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
 🏅 Lyla and the Clouds Stars - Rigël Theatre/Miwele
-🏅 Sound Chimera - Laur
 ```
 
 <!-- netease-music-box end -->

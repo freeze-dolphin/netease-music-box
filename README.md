@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Riverlight (feat. vally.exe) - aethoro/Vally.exe
-🥈 春弦 - 塞壬唱片-MSR/横山克
-🥉 Radioactivity - Kraftwerk
-🏅 Waking Shadows (feat. Eili) - Sad Keyboard Guy/Gardens/Eili
-🏅 Lyla and the Clouds Stars - Rigël Theatre/Miwele
+🥈 I.回廊 (feat. mami) - Feryquitous/Mami
+🥉 春弦 - 塞壬唱片-MSR/横山克
+🏅 The Model - Kraftwerk
+🏅 Radioactivity - Kraftwerk
 ```
 
 <!-- netease-music-box end -->

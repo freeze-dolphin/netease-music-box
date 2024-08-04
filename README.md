@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Riverlight (feat. vally.exe) - aethoro/Vally.exe
-🥈 春弦 - 塞壬唱片-MSR/横山克
+🥈 Radioactivity - Kraftwerk
 🥉 儀 -lirile- - 黒皇帝/Eili
+🏅 春弦 - 塞壬唱片-MSR/横山克
 🏅 I.回廊 (feat. mami) - Feryquitous/Mami
-🏅 Radioactivity - Kraftwerk
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Radioactivity - Kraftwerk
-🥈 I.回廊 (feat. mami) - Feryquitous/Mami
-🥉 儀 -lirile- - 黒皇帝/Eili
-🏅 Surveillance (feat. RANASOL) - Nhato/RANASOL
-🏅 Sky Seeker (feat. 千花) - 千花/rejection
+🥇 儀 -lirile- - 黒皇帝/Eili
+🥈 Surveillance (feat. RANASOL) - Nhato/RANASOL
+🥉 Sky Seeker (feat. 千花) - 千花/rejection
+🏅 I.回廊 (feat. mami) - Feryquitous/Mami
+🏅 Iron Hornet - Do As Infinity
 ```
 
 <!-- netease-music-box end -->

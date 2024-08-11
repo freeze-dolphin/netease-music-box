@@ -7,9 +7,9 @@
 ```text
 🥇 Sky Seeker (feat. 千花) - 千花/rejection
 🥈 Jason - The Midnight/Nikki Flores
-🥉 Distant Memories - Timecop1983
-🏅 Surveillance (feat. RANASOL) - Nhato/RANASOL
+🥉 Surveillance (feat. RANASOL) - Nhato/RANASOL
 🏅 Lie The All (feat. Kanata.N) - Odd Hastur/Kanata.N
+🏅 The Break of Dawn (feat. Sennzai) - Srav3R/Sennzai
 ```
 
 <!-- netease-music-box end -->

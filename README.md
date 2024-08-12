@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Sky Seeker (feat. 千花) - 千花/rejection
-🥈 Jason - The Midnight/Nikki Flores
-🥉 Surveillance (feat. RANASOL) - Nhato/RANASOL
-🏅 Lie The All (feat. Kanata.N) - Odd Hastur/Kanata.N
-🏅 The Break of Dawn (feat. Sennzai) - Srav3R/Sennzai
+🥇 Hong Kong Story - Lazer Boomerang
+🥈 Arielle's Wish - aethoro
+🥉 ミゼラブルの雫(with senya) - 幽閉サテライト
+🏅 Jason - The Midnight/Nikki Flores
+🏅 ありがとう(with senya) - 幽閉サテライト
 ```
 
 <!-- netease-music-box end -->

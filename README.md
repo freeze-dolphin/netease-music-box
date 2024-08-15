@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Hong Kong Story - Lazer Boomerang
-🥈 Arielle's Wish - aethoro
-🥉 ミゼラブルの雫(with senya) - 幽閉サテライト
-🏅 Jason - The Midnight/Nikki Flores
-🏅 ありがとう(with senya) - 幽閉サテライト
+🥇 夢難尋 Ⅲ - 姜米條
+🥈 ミゼラブルの雫(with senya) - 幽閉サテライト
+🥉 ありがとう(with senya) - 幽閉サテライト
+🏅 Hong Kong Story - Lazer Boomerang
+🏅 Arielle's Wish - aethoro
 ```
 
 <!-- netease-music-box end -->

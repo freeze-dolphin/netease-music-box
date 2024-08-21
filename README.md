@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 夢難尋 Ⅲ - 姜米條
-🥈 Hong Kong Story - Lazer Boomerang
-🥉 KARUHA - 伊藤賢
-🏅 ありがとう(with senya) - 幽閉サテライト
-🏅 Arielle's Wish - aethoro
+🥈 KARUHA - 伊藤賢
+🥉 Merry Christmas Mr. Lawrence(Frenchcore remix) - NekomiyaStrayer
+🏅 手心里的温柔 - 刀郎
+🏅 西海情歌 - 刀郎
 ```
 
 <!-- netease-music-box end -->

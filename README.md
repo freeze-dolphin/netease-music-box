@@ -7,9 +7,9 @@
 ```text
 🥇 夢難尋 Ⅲ - 姜米條
 🥈 KARUHA - 伊藤賢
-🥉 Merry Christmas Mr. Lawrence(Frenchcore remix) - NekomiyaStrayer
-🏅 手心里的温柔 - 刀郎
+🥉 XXX（Feat.V在燃烧）混音版 - MRKrypton
 🏅 西海情歌 - 刀郎
+🏅 Neon Lights - Kraftwerk
 ```
 
 <!-- netease-music-box end -->

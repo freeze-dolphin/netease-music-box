@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 KARUHA - 伊藤賢
-🥈 夢難尋 Ⅲ - 姜米條
+🥇 夢難尋 Ⅲ - 姜米條
+🥈 reverieland - void
 🥉 Perfect Solitude - void
-🏅 XXX（Feat.V在燃烧）混音版 - MRKrypton
+🏅 KARUHA - 伊藤賢
 🏅 Memories of You (feat. vally.exe) - Sad Keyboard Guy/Vally.exe
 ```
 

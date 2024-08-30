@@ -9,7 +9,7 @@
 🥈 Anguished Unmaking - void
 🥉 reverieland - void
 🏅 Never Escape - void
-🏅 KARUHA - 伊藤賢
+🏅 Everlasting Today - void
 ```
 
 <!-- netease-music-box end -->

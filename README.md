@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Perfect Solitude - void
-🥈 Anguished Unmaking - void
-🥉 reverieland - void
-🏅 Never Escape - void
-🏅 Everlasting Today - void
+🥇 ミゼラブルの雫(with senya) - 幽閉サテライト
+🥈 KARUHA - 伊藤賢
+🥉 Lost in the Abyss - FELT
+🏅 Terminal Station - GET IN THE RING
+🏅 ありがとう(with senya) - 幽閉サテライト
 ```
 
 <!-- netease-music-box end -->

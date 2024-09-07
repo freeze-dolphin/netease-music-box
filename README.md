@@ -5,8 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 In the Air Tonight - Phil Collins
-🥈 機械降神 - JINGYAN/Rigel Music
+🥇 花火が瞬く夜に - 羽肿
+🥈 一念心清净 - 巫娜
+🥉 A Little Story - Valentin
+🏅 人なき山野の祭り囃子(原曲:远野幻想物语 (东方妖々梦)) - 白いしましまうさぎ
+🏅 彼岸花 - 高梨康治
 ```
 
 <!-- netease-music-box end -->

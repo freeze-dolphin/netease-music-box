@@ -7,9 +7,9 @@
 ```text
 🥇 花火が瞬く夜に - 羽肿
 🥈 一念心清净 - 巫娜
-🥉 A Little Story - Valentin
+🥉 ライトダンス - サカナクション
+🏅 A Little Story - Valentin
 🏅 人なき山野の祭り囃子(原曲:远野幻想物语 (东方妖々梦)) - 白いしましまうさぎ
-🏅 彼岸花 - 高梨康治
 ```
 
 <!-- netease-music-box end -->

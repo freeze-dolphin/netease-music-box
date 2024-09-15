@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 花火が瞬く夜に - 羽肿
-🥈 一念心清净 - 巫娜
-🥉 ライトダンス - サカナクション
-🏅 A Little Story - Valentin
-🏅 人なき山野の祭り囃子(原曲:远野幻想物语 (东方妖々梦)) - 白いしましまうさぎ
+🥇 ライトダンス - サカナクション
+🥈 In the Air Tonight - Phil Collins
+🥉 Maybe Tomorrow - Lee Ritenour
+🏅 断魂汤 (Formatting) - 音速行星
+🏅 Above The Fate - void
 ```
 
 <!-- netease-music-box end -->

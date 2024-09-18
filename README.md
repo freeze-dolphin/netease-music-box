@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 ライトダンス - サカナクション
-🥈 In the Air Tonight - Phil Collins
-🥉 Maybe Tomorrow - Lee Ritenour
-🏅 断魂汤 (Formatting) - 音速行星
-🏅 Above The Fate - void
+🥈 In Silence - Amelie Lens
+🥉 白雪 - KOKIA
+🏅 EXEC_COSMOFLIPS/. - KOKIA
+🏅 In the Air Tonight - Phil Collins
 ```
 
 <!-- netease-music-box end -->

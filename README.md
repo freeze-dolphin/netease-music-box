@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 ライトダンス - サカナクション
+🥇 Axolotl - C418
 🥈 In Silence - Amelie Lens
 🥉 白雪 - KOKIA
 🏅 EXEC_COSMOFLIPS/. - KOKIA
-🏅 In the Air Tonight - Phil Collins
+🏅 清明雨 - 音速行星/Sashenka
 ```
 
 <!-- netease-music-box end -->

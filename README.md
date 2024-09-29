@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 Universe Sandbox 2 Official Soundtrack - Various Artists
+🥈 我的精神状态 - 马炼洲
+🥉 State of Peace - Shockwave-Sound
+🏅 Magnetic Fluid - Aleksandar Dimitrijevic
 ```
 
 <!-- netease-music-box end -->

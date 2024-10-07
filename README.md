@@ -5,11 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Universe Sandbox 2 Official Soundtrack - Various Artists
-🥈 Hello and Again - Maozon
-🥉 Beyond the thunderhead - qurter
-🏅 我的精神状态 - 马炼洲
-🏅 State of Peace - Shockwave-Sound
+🥇 Hello and Again - Maozon
+🥈 Beyond the thunderhead - qurter
 ```
 
 <!-- netease-music-box end -->

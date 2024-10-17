@@ -5,10 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-Oh my God!
-~~~~~~
-我最近一周竟然没有听歌～
-~~~~~~
+🥇 this is what winter feels like - JVKE
+🥈 Nekovhparavh (Trance Edit) - Gardens
+🥉 Anisotropic Particles - Taishi
 ```
 
 <!-- netease-music-box end -->

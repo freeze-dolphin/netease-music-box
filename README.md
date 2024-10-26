@@ -5,9 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 this is what winter feels like - JVKE
-🥈 Nekovhparavh (Trance Edit) - Gardens
-🥉 Anisotropic Particles - Taishi
+🥇 默 (Live) - 张惠妹
+🥈 默 (Live) - 黄致列
+🥉 默 - 那英
+🏅 默 (Live) - 尚雯婕/茜拉
+🏅 蜃楼 - 周深
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 默 (Live) - 张惠妹
-🥈 默 (Live) - 黄致列
-🥉 默 - 那英
-🏅 默 (Live) - 尚雯婕/茜拉
-🏅 蜃楼 - 周深
+🥇 默 - 那英
+🥈 Chun-Li - Nicki Minaj
+🥉 讲不出的告别 - 刀郎/谭咏麟
+🏅 默 (Live) - 张惠妹
+🏅 默 (Live) - 黄致列
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 默 - 那英
 🥈 Chun-Li - Nicki Minaj
 🥉 讲不出的告别 - 刀郎/谭咏麟
-🏅 默 (Live) - 张惠妹
-🏅 默 (Live) - 黄致列
+🏅 苹果香 (DJ阿远版) - 狼戈
+🏅 情歌赛过春江水 - 云朵/韩冰
 ```
 
 <!-- netease-music-box end -->

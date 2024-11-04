@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 默 - 那英
+🥇 X.U. - SawanoHiroyuki[nZk]/R!N/Gemie
 🥈 Chun-Li - Nicki Minaj
 🥉 讲不出的告别 - 刀郎/谭咏麟
-🏅 苹果香 (DJ阿远版) - 狼戈
-🏅 情歌赛过春江水 - 云朵/韩冰
+🏅 默 - 那英
+🏅 秦淮河边的陈年往事 - 黄诗扶
 ```
 
 <!-- netease-music-box end -->

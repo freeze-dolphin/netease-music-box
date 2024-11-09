@@ -5,8 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 X.U. - SawanoHiroyuki[nZk]/R!N/Gemie
-🥈 讲不出的告别 - 刀郎/谭咏麟
+🥇 Once Upon A Time (House Mix) - Max Oazo/Moonessa
+🥈 Outta My Head (Extended) - Nico Kropf
+🥉 Outta My Head - Nico Kropf
+🏅 Let The Light In - Ekko & Sidetrack
+🏅 Neon Rainbow - Rameses B/Anna Yvette
 ```
 
 <!-- netease-music-box end -->

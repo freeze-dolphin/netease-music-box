@@ -8,8 +8,8 @@
 🥇 Outta My Head - Nico Kropf
 🥈 Outta My Head (Extended) - Nico Kropf
 🥉 Once Upon A Time (House Mix) - Max Oazo/Moonessa
-🏅 Let The Light In - Ekko & Sidetrack
 🏅 Neon Rainbow - Rameses B/Anna Yvette
+🏅 We Won't Be Alone - Feint/Laura Brehm
 ```
 
 <!-- netease-music-box end -->

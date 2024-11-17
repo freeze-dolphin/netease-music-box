@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Outta My Head - Nico Kropf
-🥈 Outta My Head (Extended) - Nico Kropf
+🥇 Once Upon A Time (House Extended Mix) - Max Oazo/Moonessa
+🥈 Outta My Head - Nico Kropf
 🥉 Once Upon A Time (House Mix) - Max Oazo/Moonessa
-🏅 Neon Rainbow - Rameses B/Anna Yvette
-🏅 We Won't Be Alone - Feint/Laura Brehm
+🏅 Outta My Head (Extended) - Nico Kropf
+🏅 雲流れ - みかん箱/Foxtail-Grass Studio
 ```
 
 <!-- netease-music-box end -->

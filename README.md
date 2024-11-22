@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Once Upon A Time (House Extended Mix) - Max Oazo/Moonessa
-🥈 Once Upon A Time (House Mix) - Max Oazo/Moonessa
-🥉 Outta My Head (Extended) - Nico Kropf
-🏅 Outta My Head - Nico Kropf
+🥇 Nightbreak - void
+🥈 Find You - RiraN
+🥉 少女眠想曲　～ Dream Battle - まらしぃ
 🏅 Duvet - Bôa
+🏅 Xhroria - AcuticNotes
 ```
 
 <!-- netease-music-box end -->

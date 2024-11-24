@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Nightbreak - void
-🥈 Find You - RiraN
+🥈 И00. - Se-U-Ra
 🥉 少女眠想曲　～ Dream Battle - まらしぃ
-🏅 Duvet - Bôa
-🏅 Xhroria - AcuticNotes
+🏅 Essence - takehirotei/HowToPlayLN
+🏅 Find You - RiraN
 ```
 
 <!-- netease-music-box end -->

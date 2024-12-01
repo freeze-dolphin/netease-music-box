@@ -8,8 +8,8 @@
 🥇 Nightbreak - void
 🥈 И00. - Se-U-Ra
 🥉 少女眠想曲　～ Dream Battle - まらしぃ
-🏅 Essence - takehirotei/HowToPlayLN
 🏅 Running in the Night - FM-84/Ollie Wride
+🏅 Into Your Daydream (Intro) - Shirfine
 ```
 
 <!-- netease-music-box end -->

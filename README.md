@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Nightbreak - void
-🥈 И00. - Se-U-Ra
-🥉 少女眠想曲　～ Dream Battle - まらしぃ
-🏅 Running in the Night - FM-84/Ollie Wride
-🏅 Into Your Daydream (Intro) - Shirfine
+🥇 Running in the Night - FM-84/Ollie Wride
+🥈 Into Your Daydream (Intro) - Shirfine
+🥉 オマエら声ちっちゃいんじゃ - DJ Myosuke/KAJI
+🏅 ミゼラブルの雫(with senya) - 幽閉サテライト
+🏅 Nightbreak - void
 ```
 
 <!-- netease-music-box end -->

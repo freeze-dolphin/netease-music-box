@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 オマエら声ちっちゃいんじゃ - DJ Myosuke/KAJI
-🥈 Nightbreak - void
-🥉 少女眠想曲　～ Dream Battle - まらしぃ
-🏅 Running in the Night - FM-84/Ollie Wride
-🏅 Into Your Daydream (Intro) - Shirfine
+🥇 炎歌 -ほむらうた- - 森山愛子/SEGA Sound Team
+🥈 ミゼラブルの雫(with senya) - 幽閉サテライト
+🥉 Nightbreak - void
+🏅 少女眠想曲　～ Dream Battle - まらしぃ
+🏅 KARUHA - 伊藤賢
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 終の舞姫(Extended Mix) - Se-U-Ra
-🥈 炎歌 -ほむらうた- - 森山愛子/SEGA Sound Team
-🥉 ミゼラブルの雫(with senya) - 幽閉サテライト
-🏅 Nightbreak - void
-🏅 少女眠想曲　～ Dream Battle - まらしぃ
+🥈 И00. - Se-U-Ra
+🥉 Nightbreak - void
+🏅 Necroxus (Extended Mix) - Se-U-Ra
+🏅 Once Upon A Time (House Extended Mix) - Max Oazo/Moonessa
 ```
 
 <!-- netease-music-box end -->

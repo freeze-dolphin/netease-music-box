@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 終の舞姫(Extended Mix) - Se-U-Ra
-🥈 И00. - Se-U-Ra
-🥉 Nightbreak - void
-🏅 Necroxus (Extended Mix) - Se-U-Ra
-🏅 Once Upon A Time (House Extended Mix) - Max Oazo/Moonessa
+🥈 Nightbreak - void
+🥉 И00. - Se-U-Ra
+🏅 Essence - takehirotei/HowToPlayLN
+🏅 astranélique - 黒皇帝/kanemiko
 ```
 
 <!-- netease-music-box end -->

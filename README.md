@@ -8,8 +8,8 @@
 🥇 終の舞姫(Extended Mix) - Se-U-Ra
 🥈 И00. - Se-U-Ra
 🥉 Nightbreak - void
-🏅 Essence - takehirotei/HowToPlayLN
 🏅 DRG - onoken
+🏅 astranélique - 黒皇帝/kanemiko
 ```
 
 <!-- netease-music-box end -->

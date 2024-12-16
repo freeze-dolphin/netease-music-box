@@ -8,8 +8,8 @@
 🥇 終の舞姫(Extended Mix) - Se-U-Ra
 🥈 И00. - Se-U-Ra
 🥉 Nightbreak - void
-🏅 Albion - 浅羽ロキ
-🏅 DRG - onoken
+🏅 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
+🏅 Deep forest where a dragon sleeps - K2 SOUND
 ```
 
 <!-- netease-music-box end -->

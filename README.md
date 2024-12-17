@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 終の舞姫(Extended Mix) - Se-U-Ra
-🥈 И00. - Se-U-Ra
-🥉 Nightbreak - void
-🏅 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
-🏅 Deep forest where a dragon sleeps - K2 SOUND
+🥇 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
+🥈 Deep forest where a dragon sleeps - K2 SOUND
+🥉 Unknown Civilization - Laur
+🏅 Sypha - Wisp X
+🏅 Nightbreak - void
 ```
 
 <!-- netease-music-box end -->

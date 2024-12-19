@@ -9,7 +9,7 @@
 🥈 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
 🥉 Deep forest where a dragon sleeps - K2 SOUND
 🏅 Unknown Civilization - Laur
-🏅 Sypha - Wisp X
+🏅 着包み - にほしか
 ```
 
 <!-- netease-music-box end -->

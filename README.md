@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 ウニクラゲ - 初音ミク/ずんだもん/なみぐる
-🥈 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
-🥉 Deep forest where a dragon sleeps - K2 SOUND
-🏅 Unknown Civilization - Laur
-🏅 着包み - にほしか
+🥈 着包み - にほしか
+🥉 ずんだもんの朝食　〜目覚ましずんラップ〜 - ひらうみ/ずんだもん
+🏅 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
+🏅 Deep forest where a dragon sleeps - K2 SOUND
 ```
 
 <!-- netease-music-box end -->

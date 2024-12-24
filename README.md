@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 ウニクラゲ - 初音ミク/ずんだもん/なみぐる
-🥈 着包み - にほしか
+🥈 可不ちゃんのカレーうどん狂騒曲 - 南ノ南/可不/ずんだもん
 🥉 ずんだもんの朝食　〜目覚ましずんラップ〜 - ひらうみ/ずんだもん
-🏅 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
-🏅 Deep forest where a dragon sleeps - K2 SOUND
+🏅 あなたは世界の終わりにずんだを食べるのだ - なみぐる/ずんだもん
+🏅 ラグトレイン 延误列车（俊达萌cover） - SCV11112/ずんだもん
 ```
 
 <!-- netease-music-box end -->

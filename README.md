@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 当原野的风拥抱我 - 知晏
-🥈 Кукушка - Полина Гагарина
-🥉 阆中之恋 - 姚贝娜/沙宝亮
-🏅 終の舞姫(Extended Mix) - Se-U-Ra
-🏅 雲流れ - みかん箱/Foxtail-Grass Studio
+🥈 雲流れ - みかん箱/Foxtail-Grass Studio
+🥉 遥か彼方 Remixed Svenson - Key Sounds Label
+🏅 Nightbreak - void
+🏅 少女眠想曲　～ Dream Battle - まらしぃ
 ```
 
 <!-- netease-music-box end -->

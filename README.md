@@ -5,7 +5,7 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 当原野的风拥抱我 - 知晏
+🥇 夜是秋月明 - 罗大佑
 🥈 雲流れ - みかん箱/Foxtail-Grass Studio
 🥉 遥か彼方 Remixed Svenson - Key Sounds Label
 🏅 Nightbreak - void

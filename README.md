@@ -8,8 +8,8 @@
 🥇 你的样子 - 林志炫
 🥈 夜是秋月明 - 罗大佑
 🥉 雲流れ - みかん箱/Foxtail-Grass Studio
-🏅 遥か彼方 Remixed Svenson - Key Sounds Label
-🏅 Nightbreak - void
+🏅 天使的眼泪 - 罗大佑/张震岳/周华健
+🏅 我的好兄弟（麻油氏再混音） - EBIMAYO
 ```
 
 <!-- netease-music-box end -->

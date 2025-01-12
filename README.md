@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 你的样子 - 林志炫
-🥈 夜是秋月明 - 罗大佑
-🥉 左手指月 - 萨顶顶
-🏅 挪威的森林 - 伍佰
-🏅 天使的眼泪 - 罗大佑/张震岳/周华健
+🥇 Spirit of the Dauntless - KO3/Relect
+🥈 你的样子 - 林志炫
+🥉 PRISTINE - Laur
+🏅 默 - 那英
+🏅 尘缘剪 - 音速行星/Sashenka
 ```
 
 <!-- netease-music-box end -->

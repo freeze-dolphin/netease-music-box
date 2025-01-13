@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Spirit of the Dauntless - KO3/Relect
-🥈 你的样子 - 林志炫
-🥉 PRISTINE - Laur
-🏅 默 - 那英
-🏅 尘缘剪 - 音速行星/Sashenka
+🥈 Fervidex - Feryquitous
+🥉 Arctic Embrace - void
+🏅 PRISTINE - Laur
+🏅 你的样子 - 林志炫
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Spirit of the Dauntless - KO3/Relect
-🥈 Fervidex - Feryquitous
-🥉 Arctic Embrace - void
-🏅 PRISTINE - Laur
-🏅 你的样子 - 林志炫
+🥈 Lunar Express (Original Mix) - Bernis
+🥉 Hypnotize - rejection
+🏅 Fervidex - Feryquitous
+🏅 Virtual Sanctuary - Getty/DJ DiA/USAO
 ```
 
 <!-- netease-music-box end -->

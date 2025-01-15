@@ -7,9 +7,9 @@
 ```text
 🥇 Spirit of the Dauntless - KO3/Relect
 🥈 Lunar Express (Original Mix) - Bernis
-🥉 Hypnotize - rejection
-🏅 Fervidex - Feryquitous
-🏅 Virtual Sanctuary - Getty/DJ DiA/USAO
+🥉 Fervidex - Feryquitous
+🏅 Arctic Embrace - void
+🏅 PRISTINE - Laur
 ```
 
 <!-- netease-music-box end -->

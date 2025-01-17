@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Spirit of the Dauntless - KO3/Relect
-🥈 Lunar Express (Original Mix) - Bernis
-🥉 Fervidex - Feryquitous
-🏅 Arctic Embrace - void
-🏅 PRISTINE - Laur
+🥇 Arctic Embrace - void
+🥈 Spirit of the Dauntless - KO3/Relect
+🥉 Lunar Express (Original Mix) - Bernis
+🏅 Pure Ruby - SHIKI
+🏅 Oriens (Original Mix) - Taishi
 ```
 
 <!-- netease-music-box end -->

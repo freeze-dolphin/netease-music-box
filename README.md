@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Unterhimmel - Taishi
+🥇 Lunar Express (Original Mix) - Bernis
 🥈 Arctic Embrace - void
-🥉 Lunar Express (Original Mix) - Bernis
+🥉 Unterhimmel - Taishi
 🏅 Spirit of the Dauntless - KO3/Relect
 🏅 Pure Ruby - SHIKI
 ```

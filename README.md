@@ -8,8 +8,8 @@
 🥇 Lunar Express (Original Mix) - Bernis
 🥈 Arctic Embrace - void
 🥉 Unterhimmel - Taishi
-🏅 Spirit of the Dauntless - KO3/Relect
 🏅 Pure Ruby - SHIKI
+🏅 Personalizer - みとせのりこ/Taishi
 ```
 
 <!-- netease-music-box end -->

@@ -9,7 +9,7 @@
 🥈 Unterhimmel - Taishi
 🥉 Arctic Embrace - void
 🏅 Pure Ruby - SHIKI
-🏅 Personalizer - みとせのりこ/Taishi
+🏅 情人 - 刀郎
 ```
 
 <!-- netease-music-box end -->

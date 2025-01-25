@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Oriens (Original Mix) - Taishi
-🥈 Unterhimmel - Taishi
-🥉 Arctic Embrace - void
-🏅 Pure Ruby - SHIKI
-🏅 情人 - 刀郎
+🥇 Unterhimmel - Taishi
+🥈 Oriens (Original Mix) - Taishi
+🥉 Personalizer - みとせのりこ/Taishi
+🏅 Lunar Express (Original Mix) - Bernis
+🏅 horizon effect - CODE ZTS LABEL
 ```
 
 <!-- netease-music-box end -->

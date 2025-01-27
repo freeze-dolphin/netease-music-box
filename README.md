@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Oriens (Original Mix) - Taishi
-🥈 雨道 - Otokaze
-🥉 KIZUNA - Otokaze/Kumagai Maya
-🏅 horizon effect - CODE ZTS LABEL
-🏅 Unterhimmel - Taishi
+🥇 Die For You - VALORANT/Grabbitz
+🥈 Oriens (Original Mix) - Taishi
+🥉 雨道 - Otokaze
+🏅 Abyss - Kirara Magic
+🏅 KIZUNA - Otokaze/Kumagai Maya
 ```
 
 <!-- netease-music-box end -->

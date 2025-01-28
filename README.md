@@ -7,9 +7,9 @@
 ```text
 🥇 Die For You - VALORANT/Grabbitz
 🥈 Oriens (Original Mix) - Taishi
-🥉 雨道 - Otokaze
-🏅 Abyss - Kirara Magic
-🏅 KIZUNA - Otokaze/Kumagai Maya
+🥉 Abyss - Kirara Magic
+🏅 Villain (Take the Shot) - VALORANT/Barns Courtney/ARB4/Eytan Peled
+🏅 horizon effect - CODE ZTS LABEL
 ```
 
 <!-- netease-music-box end -->

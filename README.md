@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Die For You - VALORANT/Grabbitz
-🥈 Oriens (Original Mix) - Taishi
-🥉 Abyss - Kirara Magic
-🏅 Villain (Take the Shot) - VALORANT/Barns Courtney/ARB4/Eytan Peled
-🏅 horizon effect - CODE ZTS LABEL
+🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
+🥉 The Invasion - NEIKA
+🏅 張り詰めた時 - Angel Note/井ノ原智
+🏅 It's a HORI style! - Famishin/Angel Note
 ```
 
 <!-- netease-music-box end -->

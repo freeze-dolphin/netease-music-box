@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Die For You - VALORANT/Grabbitz
-🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
-🥉 The Invasion - NEIKA
-🏅 張り詰めた時 - Angel Note/井ノ原智
-🏅 It's a HORI style! - Famishin/Angel Note
+🥈 The Invasion - NEIKA
+🥉 REFLECTION - XH/KYURO3/YUTRAZIUM
+🏅 sanctuary - DM DOKURO
+🏅 月童 - 戸越まごめ
 ```
 
 <!-- netease-music-box end -->

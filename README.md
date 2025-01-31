@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Die For You - VALORANT/Grabbitz
-🥈 The Invasion - NEIKA
-🥉 REFLECTION - XH/KYURO3/YUTRAZIUM
+🥇 The Invasion - NEIKA
+🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
+🥉 Die For You - VALORANT/Grabbitz
 🏅 sanctuary - DM DOKURO
 🏅 月童 - 戸越まごめ
 ```

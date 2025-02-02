@@ -9,7 +9,7 @@
 🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
 🥉 Die For You - VALORANT/Grabbitz
 🏅 sanctuary - DM DOKURO
-🏅 月童 - 戸越まごめ
+🏅 Abyss - Kirara Magic
 ```
 
 <!-- netease-music-box end -->

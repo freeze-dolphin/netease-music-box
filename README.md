@@ -7,8 +7,8 @@
 ```text
 🥇 The Invasion - NEIKA
 🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
-🥉 Die For You - VALORANT/Grabbitz
-🏅 sanctuary - DM DOKURO
+🥉 sanctuary - DM DOKURO
+🏅 Die For You - VALORANT/Grabbitz
 🏅 Abyss - Kirara Magic
 ```
 

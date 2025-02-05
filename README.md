@@ -7,9 +7,9 @@
 ```text
 🥇 The Invasion - NEIKA
 🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
-🥉 sanctuary - DM DOKURO
-🏅 Die For You - VALORANT/Grabbitz
-🏅 Abyss - Kirara Magic
+🥉 Blossoms - Noshi
+🏅 Aestivalis - LV.4
+🏅 張り詰めた時 - Angel Note/井ノ原智
 ```
 
 <!-- netease-music-box end -->

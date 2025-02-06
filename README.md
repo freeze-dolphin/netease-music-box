@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 The Invasion - NEIKA
-🥈 REFLECTION - XH/KYURO3/YUTRAZIUM
-🥉 Blossoms - Noshi
-🏅 Aestivalis - LV.4
-🏅 張り詰めた時 - Angel Note/井ノ原智
+🥇 Blossoms - Noshi
+🥈 Aestivalis - LV.4
+🥉 Fallen Angels - PHONO RECORDS/Salty Salt
+🏅 森羅清浄事祓 - 志方あきこ
+🏅 horizon effect - CODE ZTS LABEL
 ```
 
 <!-- netease-music-box end -->

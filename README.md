@@ -6,8 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Blossoms - Noshi
-🥈 森羅清浄事祓 - 志方あきこ
-🥉 horizon effect - CODE ZTS LABEL
+🥈 horizon effect - CODE ZTS LABEL
+🥉 森羅清浄事祓 - 志方あきこ
 🏅 Altersist (feat. えば) - void
 🏅 Arctic Embrace - void
 ```

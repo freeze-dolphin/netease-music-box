@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Blossoms - Noshi
-🥈 Goodbye - Chubby Chech
-🥉 horizon effect - CODE ZTS LABEL
-🏅 Idealized Romance - void
-🏅 口水旋律vol.68 - 纯爱川
+🥇 Isha Hua Hai Mujhe - Ragasur
+🥈 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
+🥉 Goodbye - Chubby Chech
+🏅 Khurdura Pyaar - Ragasur
+🏅 Blossoms - Noshi
 ```
 
 <!-- netease-music-box end -->

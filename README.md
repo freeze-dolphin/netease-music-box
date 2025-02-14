@@ -7,8 +7,8 @@
 ```text
 🥇 Isha Hua Hai Mujhe - Ragasur
 🥈 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
-🥉 Goodbye - Chubby Chech
-🏅 Khurdura Pyaar - Ragasur
+🥉 Spirit of the Dauntless - KO3/Relect
+🏅 秋姉妹のなく顷に in the autumn sky - ばんばんしー
 🏅 Blossoms - Noshi
 ```
 

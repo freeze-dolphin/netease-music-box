@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Isha Hua Hai Mujhe - Ragasur
-🥈 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
-🥉 Spirit of the Dauntless - KO3/Relect
+🥈 朱隠し - 志方あきこ
+🥉 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
+🏅 森羅清浄事祓 - 志方あきこ
 🏅 秋姉妹のなく顷に in the autumn sky - ばんばんしー
-🏅 Blossoms - Noshi
 ```
 
 <!-- netease-music-box end -->

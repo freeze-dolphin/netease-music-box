@@ -9,7 +9,7 @@
 🥈 朱隠し - 志方あきこ
 🥉 森羅清浄事祓 - 志方あきこ
 🏅 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
-🏅 秋姉妹のなく顷に in the autumn sky - ばんばんしー
+🏅 Spirit of the Dauntless - KO3/Relect
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 Isha Hua Hai Mujhe - Ragasur
 🥈 朱隠し - 志方あきこ
 🥉 森羅清浄事祓 - 志方あきこ
+🏅 PRISTINE - Laur
 🏅 你若三冬来换我一场雪白（想吃广东菜DJ） - 秦末
-🏅 Spirit of the Dauntless - KO3/Relect
 ```
 
 <!-- netease-music-box end -->

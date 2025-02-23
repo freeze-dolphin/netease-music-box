@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 朱隠し - 志方あきこ
-🥈 Imitation of Our History - Taishi
-🥉 Spirit of the Dauntless - KO3/Relect
-🏅 Pure Ruby - SHIKI
-🏅 森羅清浄事祓 - 志方あきこ
+🥇 Spirit of the Dauntless - KO3/Relect
+🥈 Pure Ruby - SHIKI
+🥉 Song of the Forest - Wisp X
+🏅 Imitation of Our History - Taishi
+🏅 lastendconductor - CODE ZTS LABEL
 ```
 
 <!-- netease-music-box end -->

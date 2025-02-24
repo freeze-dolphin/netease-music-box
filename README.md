@@ -7,9 +7,9 @@
 ```text
 🥇 Spirit of the Dauntless - KO3/Relect
 🥈 Pure Ruby - SHIKI
-🥉 Song of the Forest - Wisp X
-🏅 Imitation of Our History - Taishi
-🏅 lastendconductor - CODE ZTS LABEL
+🥉 Rose Quartz - SHIKI
+🏅 The Blue Sanctuary - みとせのりこ/Taishi
+🏅 Song of the Forest - Wisp X
 ```
 
 <!-- netease-music-box end -->

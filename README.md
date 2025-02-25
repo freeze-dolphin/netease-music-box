@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Spirit of the Dauntless - KO3/Relect
-🥈 Pure Ruby - SHIKI
-🥉 Rose Quartz - SHIKI
+🥈 Rose Quartz - SHIKI
+🥉 Pure Ruby - SHIKI
 🏅 The Blue Sanctuary - みとせのりこ/Taishi
-🏅 Song of the Forest - Wisp X
+🏅 恋詠桜 (Full ver.) [feat. 柊莉杏] - loos/柊莉杏
 ```
 
 <!-- netease-music-box end -->

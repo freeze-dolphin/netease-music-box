@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Pure Ruby - SHIKI
-🥈 恋詠桜 (Full ver.) [feat. 柊莉杏] - loos/柊莉杏
-🥉 Song of the Forest - Wisp X
-🏅 lastendconductor - CODE ZTS LABEL
-🏅 Под луной（月光下）Slap House - 7Revive
+🥇 恋詠桜 (Full ver.) [feat. 柊莉杏] - loos/柊莉杏
+🥈 Song of the Forest - Wisp X
+🥉 Под луной（月光下）Slap House - 7Revive
+🏅 Spirit of the Dauntless - KO3/Relect
+🏅 Pure Ruby - SHIKI
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 Chasing - Mameyudoufu/星名はる
 🥈 恋詠桜 (Full ver.) [feat. 柊莉杏] - loos/柊莉杏
-🥉 Lucy, The God Of Time (feat. Sakuzyo) - Codly/削除
-🏅 Arise - Au5
-🏅 RoquiRa : Between Life and Death - Raphiiel
+🥉 Arise - Au5
+🏅 Lucy, The God Of Time (feat. Sakuzyo) - Codly/削除
+🏅 森羅清浄事祓 - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

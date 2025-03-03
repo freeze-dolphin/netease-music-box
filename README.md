@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Chasing - Mameyudoufu/星名はる
-🥈 恋詠桜 (Full ver.) [feat. 柊莉杏] - loos/柊莉杏
-🥉 Arise - Au5
-🏅 Lucy, The God Of Time (feat. Sakuzyo) - Codly/削除
-🏅 森羅清浄事祓 - 志方あきこ
+🥈 Arise - Au5
+🥉 Lucy, The God Of Time (feat. Sakuzyo) - Codly/削除
+🏅 Под луной（月光下）Slap House - 7Revive
+🏅 RoquiRa : Between Life and Death - Raphiiel
 ```
 
 <!-- netease-music-box end -->

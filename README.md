@@ -7,9 +7,9 @@
 ```text
 🥇 Chasing - Mameyudoufu/星名はる
 🥈 Arise - Au5
-🥉 Lucy, The God Of Time (feat. Sakuzyo) - Codly/削除
-🏅 RoquiRa : Between Life and Death - Raphiiel
-🏅 Piercing Snowflake, Water Shield & Blurred Moon (feat. Da Wi-Fi) - Codly/Da Wi-Fi
+🥉 Straight into the lights - Cosmograph
+🏅 Tomorrow - YellowCheese/维度坍缩/Hilarity Leap Records/Memory Remodeling Records
+🏅 ͟͝͞Ⅱ́̕ - Cytus
 ```
 
 <!-- netease-music-box end -->

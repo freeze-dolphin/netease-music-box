@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Children - Robert Miles
-🥈 Endospore - 塞壬唱片-MSR/Gareth Coker
-🥉 風音 ～kasane～ - 仲村芽衣子
+🥇 風の住む街（风居住的街道） - 磯村由紀子
+🥈 Children - Robert Miles
+🥉 Endospore - 塞壬唱片-MSR/Gareth Coker
+🏅 風音 ～kasane～ - 仲村芽衣子
 🏅 graduation - 電気式華憐音楽集団
-🏅 Song of the Forest - Wisp X
 ```
 
 <!-- netease-music-box end -->

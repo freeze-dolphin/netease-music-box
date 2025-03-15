@@ -7,9 +7,9 @@
 ```text
 🥇 風の住む街（风居住的街道） - 磯村由紀子
 🥈 草原の涙（草原的眼泪） - 磯村由紀子
-🥉 暁 - 志方あきこ
-🏅 夜桜吹雪 -灼- - A.SAKA
+🥉 夜桜吹雪 -灼- - A.SAKA
 🏅 graduation - 電気式華憐音楽集団
+🏅 EXEC_CHRONICLE_KEY/. - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

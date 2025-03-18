@@ -7,9 +7,9 @@
 ```text
 🥇 風の住む街（风居住的街道） - 磯村由紀子
 🥈 草原の涙（草原的眼泪） - 磯村由紀子
-🥉 Storm of Autumn（秋天的暴风雨） - 磯村由紀子
-🏅 青の夜明け（青色的拂晓） - 磯村由紀子
-🏅 夜桜吹雪 -灼- - A.SAKA
+🥉 Luna Chronicle - Srezcat
+🏅 Storm of Autumn（秋天的暴风雨） - 磯村由紀子
+🏅 サクラ（樱花盛开） - 磯村由紀子
 ```
 
 <!-- netease-music-box end -->

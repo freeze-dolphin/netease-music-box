@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 風の住む街（风居住的街道） - 磯村由紀子
-🥈 草原の涙（草原的眼泪） - 磯村由紀子
+🥇 草原の涙（草原的眼泪） - 磯村由紀子
+🥈 風の住む街（风居住的街道） - 磯村由紀子
 🥉 Luna Chronicle - Srezcat
+🏅 EXEC_CHRONICLE_KEY/. - 志方あきこ
 🏅 Storm of Autumn（秋天的暴风雨） - 磯村由紀子
-🏅 サクラ（樱花盛开） - 磯村由紀子
 ```
 
 <!-- netease-music-box end -->

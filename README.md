@@ -7,9 +7,9 @@
 ```text
 🥇 草原の涙（草原的眼泪） - 磯村由紀子
 🥈 風の住む街（风居住的街道） - 磯村由紀子
-🥉 Luna Chronicle - Srezcat
-🏅 EXEC_CHRONICLE_KEY/. - 志方あきこ
-🏅 Storm of Autumn（秋天的暴风雨） - 磯村由紀子
+🥉 暁 - 志方あきこ
+🏅 Pure Ruby - SHIKI
+🏅 Luna Chronicle - Srezcat
 ```
 
 <!-- netease-music-box end -->

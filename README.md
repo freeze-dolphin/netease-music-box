@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 草原の涙（草原的眼泪） - 磯村由紀子
-🥈 風の住む街（风居住的街道） - 磯村由紀子
-🥉 暁 - 志方あきこ
-🏅 Pure Ruby - SHIKI
-🏅 Luna Chronicle - Srezcat
+🥇 Class Memories - Antistar/Ctymax
+🥈 草原の涙（草原的眼泪） - 磯村由紀子
+🥉 風の住む街（风居住的街道） - 磯村由紀子
+🏅 Lumina - Wisp X/Xomu
+🏅 暁 - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

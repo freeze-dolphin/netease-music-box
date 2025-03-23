@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Class Memories - Antistar/Ctymax
-🥈 Lumina - Wisp X/Xomu
-🥉 草原の涙（草原的眼泪） - 磯村由紀子
-🏅 波隙漂浮 - JINGYAN
-🏅 サクラ（樱花盛开） - 磯村由紀子
+🥇 Lumina - Wisp X/Xomu
+🥈 Class Memories - Antistar/Ctymax
+🥉 波隙漂浮 - JINGYAN
+🏅 草原の涙（草原的眼泪） - 磯村由紀子
+🏅 暁 - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

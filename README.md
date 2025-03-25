@@ -9,7 +9,7 @@
 🥈 波隙漂浮 - JINGYAN
 🥉 Lumina - Wisp X/Xomu
 🏅 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
-🏅 草原の涙（草原的眼泪） - 磯村由紀子
+🏅 鳴石碑 - Feryquitous
 ```
 
 <!-- netease-music-box end -->

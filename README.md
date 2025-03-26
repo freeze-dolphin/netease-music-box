@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Class Memories - Antistar/Ctymax
-🥈 波隙漂浮 - JINGYAN
-🥉 Lumina - Wisp X/Xomu
-🏅 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
+🥇 波隙漂浮 - JINGYAN
+🥈 Lumina - Wisp X/Xomu
+🥉 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
 🏅 鳴石碑 - Feryquitous
+🏅 暁 - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

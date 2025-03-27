@@ -9,7 +9,7 @@
 🥈 Lumina - Wisp X/Xomu
 🥉 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
 🏅 鳴石碑 - Feryquitous
-🏅 暁 - 志方あきこ
+🏅 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
 ```
 
 <!-- netease-music-box end -->

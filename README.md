@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 波隙漂浮 - JINGYAN
-🥈 Lumina - Wisp X/Xomu
-🥉 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
-🏅 鳴石碑 - Feryquitous
+🥇 鳴石碑 - Feryquitous
+🥈 波隙漂浮 - JINGYAN
+🥉 Class Memories - Antistar/Ctymax
+🏅 Diaphanser - Taishi/IA
 🏅 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
 ```
 

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 鳴石碑 - Feryquitous
-🥈 波隙漂浮 - JINGYAN
-🥉 Class Memories - Antistar/Ctymax
-🏅 Diaphanser - Taishi/IA
-🏅 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
+🥇 Fallin Snow - SHIHO/Taishi
+🥈 an evening calm  -crossroads version- - fripSide
+🥉 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
+🏅 Rose Quartz - SHIKI
+🏅 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
 ```
 
 <!-- netease-music-box end -->

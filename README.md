@@ -8,8 +8,8 @@
 🥇 Fallin Snow - SHIHO/Taishi
 🥈 an evening calm  -crossroads version- - fripSide
 🥉 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
-🏅 Rose Quartz - SHIKI
 🏅 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
+🏅 Dye the sky. - シャイニーカラーズ
 ```
 
 <!-- netease-music-box end -->

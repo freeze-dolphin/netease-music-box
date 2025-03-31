@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Fallin Snow - SHIHO/Taishi
-🥈 an evening calm  -crossroads version- - fripSide
-🥉 aLIEz (from SawanoHiroyuki[nZk] 10th Anniversary Studio Live) - SawanoHiroyuki[nZk]/MIZUKI
-🏅 Nameless Passion (feat. Sennzai) [Extend ver.] - 天束/Sennzai
-🏅 Dye the sky. - シャイニーカラーズ
+🥈 EON BREAK - Virtual Self
+🥉 an evening calm  -crossroads version- - fripSide
+🏅 Rose Quartz - SHIKI
+🏅 Luna Chronicle - Srezcat
 ```
 
 <!-- netease-music-box end -->

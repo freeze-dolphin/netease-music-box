@@ -7,9 +7,9 @@
 ```text
 🥇 Fallin Snow - SHIHO/Taishi
 🥈 EON BREAK - Virtual Self
-🥉 an evening calm  -crossroads version- - fripSide
-🏅 Rose Quartz - SHIKI
-🏅 Luna Chronicle - Srezcat
+🥉 Reverie for the Another Sphere - Taishi
+🏅 Strayer - Taishi
+🏅 twosome - ゆーな
 ```
 
 <!-- netease-music-box end -->

@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 EON BREAK - Virtual Self
-🥈 Reverie for the Another Sphere - Taishi
-🥉 Strayer - Taishi
-🏅 twosome - ゆーな
+🥇 Reverie for the Another Sphere - Taishi
+🥈 Strayer - Taishi
+🥉 twosome - ゆーな
+🏅 EON BREAK - Virtual Self
 🏅 an evening calm  -crossroads version- - fripSide
 ```
 

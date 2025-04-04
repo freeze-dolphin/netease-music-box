@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Reverie for the Another Sphere - Taishi
-🥈 Strayer - Taishi
-🥉 twosome - ゆーな
-🏅 EON BREAK - Virtual Self
-🏅 an evening calm  -crossroads version- - fripSide
+🥇 twosome - ゆーな
+🥈 EON BREAK - Virtual Self
+🥉 Rose Quartz - SHIKI
+🏅 Fallin Snow - SHIHO/Taishi
+🏅 Triad of Dryad - MYUKKE.
 ```
 
 <!-- netease-music-box end -->

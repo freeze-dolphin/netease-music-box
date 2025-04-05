@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 twosome - ゆーな
-🥈 EON BREAK - Virtual Self
-🥉 Rose Quartz - SHIKI
-🏅 Fallin Snow - SHIHO/Taishi
-🏅 Triad of Dryad - MYUKKE.
+🥇 Triad of Dryad - MYUKKE.
+🥈 Start To The End - Xeudo Code/LucaProject
+🥉 Kyoto - PIKASONIC
+🏅 Paradigm Shift - Fractal Dreamers
+🏅 EON BREAK - Virtual Self
 ```
 
 <!-- netease-music-box end -->

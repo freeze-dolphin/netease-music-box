@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Kyoto - PIKASONIC
-🥈 EON BREAK - Virtual Self
-🥉 Fallin Snow - SHIHO/Taishi
-🏅 Triad of Dryad - MYUKKE.
-🏅 Innocence (feat. Sennzai) - 無力P
+🥇 Triad of Dryad - MYUKKE.
+🥈 Kyoto - PIKASONIC
+🥉 twosome - ゆーな
+🏅 EON BREAK - Virtual Self
+🏅 Fallin Snow - SHIHO/Taishi
 ```
 
 <!-- netease-music-box end -->

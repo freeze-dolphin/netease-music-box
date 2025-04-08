@@ -7,9 +7,9 @@
 ```text
 🥇 Triad of Dryad - MYUKKE.
 🥈 Kyoto - PIKASONIC
-🥉 twosome - ゆーな
-🏅 EON BREAK - Virtual Self
-🏅 Fallin Snow - SHIHO/Taishi
+🥉 Start To The End - Xeudo Code/LucaProject
+🏅 Fracture Ray (しおじょワールド編) - Sta/削除
+🏅 twosome - ゆーな
 ```
 
 <!-- netease-music-box end -->

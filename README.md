@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Triad of Dryad - MYUKKE.
-🥈 Kyoto - PIKASONIC
-🥉 Start To The End - Xeudo Code/LucaProject
-🏅 Fracture Ray (しおじょワールド編) - Sta/削除
-🏅 twosome - ゆーな
+🥇 半壶纱 - 刘珂矣
+🥈 Fracture Ray (しおじょワールド編) - Sta/削除
+🥉 情人 - 刀郎
+🏅 EXEC_with.METHOD_METAFALICA - 霜月はるか/志方あきこ
+🏅 左手指月 - 萨顶顶
 ```
 
 <!-- netease-music-box end -->

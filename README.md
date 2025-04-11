@@ -7,9 +7,9 @@
 ```text
 🥇 半壶纱 - 刘珂矣
 🥈 Fracture Ray (しおじょワールド編) - Sta/削除
-🥉 情人 - 刀郎
+🥉 twosome - ゆーな
+🏅 情人 - 刀郎
 🏅 EXEC_with.METHOD_METAFALICA - 霜月はるか/志方あきこ
-🏅 左手指月 - 萨顶顶
 ```
 
 <!-- netease-music-box end -->

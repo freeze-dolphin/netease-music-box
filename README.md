@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 半壶纱 - 刘珂矣
-🥈 Fracture Ray (しおじょワールド編) - Sta/削除
-🥉 twosome - ゆーな
-🏅 情人 - 刀郎
-🏅 EXEC_with.METHOD_METAFALICA - 霜月はるか/志方あきこ
+🥇 Fracture Ray (しおじょワールド編) - Sta/削除
+🥈 EXEC_with.METHOD_METAFALICA - 霜月はるか/志方あきこ
+🥉 黄昏 - 周传雄
+🏅 去大理 - 郝云
+🏅 半壶纱 - 刘珂矣
 ```
 
 <!-- netease-music-box end -->

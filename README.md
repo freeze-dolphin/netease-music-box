@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 走天涯 - 卓雅
-🥈 Fracture Ray (しおじょワールド編) - Sta/削除
-🥉 黄昏 - 周传雄
-🏅 杀死那个石家庄人 - 万能青年旅店
+🥈 黄昏 - 周传雄
+🥉 杀死那个石家庄人 - 万能青年旅店
 🏅 去大理 - 郝云
+🏅 半壶纱 - 刘珂矣
 ```
 
 <!-- netease-music-box end -->

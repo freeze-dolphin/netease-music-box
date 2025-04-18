@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 姑娘我爱你 (DJ细霖版) - 小泽马丽颖/DJ细霖
-🥈 走天涯 - 卓雅
-🥉 黄昏 - 周传雄
-🏅 去大理 - 郝云
-🏅 半壶纱 - 刘珂矣
+🥇 Chronicle (Original Mix) - Taishi
+🥈 姑娘我爱你 (DJ细霖版) - 小泽马丽颖/DJ细霖
+🥉 走天涯 - 卓雅
+🏅 twosome - ゆーな
+🏅 黄昏 - 周传雄
 ```
 
 <!-- netease-music-box end -->

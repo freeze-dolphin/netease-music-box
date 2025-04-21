@@ -7,9 +7,9 @@
 ```text
 🥇 Chronicle (Original Mix) - Taishi
 🥈 twosome - ゆーな
-🥉 姑娘我爱你 (DJ细霖版) - 小泽马丽颖/DJ细霖
-🏅 走天涯 - 卓雅
+🥉 等一分钟（DJ版） - DJ阿崎Remix
 🏅 Reverie for the Another Sphere - Taishi
+🏅 半壶纱 - 刘珂矣
 ```
 
 <!-- netease-music-box end -->

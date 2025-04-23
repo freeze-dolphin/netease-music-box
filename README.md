@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Chronicle (Original Mix) - Taishi
-🥈 twosome - ゆーな
-🥉 等一分钟（DJ版） - DJ阿崎Remix
-🏅 Reverie for the Another Sphere - Taishi
-🏅 半壶纱 - 刘珂矣
+🥈 等一分钟（DJ版） - DJ阿崎Remix
+🥉 梦见サンライズ - 原田ひとみ/茅野愛衣/小倉唯
+🏅 打歌妹 - 群星
+🏅 One of Us - かたぎり
 ```
 
 <!-- netease-music-box end -->

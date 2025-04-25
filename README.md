@@ -8,8 +8,8 @@
 🥇 Chronicle (Original Mix) - Taishi
 🥈 梦见サンライズ - 原田ひとみ/茅野愛衣/小倉唯
 🥉 等一分钟（DJ版） - DJ阿崎Remix
-🏅 twosome - ゆーな
-🏅 Moon & Sun (off vocal) - Xomu
+🏅 茉子の日常 - 高森奈津美
+🏅 打歌妹 - 群星
 ```
 
 <!-- netease-music-box end -->

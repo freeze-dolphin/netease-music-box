@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Chronicle (Original Mix) - Taishi
-🥈 梦见サンライズ - 原田ひとみ/茅野愛衣/小倉唯
-🥉 等一分钟（DJ版） - DJ阿崎Remix
-🏅 茉子の日常 - 高森奈津美
+🥇 梦见サンライズ - 原田ひとみ/茅野愛衣/小倉唯
+🥈 等一分钟（DJ版） - DJ阿崎Remix
+🥉 茉子の日常 - 高森奈津美
 🏅 打歌妹 - 群星
+🏅 奏穹のラプソディア - 瑶山百霊
 ```
 
 <!-- netease-music-box end -->

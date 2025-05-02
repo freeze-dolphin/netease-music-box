@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 从头再来 - 刘欢
-🥈 奏穹のラプソディア - 瑶山百霊
-🥉 茉子の日常 - 高森奈津美
-🏅 回レ! 雪月花 - 原田ひとみ/茅野愛衣/小倉唯
-🏅 乱世巨星（DJ婷婷版） - 小雅
+🥇 乱世巨星（DJ婷婷版） - 小雅
+🥈 从头再来 - 刘欢
+🥉 On GOD - Meechy Darko/Freddie Gibbs/A-Trak
+🏅 奏穹のラプソディア - 瑶山百霊
+🏅 茉子の日常 - 高森奈津美
 ```
 
 <!-- netease-music-box end -->

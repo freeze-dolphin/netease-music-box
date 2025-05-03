@@ -9,7 +9,7 @@
 🥈 从头再来 - 刘欢
 🥉 On GOD - Meechy Darko/Freddie Gibbs/A-Trak
 🏅 奏穹のラプソディア - 瑶山百霊
-🏅 茉子の日常 - 高森奈津美
+🏅 テラ - 春猿火
 ```
 
 <!-- netease-music-box end -->

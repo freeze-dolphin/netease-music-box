@@ -9,7 +9,7 @@
 🥈 从头再来 - 刘欢
 🥉 On GOD - Meechy Darko/Freddie Gibbs/A-Trak
 🏅 奏穹のラプソディア - 瑶山百霊
-🏅 テラ - 春猿火
+🏅 Luminous Era - Laur
 ```
 
 <!-- netease-music-box end -->

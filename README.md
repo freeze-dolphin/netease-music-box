@@ -7,9 +7,9 @@
 ```text
 🥇 Luminous Era - Laur
 🥈 PRISTINE - Laur
-🥉 비행(飛行) - Warak
-🏅 Chronicle (Original Mix) - Taishi
-🏅 鳴神 - Laur
+🥉 鳴神 - Laur
+🏅 Spirit of the Dauntless - KO3/Relect
+🏅 Sound Chimera (Nyankovsky & Kobaryo Remix) - Laur/Kobaryo
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Luminous Era - Laur
-🥈 PRISTINE - Laur
-🥉 鳴神 - Laur
-🏅 Spirit of the Dauntless - KO3/Relect
-🏅 Sound Chimera (Nyankovsky & Kobaryo Remix) - Laur/Kobaryo
+🥈 Viyella's Malice - Laur
+🥉 Turn The Levels Up - Relianze
+🏅 SECRET;WEAPON (RiraN Remix) - RiraN
+🏅 Duck Duck Goose - CupcakKe
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Chronicle (Original Mix) - Taishi
-🥈 Seraph (Original Mix) - Taishi
-🥉 Glint In The Dark (Original Mix) - Taishi
+🥈 夏恋花火 百花繚乱 - Otokaze/東北きりたん
+🥉 Seraph (Original Mix) - Taishi
+🏅 Glint In The Dark (Original Mix) - Taishi
 🏅 Song for Every Innocence - 佐野しいな
-🏅 夏恋花火 百花繚乱 - Otokaze/東北きりたん
 ```
 
 <!-- netease-music-box end -->

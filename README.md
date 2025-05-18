@@ -8,8 +8,8 @@
 🥇 夏恋花火 百花繚乱 - Otokaze/東北きりたん
 🥈 Seraph (Original Mix) - Taishi
 🥉 Glint In The Dark (Original Mix) - Taishi
+🏅 月 -Yue- - Kozato snow
 🏅 Song for Every Innocence - 佐野しいな
-🏅 Chronicle (Original Mix) - Taishi
 ```
 
 <!-- netease-music-box end -->

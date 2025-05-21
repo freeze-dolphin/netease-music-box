@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 夏恋花火 百花繚乱 - Otokaze/東北きりたん
-🥈 月 -Yue- - Kozato snow
-🥉 桜霞の返し歌 (feat. 東北きりたん&花隈千冬&桜乃そら&花響 琴) - Fty/東北きりたん/花隈千冬
-🏅 Echoes of Memoria - Ludicin
-🏅 奢香夫人 - 凤凰传奇
+🥈 桜霞の返し歌 (feat. 東北きりたん&花隈千冬&桜乃そら&花響 琴) - Fty/東北きりたん/花隈千冬
+🥉 奢香夫人 - 凤凰传奇
+🏅 月 -Yue- - Kozato snow
+🏅 Breath of Ocean - Lunak
 ```
 
 <!-- netease-music-box end -->

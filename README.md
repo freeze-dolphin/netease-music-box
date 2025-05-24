@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Breath of Ocean - Lunak
-🥈 Inner Spark - Kirara Magic
-🥉 奢香夫人 - 凤凰传奇
-🏅 桜霞の返し歌 (feat. 東北きりたん&花隈千冬&桜乃そら&花響 琴) - Fty/東北きりたん/花隈千冬
-🏅 Live Fast Die Young (Extended Mix) - anubasu-anubasu
+🥇 桜霞の返し歌 (feat. 東北きりたん&花隈千冬&桜乃そら&花響 琴) - Fty/東北きりたん/花隈千冬
+🥈 Breath of Ocean - Lunak
+🥉 Live Fast Die Young (Extended Mix) - anubasu-anubasu
+🏅 Xomu - My Cos-Mic - Xomu
+🏅 Beyond - Feint/MYLK
 ```
 
 <!-- netease-music-box end -->

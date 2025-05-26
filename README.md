@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 桜霞の返し歌 (feat. 東北きりたん&花隈千冬&桜乃そら&花響 琴) - Fty/東北きりたん/花隈千冬
-🥈 Breath of Ocean - Lunak
-🥉 Live Fast Die Young (Extended Mix) - anubasu-anubasu
-🏅 Xomu - My Cos-Mic - Xomu
-🏅 Beyond - Feint/MYLK
+🥇 Live Fast Die Young (Extended Mix) - anubasu-anubasu
+🥈 Xomu - My Cos-Mic - Xomu
+🥉 Beyond - Feint/MYLK
+🏅 GigaChad Theme (Phonk House Version) - g3ox_em
+🏅 Eternity ft. Nathan Brumley (Extended Mix) - Silaver
 ```
 
 <!-- netease-music-box end -->

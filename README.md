@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Live Fast Die Young (Extended Mix) - anubasu-anubasu
-🥈 Xomu - My Cos-Mic - Xomu
-🥉 Beyond - Feint/MYLK
-🏅 GigaChad Theme (Phonk House Version) - g3ox_em
-🏅 Eternity ft. Nathan Brumley (Extended Mix) - Silaver
+🥇 散落飘零 - 一颗狼星
+🥈 Spring Comes Along - mican*
+🥉 祈长生 - 一颗狼星/逆水寒/逆水长琴/雷火音频
+🏅 繁星若尘(DJ版) - 一颗狼星
+🏅 万物生(国) - 萨顶顶
 ```
 
 <!-- netease-music-box end -->

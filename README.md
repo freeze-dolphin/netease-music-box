@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 散落飘零 - 一颗狼星
-🥈 Spring Comes Along - mican*
-🥉 祈长生 - 一颗狼星/逆水寒/逆水长琴/雷火音频
+🥇 祈长生 - 一颗狼星/逆水寒/逆水长琴/雷火音频
+🥈 万物生(国) - 萨顶顶
+🥉 散落飘零 - 一颗狼星
+🏅 不可说 - 苏运莹
 🏅 繁星若尘(DJ版) - 一颗狼星
-🏅 万物生(国) - 萨顶顶
 ```
 
 <!-- netease-music-box end -->

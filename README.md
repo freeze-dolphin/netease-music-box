@@ -8,8 +8,8 @@
 🥇 天另一侧 - 一颗狼星
 🥈 彼岸涂鸦 - 一颗狼星
 🥉 他乡望故乡 - 一颗狼星
-🏅 祈长生 - 一颗狼星/逆水寒/逆水长琴/雷火音频
-🏅 万物生(国) - 萨顶顶
+🏅 梦见你 - 周深
+🏅 Mother North (Part I) - Blastoyz/Technical Hitch
 ```
 
 <!-- netease-music-box end -->

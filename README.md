@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 天另一侧 - 一颗狼星
-🥈 彼岸涂鸦 - 一颗狼星
-🥉 他乡望故乡 - 一颗狼星
-🏅 梦见你 - 周深
-🏅 Mother North (Part I) - Blastoyz/Technical Hitch
+🥇 Mother North (Part I) - Blastoyz/Technical Hitch
+🥈 The Gorge (Extended Mix) - Jason Ross/Dimibo
+🥉 逍遥吟 - 庆庆
+🏅 天另一侧 - 一颗狼星
+🏅 他乡望故乡 - 一颗狼星
 ```
 
 <!-- netease-music-box end -->

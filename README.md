@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Mother North (Part I) - Blastoyz/Technical Hitch
-🥈 The Gorge (Extended Mix) - Jason Ross/Dimibo
-🥉 逍遥吟 - 庆庆
-🏅 天另一侧 - 一颗狼星
-🏅 他乡望故乡 - 一颗狼星
+🥇 Bright Lights - Lyctum
+🥈 Pantheon - Blastoyz/Dimibo/Jason Ross/Kill The Noise/Seven Lions/Trivecta/Wooli
+🥉 The Gorge (Extended Mix) - Jason Ross/Dimibo
+🏅 Mother North (Part I) - Blastoyz/Technical Hitch
+🏅 Inta Omri - Yahel
 ```
 
 <!-- netease-music-box end -->

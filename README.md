@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bright Lights - Lyctum
-🥈 Pantheon - Blastoyz/Dimibo/Jason Ross/Kill The Noise/Seven Lions/Trivecta/Wooli
-🥉 The Gorge (Extended Mix) - Jason Ross/Dimibo
-🏅 Mother North (Part I) - Blastoyz/Technical Hitch
-🏅 Inta Omri - Yahel
+🥈 The Gorge (Extended Mix) - Jason Ross/Dimibo
+🥉 Mother North (Part I) - Blastoyz/Technical Hitch
+🏅 Pantheon - Blastoyz/Dimibo/Jason Ross/Kill The Noise/Seven Lions/Trivecta/Wooli
+🏅 碧玉的江孜 - 钢琴曲 - 幽蓝键
 ```
 
 <!-- netease-music-box end -->

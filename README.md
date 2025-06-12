@@ -7,9 +7,9 @@
 ```text
 🥇 Bright Lights - Lyctum
 🥈 The Gorge (Extended Mix) - Jason Ross/Dimibo
-🥉 Mother North (Part I) - Blastoyz/Technical Hitch
-🏅 Pantheon - Blastoyz/Dimibo/Jason Ross/Kill The Noise/Seven Lions/Trivecta/Wooli
+🥉 Interlude (Original Mix) - Aura Vortex
 🏅 碧玉的江孜 - 钢琴曲 - 幽蓝键
+🏅 Inta Omri - Yahel
 ```
 
 <!-- netease-music-box end -->

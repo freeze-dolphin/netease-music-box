@@ -6,8 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bright Lights - Lyctum
-🥈 The Gorge (Extended Mix) - Jason Ross/Dimibo
-🥉 Interlude (Original Mix) - Aura Vortex
+🥈 Interlude (Original Mix) - Aura Vortex
+🥉 The Gorge (Extended Mix) - Jason Ross/Dimibo
 🏅 碧玉的江孜 - 钢琴曲 - 幽蓝键
 🏅 Inta Omri - Yahel
 ```

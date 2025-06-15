@@ -7,9 +7,9 @@
 ```text
 🥇 Bright Lights - Lyctum
 🥈 Interlude (Original Mix) - Aura Vortex
-🥉 The Gorge (Extended Mix) - Jason Ross/Dimibo
-🏅 碧玉的江孜 - 钢琴曲 - 幽蓝键
-🏅 Inta Omri - Yahel
+🥉 碧玉的江孜 - 钢琴曲 - 幽蓝键
+🏅 Who's They? - Hans Zimmer
+🏅 The Gorge (Extended Mix) - Jason Ross/Dimibo
 ```
 
 <!-- netease-music-box end -->

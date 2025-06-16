@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bright Lights - Lyctum
-🥈 Interlude (Original Mix) - Aura Vortex
-🥉 碧玉的江孜 - 钢琴曲 - 幽蓝键
-🏅 Who's They? - Hans Zimmer
-🏅 The Gorge (Extended Mix) - Jason Ross/Dimibo
+🥈 Who's They? - Hans Zimmer
+🥉 Interlude (Original Mix) - Aura Vortex
+🏅 End of Story - 削除
+🏅 Merry Christmas Mr. Lawrence - 坂本龍一
 ```
 
 <!-- netease-music-box end -->

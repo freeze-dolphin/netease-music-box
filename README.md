@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Who's They? - Hans Zimmer
-🥈 End of Story - 削除
-🥉 Merry Christmas Mr. Lawrence - 坂本龍一
-🏅 碧玉的江孜 - 钢琴曲 - 幽蓝键
-🏅 殻ノ少女 - MANYO
+🥇 Credits Closing Theme - Valve
+🥈 Credits / Closing Theme (Tracking Device) - Kelly Bailey
+🥉 Unstoppable (Frenzy Remix) - Frenzy
+🏅 Heathen - Sghenny
+🏅 Viyella's Malice - Laur
 ```
 
 <!-- netease-music-box end -->

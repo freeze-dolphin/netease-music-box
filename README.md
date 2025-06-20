@@ -9,7 +9,7 @@
 🥈 Credits / Closing Theme (Tracking Device) - Kelly Bailey
 🥉 Unstoppable (Frenzy Remix) - Frenzy
 🏅 Heathen - Sghenny
-🏅 Viyella's Malice - Laur
+🏅 last whisper (slos arrange) - sentive
 ```
 
 <!-- netease-music-box end -->

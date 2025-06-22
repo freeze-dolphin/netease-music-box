@@ -8,8 +8,8 @@
 🥇 Credits Closing Theme - Valve
 🥈 Credits / Closing Theme (Tracking Device) - Kelly Bailey
 🥉 last whisper (slos arrange) - sentive
-🏅 Unstoppable (Frenzy Remix) - Frenzy
 🏅 Fable (Dream Version) - Robert Miles
+🏅 Seraph (Original Mix) - Taishi
 ```
 
 <!-- netease-music-box end -->

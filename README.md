@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Credits Closing Theme - Valve
-🥈 Credits / Closing Theme (Tracking Device) - Kelly Bailey
-🥉 last whisper (slos arrange) - sentive
-🏅 Fable (Dream Version) - Robert Miles
+🥈 last whisper (slos arrange) - sentive
+🥉 Fable (Dream Version) - Robert Miles
 🏅 Seraph (Original Mix) - Taishi
+🏅 朱隠し - 志方あきこ
 ```
 
 <!-- netease-music-box end -->

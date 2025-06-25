@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Credits Closing Theme - Valve
-🥈 last whisper (slos arrange) - sentive
-🥉 Fable (Dream Version) - Robert Miles
-🏅 Seraph (Original Mix) - Taishi
+🥇 last whisper (slos arrange) - sentive
+🥈 Fable (Dream Version) - Robert Miles
+🥉 Seraph (Original Mix) - Taishi
 🏅 朱隠し - 志方あきこ
+🏅 Glint In The Dark (Original Mix) - Taishi
 ```
 
 <!-- netease-music-box end -->

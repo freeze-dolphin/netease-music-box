@@ -7,9 +7,9 @@
 ```text
 🥇 朱隠し - 志方あきこ
 🥈 How to Love - A-One
-🥉 last whisper (slos arrange) - sentive
-🏅 fairy stage - C-CLAYS
+🥉 fairy stage - C-CLAYS
 🏅 Fable (Dream Version) - Robert Miles
+🏅 Seraph (Original Mix) - Taishi
 ```
 
 <!-- netease-music-box end -->

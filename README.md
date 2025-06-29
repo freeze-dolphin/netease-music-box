@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 朱隠し - 志方あきこ
-🥈 How to Love - A-One
-🥉 fairy stage - C-CLAYS
-🏅 Fable (Dream Version) - Robert Miles
-🏅 Seraph (Original Mix) - Taishi
+🥇 碧玉的江孜 - 钢琴曲 - 幽蓝键
+🥈 Who's They? - Hans Zimmer
+🥉 Energizing Flame(Extended Mix) - Artifact/s-don
+🏅 One of Us - かたぎり
+🏅 Her Broken Smile - Deadlife/Tessa Hedrick
 ```
 
 <!-- netease-music-box end -->

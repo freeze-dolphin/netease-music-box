@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 碧玉的江孜 - 钢琴曲 - 幽蓝键
-🥈 Who's They? - Hans Zimmer
-🥉 Energizing Flame(Extended Mix) - Artifact/s-don
-🏅 One of Us - かたぎり
-🏅 Her Broken Smile - Deadlife/Tessa Hedrick
+🥇 On The Run - Timecop1983
+🥈 朱隠し - 志方あきこ
+🥉 Who's They? - Hans Zimmer
+🏅 Bright Lights - Lyctum
+🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
 ```
 
 <!-- netease-music-box end -->

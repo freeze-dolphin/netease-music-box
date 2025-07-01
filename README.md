@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 On The Run - Timecop1983
-🥈 朱隠し - 志方あきこ
-🥉 Who's They? - Hans Zimmer
-🏅 Bright Lights - Lyctum
+🥇 朱隠し - 志方あきこ
+🥈 Who's They? - Hans Zimmer
+🥉 Bright Lights - Lyctum
 🏅 Trip to Latvia - Dr. Peacock/Haralds Simanis
+🏅 Her Broken Smile - Deadlife/Tessa Hedrick
 ```
 
 <!-- netease-music-box end -->

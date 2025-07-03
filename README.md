@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bright Lights - Lyctum
-🥈 朱隠し - 志方あきこ
-🥉 Hello Earth (Original Mix) - Attila Syah/Gamma (Ind)
-🏅 I Live For That Energy (ASOT 800 Anthem) (Exis Extended Remix) - Armin van Buuren/Exis
-🏅 Who's They? - Hans Zimmer
+🥈 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
+🥉 Melt - Kirara Magic
+🏅 ディナーベル（Dinner Bell） - はるまきごはん
+🏅 Man On The Run (feat. Cerf, Mitiska & Jaren) (WHITENO1SE & System Nipel Remix) - Dash Berlin/WHITENO1SE/System Nipel/Cerf/Mitiska/Jaren
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 Bright Lights - Lyctum
 🥈 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
 🥉 Who's They? - Hans Zimmer
-🏅 Melt - Kirara Magic
-🏅 ディナーベル（Dinner Bell） - はるまきごはん
+🏅 Yo Ho Ho - Mr. Syncro
+🏅 Light in the Darkness - Mr. Syncro
 ```
 
 <!-- netease-music-box end -->

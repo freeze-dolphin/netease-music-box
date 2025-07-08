@@ -7,9 +7,9 @@
 ```text
 🥇 Bright Lights - Lyctum
 🥈 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
-🥉 Who's They? - Hans Zimmer
-🏅 Yo Ho Ho - Mr. Syncro
+🥉 Yo Ho Ho - Mr. Syncro
 🏅 Light in the Darkness - Mr. Syncro
+🏅 Melt - Kirara Magic
 ```
 
 <!-- netease-music-box end -->

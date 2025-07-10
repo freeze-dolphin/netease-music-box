@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Bright Lights - Lyctum
-🥈 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
+🥇 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
+🥈 タヌキ ~祭りの夜~ - KOKIA
 🥉 Yo Ho Ho - Mr. Syncro
 🏅 Light in the Darkness - Mr. Syncro
-🏅 Melt - Kirara Magic
+🏅 波隙漂浮 - JINGYAN
 ```
 
 <!-- netease-music-box end -->

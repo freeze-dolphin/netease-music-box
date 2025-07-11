@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Sadabchia - Elektrobear（Elektrobear / 警喷斑鸠 remix） - Elektrobear/警喷斑鸠
-🥈 タヌキ ~祭りの夜~ - KOKIA
-🥉 Yo Ho Ho - Mr. Syncro
-🏅 Light in the Darkness - Mr. Syncro
-🏅 波隙漂浮 - JINGYAN
+🥇 タヌキ ~祭りの夜~ - KOKIA
+🥈 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
+🥉 喀什噶尔胡杨 - 刀郎
+🏅 クマ ~くまおの初恋 クマったな~ - KOKIA
+🏅 Yo Ho Ho - Mr. Syncro
 ```
 
 <!-- netease-music-box end -->

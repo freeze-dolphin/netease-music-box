@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 タヌキ ~祭りの夜~ - KOKIA
-🥈 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
-🥉 喀什噶尔胡杨 - 刀郎
-🏅 クマ ~くまおの初恋 クマったな~ - KOKIA
-🏅 Yo Ho Ho - Mr. Syncro
+🥈 高原的孩子 - 云朵
+🥉 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
+🏅 喀什噶尔胡杨 - 刀郎
+🏅 Atlas (Extended Mix) - Nhato
 ```
 
 <!-- netease-music-box end -->

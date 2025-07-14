@@ -9,7 +9,7 @@
 🥈 高原的孩子 - 云朵
 🥉 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
 🏅 喀什噶尔胡杨 - 刀郎
-🏅 Atlas (Extended Mix) - Nhato
+🏅 西海情歌 - 刀郎
 ```
 
 <!-- netease-music-box end -->

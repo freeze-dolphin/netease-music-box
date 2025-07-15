@@ -9,7 +9,7 @@
 🥈 高原的孩子 - 云朵
 🥉 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
 🏅 喀什噶尔胡杨 - 刀郎
-🏅 西海情歌 - 刀郎
+🏅 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
 ```
 
 <!-- netease-music-box end -->

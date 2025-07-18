@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 タヌキ ~祭りの夜~ - KOKIA
-🥈 高原的孩子 - 云朵
-🥉 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
+🥇 高原的孩子 - 云朵
+🥈 タヌキ ~祭りの夜~ - KOKIA
+🥉 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
 🏅 喀什噶尔胡杨 - 刀郎
-🏅 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
+🏅 Horizons - Feint/Veela
 ```
 
 <!-- netease-music-box end -->

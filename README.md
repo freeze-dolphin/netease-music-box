@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 高原的孩子 - 云朵
-🥈 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
-🥉 タヌキ ~祭りの夜~ - KOKIA
-🏅 Horizons - Feint/Veela
+🥇 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
+🥈 高原的孩子 - 云朵
+🥉 Horizons - Feint/Veela
+🏅 惊蛰时 - 塞壬唱片-MSR/Ws Music
 🏅 Mystery Circles Ultra / U.U.F.O. - かめりあ
 ```
 

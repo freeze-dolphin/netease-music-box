@@ -7,9 +7,9 @@
 ```text
 🥇 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
 🥈 高原的孩子 - 云朵
-🥉 Horizons - Feint/Veela
-🏅 惊蛰时 - 塞壬唱片-MSR/Ws Music
-🏅 Mystery Circles Ultra / U.U.F.O. - かめりあ
+🥉 Dancin (Krono Extended Remix) - Aaron Smith
+🏅 Horizons - Feint/Veela
+🏅 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
 ```
 
 <!-- netease-music-box end -->

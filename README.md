@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
-🥈 高原的孩子 - 云朵
-🥉 Dancin (Krono Extended Remix) - Aaron Smith
-🏅 Horizons - Feint/Veela
-🏅 花畑のエリカ Feat.瑶山百霊 - Joulez/Yonder Voice
+🥈 Dancin (Krono Extended Remix) - Aaron Smith
+🥉 タヌキ ~祭りの夜~ - KOKIA
+🏅 비행(飛行) - Warak
+🏅 惊蛰时 - 塞壬唱片-MSR/Ws Music
 ```
 
 <!-- netease-music-box end -->

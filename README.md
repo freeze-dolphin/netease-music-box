@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Electromagnetic Stealth Girl Born In Philadelphia - かめりあ
-🥈 Dancin (Krono Extended Remix) - Aaron Smith
-🥉 タヌキ ~祭りの夜~ - KOKIA
-🏅 비행(飛行) - Warak
-🏅 惊蛰时 - 塞壬唱片-MSR/Ws Music
+🥇 Dancin (Krono Extended Remix) - Aaron Smith
+🥈 ゆのこと - sakanauosakana
+🥉 비행(飛行) - Warak
+🏅 Vogel im Kafig - 澤野弘之/Cyua
+🏅 In the Air Tonight - Phil Collins
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 Dancin (Krono Extended Remix) - Aaron Smith
 🥈 ゆのこと - sakanauosakana
-🥉 비행(飛行) - Warak
-🏅 Vogel im Kafig - 澤野弘之/Cyua
-🏅 In the Air Tonight - Phil Collins
+🥉 白雪 ~sirayuki~ - とのん/黒うさP
+🏅 タヌキ ~祭りの夜~ - KOKIA
+🏅 비행(飛行) - Warak
 ```
 
 <!-- netease-music-box end -->

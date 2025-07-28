@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Dancin (Krono Extended Remix) - Aaron Smith
-🥈 ゆのこと - sakanauosakana
-🥉 白雪 ~sirayuki~ - とのん/黒うさP
-🏅 タヌキ ~祭りの夜~ - KOKIA
-🏅 비행(飛行) - Warak
+🥇 ゆのこと - sakanauosakana
+🥈 白雪 ~sirayuki~ - とのん/黒うさP
+🥉 Dancin (Krono Extended Remix) - Aaron Smith
+🏅 In the Air Tonight - Phil Collins
+🏅 呗の岛 - やなわらばー
 ```
 
 <!-- netease-music-box end -->

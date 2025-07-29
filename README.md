@@ -7,7 +7,7 @@
 ```text
 🥇 ゆのこと - sakanauosakana
 🥈 白雪 ~sirayuki~ - とのん/黒うさP
-🥉 Dancin (Krono Extended Remix) - Aaron Smith
+🥉 Sound Chimera - Laur
 🏅 In the Air Tonight - Phil Collins
 🏅 呗の岛 - やなわらばー
 ```

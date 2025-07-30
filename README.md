@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 ゆのこと - sakanauosakana
-🥈 白雪 ~sirayuki~ - とのん/黒うさP
-🥉 Sound Chimera - Laur
-🏅 In the Air Tonight - Phil Collins
-🏅 呗の岛 - やなわらばー
+🥇 呗の岛 - やなわらばー
+🥈 夏夜~NACHIYU~ - 神谷千寻
+🥉 弥勒世果報 - undercooled - うないぐみ
+🏅 わらべ唄 - 二階堂和美
+🏅 VA - An
 ```
 
 <!-- netease-music-box end -->

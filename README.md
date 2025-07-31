@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 呗の岛 - やなわらばー
-🥈 夏夜~NACHIYU~ - 神谷千寻
-🥉 弥勒世果報 - undercooled - うないぐみ
-🏅 わらべ唄 - 二階堂和美
-🏅 VA - An
+🥇 Louder - Laur
+🥈 Silence (Original Mix) - Levenkhan
+🥉 Redemption - Billx/Fortanoiza/MC Prime
+🏅 Na Le (Levenkhan Frenchcore Bootleg) - Levenkhan/Omiki
+🏅 Dying Light (Original Mix) - Mr. Ivex/Levenkhan
 ```
 
 <!-- netease-music-box end -->

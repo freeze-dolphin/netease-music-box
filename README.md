@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Louder - Laur
-🥈 Silence (Original Mix) - Levenkhan
-🥉 Redemption - Billx/Fortanoiza/MC Prime
-🏅 Na Le (Levenkhan Frenchcore Bootleg) - Levenkhan/Omiki
-🏅 Dying Light (Original Mix) - Mr. Ivex/Levenkhan
+🥇 寝た子を起こす子守唄 - 小川範子
+🥈 Louder - Laur
+🥉 My Milkshake - Mass Destruct!on
+🏅 Silence (Original Mix) - Levenkhan
+🏅 Redemption - Billx/Fortanoiza/MC Prime
 ```
 
 <!-- netease-music-box end -->

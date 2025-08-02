@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 寝た子を起こす子守唄 - 小川範子
-🥈 Louder - Laur
-🥉 My Milkshake - Mass Destruct!on
-🏅 Silence (Original Mix) - Levenkhan
-🏅 Redemption - Billx/Fortanoiza/MC Prime
+🥈 僕の戦争 (TV Size) - 神聖かまってちゃん
+🥉 それぞれの愛 - 小川範子
+🏅 レクイエム - 小川範子
+🏅 愛されすぎて - 小川範子
 ```
 
 <!-- netease-music-box end -->

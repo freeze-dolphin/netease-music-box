@@ -7,9 +7,9 @@
 ```text
 🥇 寝た子を起こす子守唄 - 小川範子
 🥈 僕の戦争 - 神聖かまってちゃん
-🥉 僕の戦争 (TV Size) - 神聖かまってちゃん
+🥉 Nocturne in Paris - Tony Anderson
+🏅 僕の戦争 (TV Size) - 神聖かまってちゃん
 🏅 それぞれの愛 - 小川範子
-🏅 レクイエム - 小川範子
 ```
 
 <!-- netease-music-box end -->

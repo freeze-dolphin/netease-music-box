@@ -5,8 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 高原的孩子 - 云朵
-🥈 Nocturne in Paris - Tony Anderson
+🥇 我记得 - 赵雷
+🥈 高原的孩子 - 云朵
 🥉 白雪 ~sirayuki~ - とのん/黒うさP
 🏅 雲流れ - みかん箱/Foxtail-Grass Studio
 🏅 喀什噶尔胡杨 - 刀郎

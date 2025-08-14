@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 我记得 - 赵雷
-🥈 高原的孩子 - 云朵
-🥉 白雪 ~sirayuki~ - とのん/黒うさP
-🏅 雲流れ - みかん箱/Foxtail-Grass Studio
-🏅 喀什噶尔胡杨 - 刀郎
+🥇 Bauklotze - 澤野弘之/小林未郁
+🥈 independent奇sayKISS - 澤野弘之
+🥉 Fame is a Gun - Addison Rae
+🏅 Vogel im Kafig - 澤野弘之/Cyua
+🏅 我记得 - 赵雷
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bauklotze - 澤野弘之/小林未郁
-🥈 independent奇sayKISS - 澤野弘之
-🥉 Fame is a Gun - Addison Rae
-🏅 Vogel im Kafig - 澤野弘之/Cyua
+🥈 Fame is a Gun - Addison Rae
+🥉 Vogel im Kafig - 澤野弘之/Cyua
 🏅 我记得 - 赵雷
+🏅 雲流れ - みかん箱/Foxtail-Grass Studio
 ```
 
 <!-- netease-music-box end -->

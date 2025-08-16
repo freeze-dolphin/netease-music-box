@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Bauklotze - 澤野弘之/小林未郁
-🥈 Fame is a Gun - Addison Rae
-🥉 Vogel im Kafig - 澤野弘之/Cyua
-🏅 我记得 - 赵雷
-🏅 雲流れ - みかん箱/Foxtail-Grass Studio
+🥈 惊蛰正中央 - 诗岸/歌爱ユキ/立入禁止
+🥉 Fame is a Gun - Addison Rae
+🏅 Odyssey (Au5 Remix) - Akira Complex/Au5
+🏅 如果花期只有60秒 - 立入禁止/歌愛ユキ
 ```
 
 <!-- netease-music-box end -->

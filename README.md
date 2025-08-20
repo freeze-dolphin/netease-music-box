@@ -9,7 +9,7 @@
 🥈 惊蛰正中央 - 诗岸/歌爱ユキ/立入禁止
 🥉 Fame is a Gun - Addison Rae
 🏅 Odyssey (Au5 Remix) - Akira Complex/Au5
-🏅 如果花期只有60秒 - 立入禁止/歌愛ユキ
+🏅 弥勒世果報 - undercooled - うないぐみ
 ```
 
 <!-- netease-music-box end -->

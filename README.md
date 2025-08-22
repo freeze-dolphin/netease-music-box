@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Bauklotze - 澤野弘之/小林未郁
-🥈 惊蛰正中央 - 诗岸/歌爱ユキ/立入禁止
-🥉 Fame is a Gun - Addison Rae
-🏅 Odyssey (Au5 Remix) - Akira Complex/Au5
-🏅 弥勒世果報 - undercooled - うないぐみ
+🥇 惊蛰正中央 - 诗岸/歌爱ユキ/立入禁止
+🥈 Odyssey (Au5 Remix) - Akira Complex/Au5
+🥉 弥勒世果報 - undercooled - うないぐみ
+🏅 如果花期只有60秒 - 立入禁止/歌愛ユキ
+🏅 DESIRE DREAM feat. itori - 絃鳥
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 惊蛰正中央 - 诗岸/歌爱ユキ/立入禁止
-🥈 Odyssey (Au5 Remix) - Akira Complex/Au5
-🥉 弥勒世果報 - undercooled - うないぐみ
-🏅 如果花期只有60秒 - 立入禁止/歌愛ユキ
-🏅 DESIRE DREAM feat. itori - 絃鳥
+🥇 弥勒世果報 - undercooled - うないぐみ
+🥈 花草野 - MOCKER44./洛天依
+🥉 Super Shy (sped up) - JuJu/Vamp Mikcy
+🏅 Vanitas ac Redemptionis - Ary-You
+🏅 等一分钟 Wait One Minute - 徐誉滕
 ```
 
 <!-- netease-music-box end -->

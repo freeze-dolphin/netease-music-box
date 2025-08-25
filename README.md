@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 弥勒世果報 - undercooled - うないぐみ
-🥈 花草野 - MOCKER44./洛天依
-🥉 Super Shy (sped up) - JuJu/Vamp Mikcy
-🏅 Vanitas ac Redemptionis - Ary-You
-🏅 等一分钟 Wait One Minute - 徐誉滕
+🥇 等爱的玫瑰 - 凤凰传奇
+🥈 等一分钟 Wait One Minute - 徐誉滕
+🥉 Necro Fantasia feat. mintea -last hope mix- - XL project
+🏅 月の雫 - Φ串Φ
+🏅 春よ、來い - SMOOTH J
 ```
 
 <!-- netease-music-box end -->

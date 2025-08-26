@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 等爱的玫瑰 - 凤凰传奇
-🥈 等一分钟 Wait One Minute - 徐誉滕
-🥉 Necro Fantasia feat. mintea -last hope mix- - XL project
-🏅 月の雫 - Φ串Φ
-🏅 春よ、來い - SMOOTH J
+🥈 Our Wild Ride - 深空之眼/勇仕音频/LousikÆy
+🥉 Dont You Dare - Gero Goerlich
+🏅 等一分钟 Wait One Minute - 徐誉滕
+🏅 康定情缘 - 凤凰传奇
 ```
 
 <!-- netease-music-box end -->

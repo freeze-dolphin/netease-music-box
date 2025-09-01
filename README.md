@@ -7,7 +7,7 @@
 ```text
 🥇 等爱的玫瑰 - 凤凰传奇
 🥈 Our Wild Ride - 深空之眼/勇仕音频/LousikÆy
-🥉 赤橙黄绿青蓝紫 - 鸡柳酱香饼/刘一苏/热寂HDRecords/一颗狼星
+🥉 赤橙黄绿青蓝紫 - 王昭懿/刘一苏/热寂HDRecords/一颗狼星
 🏅 Dont You Dare - Gero Goerlich
 🏅 一代天骄 - 凤凰传奇
 ```

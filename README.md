@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 等爱的玫瑰 - 凤凰传奇
-🥈 Our Wild Ride - 深空之眼/勇仕音频/LousikÆy
-🥉 赤橙黄绿青蓝紫 - 王昭懿/刘一苏/热寂HDRecords/一颗狼星
-🏅 Dont You Dare - Gero Goerlich
+🥇 Our Wild Ride - 深空之眼/勇仕音频/Dash Sound
+🥈 赤橙黄绿青蓝紫 - 王昭懿/刘一苏/热寂HDRecords/一颗狼星
+🥉 Dont You Dare - Gero Goerlich
 🏅 一代天骄 - 凤凰传奇
+🏅 等爱的玫瑰 - 凤凰传奇
 ```
 
 <!-- netease-music-box end -->

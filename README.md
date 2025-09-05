@@ -8,8 +8,8 @@
 🥇 赤橙黄绿青蓝紫 - 王昭懿/刘一苏/热寂HDRecords/一颗狼星
 🥈 Our Wild Ride - 深空之眼/勇仕音频/Dash Sound
 🥉 Orpheus - 吴昊泽MUSICALBLAST
+🏅 Dont You Dare - Gero Goerlich
 🏅 一代天骄 - 凤凰传奇
-🏅 等爱的玫瑰 - 凤凰传奇
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 归 - 指尖笑
 🥈 半点心 - 草蜢
 🥉 踏浪 - 徐怀钰
+🏅 雪山牧歌 - 平措曲珍
 🏅 赤橙黄绿青蓝紫 - 王昭懿/刘一苏/热寂HDRecords/一颗狼星
-🏅 Orpheus - 吴昊泽MUSICALBLAST
 ```
 
 <!-- netease-music-box end -->

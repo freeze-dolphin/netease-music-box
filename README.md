@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 半点心 - 草蜢
-🥈 雪山牧歌 - 平措曲珍
-🥉 归 - 指尖笑
-🏅 九月(海子) - 周云蓬
-🏅 橄榄树 - 齐豫
+🥇 九月(海子) - 周云蓬
+🥈 半点心 - 草蜢
+🥉 橄榄树 - 齐豫
+🏅 雪山牧歌 - 平措曲珍
+🏅 归 - 指尖笑
 ```
 
 <!-- netease-music-box end -->

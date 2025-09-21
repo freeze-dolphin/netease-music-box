@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 九月(海子) - 周云蓬
-🥈 橄榄树 - 齐豫
-🥉 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
+🥇 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
+🥈 九月(海子) - 周云蓬
+🥉 橄榄树 - 齐豫
 🏅 雪山牧歌 - 平措曲珍
-🏅 Our Wild Ride - 深空之眼/勇仕音频/LousikÆy
+🏅 Minus Eleven - Le Castle Vania
 ```
 
 <!-- netease-music-box end -->

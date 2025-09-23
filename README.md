@@ -8,8 +8,8 @@
 🥇 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
 🥈 九月(海子) - 周云蓬
 🥉 橄榄树 - 齐豫
-🏅 雪山牧歌 - 平措曲珍
 🏅 Minus Eleven - Le Castle Vania
+🏅 AGONIZE - Extra Terra/F.O.O.L
 ```
 
 <!-- netease-music-box end -->

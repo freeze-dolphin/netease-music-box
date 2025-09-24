@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
-🥈 九月(海子) - 周云蓬
-🥉 橄榄树 - 齐豫
-🏅 Minus Eleven - Le Castle Vania
+🥇 Offset - Sad Keyboard Guy/Xia
+🥈 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
+🥉 Minus Eleven - Le Castle Vania
+🏅 ダム - VISUAL ARTS / Key
 🏅 AGONIZE - Extra Terra/F.O.O.L
 ```
 

@@ -7,9 +7,9 @@
 ```text
 🥇 Offset - Sad Keyboard Guy/Xia
 🥈 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
-🥉 Minus Eleven - Le Castle Vania
-🏅 ダム - VISUAL ARTS / Key
-🏅 AGONIZE - Extra Terra/F.O.O.L
+🥉 Arise - Au5
+🏅 Vertex - AQUA STYLE
+🏅 Sunborn - R. Armando Morabito
 ```
 
 <!-- netease-music-box end -->

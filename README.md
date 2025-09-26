@@ -7,9 +7,9 @@
 ```text
 🥇 Offset - Sad Keyboard Guy/Xia
 🥈 Say Yes To Heaven (Anyma Remix) - Lana Del Rey/Anyma
-🥉 Arise - Au5
-🏅 Vertex - AQUA STYLE
-🏅 Sunborn - R. Armando Morabito
+🥉 乌兰托娅-套马杆DJ版 - 三人行影音工作室
+🏅 Mosque (Original Mix) - Spawn
+🏅 Arise - Au5
 ```
 
 <!-- netease-music-box end -->

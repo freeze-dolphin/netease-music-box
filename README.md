@@ -6,9 +6,9 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Offset - Sad Keyboard Guy/Xia
-🥈 乌兰托娅-套马杆DJ版 - 三人行影音工作室
-🥉 Utopia - Miyagi & Andy Panda
-🏅 Casiopea 2004 - Mujuice
+🥈 Casiopea 2004 - Mujuice
+🥉 乌兰托娅-套马杆DJ版 - 三人行影音工作室
+🏅 Utopia - Miyagi & Andy Panda
 🏅 逆浪千秋 - 言和
 ```
 

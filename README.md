@@ -8,8 +8,8 @@
 🥇 Offset - Sad Keyboard Guy/Xia
 🥈 Casiopea 2004 - Mujuice
 🥉 乌兰托娅-套马杆DJ版 - 三人行影音工作室
-🏅 Utopia - Miyagi & Andy Panda
-🏅 逆浪千秋 - 言和
+🏅 九月(海子) - 周云蓬
+🏅 橄榄树 - 齐豫
 ```
 
 <!-- netease-music-box end -->

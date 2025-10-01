@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Offset - Sad Keyboard Guy/Xia
-🥈 Casiopea 2004 - Mujuice
-🥉 乌兰托娅-套马杆DJ版 - 三人行影音工作室
+🥈 乌兰托娅-套马杆DJ版 - 三人行影音工作室
+🥉 Casiopea 2004 - Mujuice
+🏅 北风追 - 刘烨溦
 🏅 九月(海子) - 周云蓬
-🏅 橄榄树 - 齐豫
 ```
 
 <!-- netease-music-box end -->

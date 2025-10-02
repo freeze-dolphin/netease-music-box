@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Offset - Sad Keyboard Guy/Xia
+🥇 北风追 - 刘烨溦
 🥈 乌兰托娅-套马杆DJ版 - 三人行影音工作室
 🥉 Casiopea 2004 - Mujuice
-🏅 北风追 - 刘烨溦
-🏅 九月(海子) - 周云蓬
+🏅 宝莲 - 刘烨溦
+🏅 酒当歌 - 音速行星
 ```
 
 <!-- netease-music-box end -->

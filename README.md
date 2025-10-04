@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 北风追 - 刘烨溦
-🥈 乌兰托娅-套马杆DJ版 - 三人行影音工作室
-🥉 Mosque (Original Mix) - Spawn
-🏅 酒当歌 - 音速行星
+🥇 酒当歌 - 音速行星
+🥈 北风追 - 刘烨溦
+🥉 Levity - Au5/Psyuri
+🏅 宝莲 - 刘烨溦
 🏅 Casiopea 2004 - Mujuice
 ```
 

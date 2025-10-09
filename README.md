@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 酒当歌 - 音速行星
-🥈 北风追 - 刘烨溦
-🥉 Levity - Au5/Psyuri
+🥈 Levity - Au5/Psyuri
+🥉 ZEIT DES MONDLICHTS (Instrumental Version) - Babbe Music
+🏅 Where Are You Tonight - KREAM
 🏅 宝莲 - 刘烨溦
-🏅 ZEIT DES MONDLICHTS (Instrumental Version) - Babbe Music
 ```
 
 <!-- netease-music-box end -->

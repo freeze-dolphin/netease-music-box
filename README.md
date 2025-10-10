@@ -7,9 +7,9 @@
 ```text
 🥇 酒当歌 - 音速行星
 🥈 Levity - Au5/Psyuri
-🥉 ZEIT DES MONDLICHTS (Instrumental Version) - Babbe Music
-🏅 Where Are You Tonight - KREAM
-🏅 宝莲 - 刘烨溦
+🥉 Where Are You Tonight - KREAM
+🏅 ZEIT DES MONDLICHTS (Instrumental Version) - Babbe Music
+🏅 Hypnotising - R3HAB/Skytech
 ```
 
 <!-- netease-music-box end -->

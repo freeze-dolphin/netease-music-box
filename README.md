@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 酒当歌 - 音速行星
-🥈 Levity - Au5/Psyuri
-🥉 Where Are You Tonight - KREAM
-🏅 ZEIT DES MONDLICHTS (Instrumental Version) - Babbe Music
-🏅 Hypnotising - R3HAB/Skytech
+🥇 Where Are You Tonight - KREAM
+🥈 Hypnotising - R3HAB/Skytech
+🥉 酒当歌 - 音速行星
+🏅 Zonestic - lapix/Blacklolita
+🏅 Extraordinary Magic - Laur
 ```
 
 <!-- netease-music-box end -->

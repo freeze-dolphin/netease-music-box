@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Where Are You Tonight - KREAM
-🥈 Hypnotising - R3HAB/Skytech
-🥉 酒当歌 - 音速行星
-🏅 Zonestic - lapix/Blacklolita
+🥇 Zonestic - lapix/Blacklolita
+🥈 Where Are You Tonight - KREAM
+🥉 Replicated Temple - Street
+🏅 Confront - Srezcat/Kobaryo
 🏅 Extraordinary Magic - Laur
 ```
 

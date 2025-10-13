@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Zonestic - lapix/Blacklolita
-🥈 Where Are You Tonight - KREAM
-🥉 Replicated Temple - Street
-🏅 Confront - Srezcat/Kobaryo
-🏅 Extraordinary Magic - Laur
+🥈 Confront - Srezcat/Kobaryo
+🥉 Extraordinary Magic - Laur
+🏅 Architect - PSYQUI
+🏅 Necromancer's Circle - Akira Complex
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Zonestic - lapix/Blacklolita
-🥈 Confront - Srezcat/Kobaryo
-🥉 Extraordinary Magic - Laur
-🏅 Architect - PSYQUI
-🏅 Necromancer's Circle - Akira Complex
+🥈 The Other Side - Gero Goerlich
+🥉 Nocturne in Paris - Tony Anderson
+🏅 故乡的原风景 - 宗次郎
+🏅 If I Should Return - Marcus Warner
 ```
 
 <!-- netease-music-box end -->

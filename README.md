@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Zonestic - lapix/Blacklolita
-🥈 The Other Side - Gero Goerlich
-🥉 Nocturne in Paris - Tony Anderson
-🏅 故乡的原风景 - 宗次郎
-🏅 If I Should Return - Marcus Warner
+🥇 故乡的原风景 - 宗次郎
+🥈 If I Should Return - Marcus Warner
+🥉 The Other Side - Gero Goerlich
+🏅 町, 時の流れ, 人 - 折戸伸治
+🏅 See The Heaven 1962 (Extended Mix) - Ferkingge/Emma Wang/U. Baatar
 ```
 
 <!-- netease-music-box end -->

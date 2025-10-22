@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 故乡的原风景 - 宗次郎
-🥈 The Rain Has Stopped (Extended Mix) - XMeng/Toyome
-🥉 Lost Civilization (Original Mix) - The Noble Six
-🏅 See The Heaven 1962 (Extended Mix) - Ferkingge/Emma Wang/U. Baatar
-🏅 Wheel Of Fortune (Extended Mix) - Drunk Breeze/Life Explorer
+🥈 Lost Civilization (Original Mix) - The Noble Six
+🥉 If I Should Return - Marcus Warner
+🏅 The Other Side - Gero Goerlich
+🏅 町, 時の流れ, 人 - 折戸伸治
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 故乡的原风景 - 宗次郎
 🥈 Lost Civilization (Original Mix) - The Noble Six
-🥉 If I Should Return - Marcus Warner
+🥉 Bloodflow - Grandbrothers
+🏅 If I Should Return - Marcus Warner
 🏅 The Other Side - Gero Goerlich
-🏅 町, 時の流れ, 人 - 折戸伸治
 ```
 
 <!-- netease-music-box end -->

@@ -6,9 +6,9 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 故乡的原风景 - 宗次郎
-🥈 Bloodflow - Grandbrothers
-🥉 If I Should Return - Marcus Warner
-🏅 The Other Side - Gero Goerlich
+🥈 Lost Civilization (Original Mix) - The Noble Six
+🥉 Bloodflow - Grandbrothers
+🏅 If I Should Return - Marcus Warner
 🏅 町, 時の流れ, 人 - 折戸伸治
 ```
 

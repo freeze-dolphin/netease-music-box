@@ -7,9 +7,9 @@
 ```text
 🥇 故乡的原风景 - 宗次郎
 🥈 Lost Civilization (Original Mix) - The Noble Six
-🥉 Bloodflow - Grandbrothers
-🏅 If I Should Return - Marcus Warner
-🏅 町, 時の流れ, 人 - 折戸伸治
+🥉 Ragnarok - Gram/かめりあ
+🏅 Rising Loong (Extended Mix) - Ferkingge/Sirge Gvwalgiya
+🏅 The Rain Has Stopped (Extended Mix) - XMeng/Toyome
 ```
 
 <!-- netease-music-box end -->

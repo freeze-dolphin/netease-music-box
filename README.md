@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 故乡的原风景 - 宗次郎
-🥈 Lost Civilization (Original Mix) - The Noble Six
-🥉 Ragnarok - Gram/かめりあ
-🏅 Rising Loong (Extended Mix) - Ferkingge/Sirge Gvwalgiya
-🏅 The Rain Has Stopped (Extended Mix) - XMeng/Toyome
+🥈 On a Rail 1 - Joel Nielsen
+🥉 Entangled - Joel Nielsen
+🏅 Yggdrasil - Kobaryo/Gram
+🏅 Ragnarok - Gram/かめりあ
 ```
 
 <!-- netease-music-box end -->

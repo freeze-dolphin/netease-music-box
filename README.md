@@ -8,8 +8,8 @@
 🥇 Yggdrasil - Kobaryo/Gram
 🥈 故乡的原风景 - 宗次郎
 🥉 On a Rail 1 - Joel Nielsen
+🏅 Lightscape - Recollection - 7 K boss/Lightscape
 🏅 Entangled - Joel Nielsen
-🏅 Ragnarok - Gram/かめりあ
 ```
 
 <!-- netease-music-box end -->

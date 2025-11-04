@@ -9,7 +9,7 @@
 🥈 故乡的原风景 - 宗次郎
 🥉 On a Rail 1 - Joel Nielsen
 🏅 Lightscape - Recollection - 7 K boss/Lightscape
-🏅 Entangled - Joel Nielsen
+🏅 Flown - Futuro
 ```
 
 <!-- netease-music-box end -->

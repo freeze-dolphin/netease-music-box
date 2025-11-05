@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Yggdrasil - Kobaryo/Gram
-🥈 故乡的原风景 - 宗次郎
-🥉 On a Rail 1 - Joel Nielsen
+🥇 Limitless Potential - Joel Nielsen
+🥈 殇 - 徐嘉良
+🥉 See The Heaven 1962 (Extended Mix) - Ferkingge/Emma Wang/U. Baatar
 🏅 Lightscape - Recollection - 7 K boss/Lightscape
 🏅 Flown - Futuro
 ```

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Limitless Potential - Joel Nielsen
-🥈 殇 - 徐嘉良
-🥉 See The Heaven 1962 (Extended Mix) - Ferkingge/Emma Wang/U. Baatar
-🏅 Lightscape - Recollection - 7 K boss/Lightscape
-🏅 Flown - Futuro
+🥈 Critical Mass - Joel Nielsen
+🥉 Sigmund (tpz Overheat remix) - Gram/t+pazolite
+🏅 Ragnarok - Gram/かめりあ
+🏅 殇 - 徐嘉良
 ```
 
 <!-- netease-music-box end -->

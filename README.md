@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Limitless Potential - Joel Nielsen
-🥈 Critical Mass - Joel Nielsen
-🥉 Sigmund (tpz Overheat remix) - Gram/t+pazolite
-🏅 Ragnarok - Gram/かめりあ
-🏅 殇 - 徐嘉良
+🥇 Inside the Glaciers - Heart Plus Up!
+🥈 Limitless Potential - Joel Nielsen
+🥉 Teardrops of Dragonfire - Peter Fung
+🏅 Melantropie - Ivan Torrent/Lara Ausensi
+🏅 Critical Mass - Joel Nielsen
 ```
 
 <!-- netease-music-box end -->

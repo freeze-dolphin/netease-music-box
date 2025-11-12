@@ -8,8 +8,8 @@
 🥇 Teardrops of Dragonfire - Peter Fung
 🥈 Inside the Glaciers - Heart Plus Up!
 🥉 Melantropie - Ivan Torrent/Lara Ausensi
-🏅 Critical Mass - Joel Nielsen
-🏅 Limitless Potential - Joel Nielsen
+🏅 Sigmund (tpz Overheat remix) - Gram/t+pazolite
+🏅 Ragnarok - Gram/かめりあ
 ```
 
 <!-- netease-music-box end -->

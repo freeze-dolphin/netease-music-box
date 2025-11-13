@@ -8,8 +8,8 @@
 🥇 Teardrops of Dragonfire - Peter Fung
 🥈 Inside the Glaciers - Heart Plus Up!
 🥉 Melantropie - Ivan Torrent/Lara Ausensi
-🏅 Sigmund (tpz Overheat remix) - Gram/t+pazolite
-🏅 Ragnarok - Gram/かめりあ
+🏅 Right Back - Yuri Kane
+🏅 Luna(月神) - Bethybai/岸炘
 ```
 
 <!-- netease-music-box end -->

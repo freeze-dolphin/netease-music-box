@@ -5,8 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Teardrops of Dragonfire - Peter Fung
-🥈 Inside the Glaciers - Heart Plus Up!
+🥇 Inside the Glaciers - Heart Plus Up!
+🥈 Teardrops of Dragonfire - Peter Fung
 🥉 Melantropie - Ivan Torrent/Lara Ausensi
 🏅 Right Back - Yuri Kane
 🏅 Luna(月神) - Bethybai/岸炘

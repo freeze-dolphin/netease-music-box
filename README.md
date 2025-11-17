@@ -8,8 +8,8 @@
 🥇 Inside the Glaciers - Heart Plus Up!
 🥈 Right Back - Yuri Kane
 🥉 Teardrops of Dragonfire - Peter Fung
+🏅 宇宙の花 - 島みやえい子
 🏅 Melantropie - Ivan Torrent/Lara Ausensi
-🏅 Luna(月神) - Bethybai/岸炘
 ```
 
 <!-- netease-music-box end -->

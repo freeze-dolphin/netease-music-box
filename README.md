@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Inside the Glaciers - Heart Plus Up!
-🥈 Right Back - Yuri Kane
+🥇 Right Back - Yuri Kane
+🥈 宇宙の花 - 島みやえい子
 🥉 Teardrops of Dragonfire - Peter Fung
-🏅 宇宙の花 - 島みやえい子
-🏅 Melantropie - Ivan Torrent/Lara Ausensi
+🏅 虹の彼方 - 小瀬村晶/lasah
+🏅 Luna(月神) - Bethybai/岸炘
 ```
 
 <!-- netease-music-box end -->

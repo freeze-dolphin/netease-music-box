@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 宇宙の花 - 島みやえい子
-🥈 夏空未来 - 伊達地咲
-🥉 Right Back - Yuri Kane
-🏅 殇 - 徐嘉良
-🏅 虹の彼方 - 小瀬村晶/lasah
+🥈 虹の彼方 - 小瀬村晶/lasah
+🥉 Mosquito - 島みやえい子
+🏅 夏空未来 - 伊達地咲
+🏅 Right Back - Yuri Kane
 ```
 
 <!-- netease-music-box end -->

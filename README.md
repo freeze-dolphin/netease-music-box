@@ -7,9 +7,9 @@
 ```text
 🥇 宇宙の花 - 島みやえい子
 🥈 虹の彼方 - 小瀬村晶/lasah
-🥉 Mosquito - 島みやえい子
+🥉 海鳴り - riya
+🏅 Mosquito - 島みやえい子
 🏅 夏空未来 - 伊達地咲
-🏅 Right Back - Yuri Kane
 ```
 
 <!-- netease-music-box end -->

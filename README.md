@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 宇宙の花 - 島みやえい子
-🥈 虹の彼方 - 小瀬村晶/lasah
-🥉 海鳴り - riya
+🥇 虹の彼方 - 小瀬村晶/lasah
+🥈 海鳴り - riya
+🥉 宇宙の花 - 島みやえい子
 🏅 夏空未来 - 伊達地咲
-🏅 Mosquito - 島みやえい子
+🏅 seiphia - 癒月
 ```
 
 <!-- netease-music-box end -->

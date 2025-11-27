@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 虹の彼方 - 小瀬村晶/lasah
-🥈 海鳴り - riya
-🥉 宇宙の花 - 島みやえい子
-🏅 seiphia - 癒月
-🏅 Truth Of My Destiny - Ceui
+🥇 宇宙の花 - 島みやえい子
+🥈 seiphia - 癒月
+🥉 Truth Of My Destiny - Ceui
+🏅 虹の彼方 - 小瀬村晶/lasah
+🏅 海鳴り - riya
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 seiphia - 癒月
-🥈 Truth Of My Destiny - Ceui
-🥉 海鳴り - riya
-🏅 Moonlight(Ending Theme) - S.E.N.S.
-🏅 Moonlight~Farewell - S.E.N.S.
+🥈 oblivious - Kalafina
+🥉 Музыка - Элджей/MiyaGi/Эндшпиль
+🏅 Комары - MiyaGi
+🏅 Текстура - MiyaGi
 ```
 
 <!-- netease-music-box end -->

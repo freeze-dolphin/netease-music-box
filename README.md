@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 seiphia - 癒月
-🥈 oblivious - Kalafina
-🥉 Музыка - Элджей/MiyaGi/Эндшпиль
-🏅 Комары - MiyaGi
-🏅 Текстура - MiyaGi
+🥇 Quantum Spawn - ELFL
+🥈 Dolphin Dreams - Dan Gibson
+🥉 seiphia - 癒月
+🏅 oblivious - Kalafina
+🏅 Музыка - Элджей/MiyaGi/Эндшпиль
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Quantum Spawn - ELFL
-🥈 Dolphin Dreams - Dan Gibson
-🥉 seiphia - 癒月
-🏅 oblivious - Kalafina
-🏅 Музыка - Элджей/MiyaGi/Эндшпиль
+🥈 Resonance - Home
+🥉 Luna(月神) - Bethybai/岸炘
+🏅 雨 - 姜米條
+🏅 Illusionary Gem (2018 Rework) - Violet Delta
 ```
 
 <!-- netease-music-box end -->

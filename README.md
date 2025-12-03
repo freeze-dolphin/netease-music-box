@@ -7,9 +7,9 @@
 ```text
 🥇 Quantum Spawn - ELFL
 🥈 Resonance - Home
-🥉 Luna(月神) - Bethybai/岸炘
-🏅 雨 - 姜米條
-🏅 Illusionary Gem (2018 Rework) - Violet Delta
+🥉 簪花雨（Flower hairpin） - 陈抒妮
+🏅 Luna(月神) - Bethybai/岸炘
+🏅 山外山 - 陈祝维/至岁
 ```
 
 <!-- netease-music-box end -->

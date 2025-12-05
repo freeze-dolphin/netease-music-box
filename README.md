@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Quantum Spawn - ELFL
-🥈 Resonance - Home
-🥉 簪花雨（Flower hairpin） - 陈抒妮
+🥈 山外山 - 陈祝维/至岁
+🥉 Resonance - Home
+🏅 簪花雨（Flower hairpin） - 陈抒妮
 🏅 Luna(月神) - Bethybai/岸炘
-🏅 山外山 - 陈祝维/至岁
 ```
 
 <!-- netease-music-box end -->

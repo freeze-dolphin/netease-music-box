@@ -7,9 +7,9 @@
 ```text
 🥇 Quantum Spawn - ELFL
 🥈 Luna(月神) - Bethybai/岸炘
-🥉 山外山 - 陈祝维/至岁
+🥉 Resonance - Home
+🏅 山外山 - 陈祝维/至岁
 🏅 I Can Fly In The Universe - かめりあ
-🏅 Resonance - Home
 ```
 
 <!-- netease-music-box end -->

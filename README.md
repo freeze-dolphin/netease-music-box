@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Quantum Spawn - ELFL
-🥈 山外山 - 陈祝维/至岁
+🥇 山外山 - 陈祝维/至岁
+🥈 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
 🥉 簪花雨（Flower hairpin） - 陈抒妮
-🏅 Luna(月神) - Bethybai/岸炘
-🏅 I Can Fly In The Universe - かめりあ
+🏅 SURVIVE (Re-Mix Ver) - 千葉紗子
+🏅 seiphia - 癒月
 ```
 
 <!-- netease-music-box end -->

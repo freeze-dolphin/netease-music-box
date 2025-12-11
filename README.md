@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 山外山 - 陈祝维/至岁
-🥈 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
-🥉 簪花雨（Flower hairpin） - 陈抒妮
-🏅 SURVIVE (Re-Mix Ver) - 千葉紗子
+🥇 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
+🥈 SURVIVE (Re-Mix Ver) - 千葉紗子
+🥉 さくらのうた - 高橋優
+🏅 SURVIVE - 千葉紗子
 🏅 seiphia - 癒月
 ```
 

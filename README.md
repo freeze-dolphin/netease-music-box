@@ -7,9 +7,9 @@
 ```text
 🥇 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
 🥈 SURVIVE (Re-Mix Ver) - 千葉紗子
-🥉 さくらのうた - 高橋優
-🏅 SURVIVE - 千葉紗子
-🏅 seiphia - 癒月
+🥉 SURVIVE - 千葉紗子
+🏅 Light colors - Lia/VISUAL ARTS / Key
+🏅 さくらのうた - 高橋優
 ```
 
 <!-- netease-music-box end -->

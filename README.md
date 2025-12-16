@@ -7,9 +7,9 @@
 ```text
 🥇 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
 🥈 SURVIVE (Re-Mix Ver) - 千葉紗子
-🥉 SURVIVE - 千葉紗子
-🏅 さくらのうた - 高橋優
+🥉 さくらのうた - 高橋優
 🏅 簪花雨（Flower hairpin） - 陈抒妮
+🏅 SURVIVE - 千葉紗子
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
-🥈 SURVIVE (Re-Mix Ver) - 千葉紗子
-🥉 さくらのうた - 高橋優
-🏅 SURVIVE - 千葉紗子
-🏅 seiphia - 癒月
+🥈 月下香 - 中村由利子
+🥉 Light colors - Lia/VISUAL ARTS / Key
+🏅 双星 - VISUAL ARTS / Key
+🏅 簪花雨（Flower hairpin） - 陈抒妮
 ```
 
 <!-- netease-music-box end -->

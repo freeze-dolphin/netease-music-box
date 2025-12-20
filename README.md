@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Last regrets - 彩菜
-🥈 撲殺音頭でドクロちゃん(90秒Ver-#1) - 千葉紗子
-🥉 月下香 - 中村由利子
-🏅 Light colors - Lia/VISUAL ARTS / Key
-🏅 簪花雨（Flower hairpin） - 陈抒妮
+🥈 月下香 - 中村由利子
+🥉 簪花雨（Flower hairpin） - 陈抒妮
+🏅 衫外山 - 陈抒妮
+🏅 Endless Sky - YinTianXiang/1a2y
 ```
 
 <!-- netease-music-box end -->

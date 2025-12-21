@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Last regrets - 彩菜
-🥈 月下香 - 中村由利子
-🥉 簪花雨（Flower hairpin） - 陈抒妮
-🏅 衫外山 - 陈抒妮
-🏅 Endless Sky - YinTianXiang/1a2y
+🥇 殇 - 徐嘉良
+🥈 簪花雨（Flower hairpin） - 陈抒妮
+🥉 Yonshaku-dama (Extended Mix) - JINGYAN
+🏅 Conversion - 削除
+🏅 Jailbreak - 削除
 ```
 
 <!-- netease-music-box end -->

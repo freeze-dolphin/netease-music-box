@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 殇 - 徐嘉良
-🥈 Quantum Spawn - ELFL
-🥉 Yonshaku-dama (Extended Mix) - JINGYAN
-🏅 Conversion - 削除
+🥈 Yonshaku-dama (Extended Mix) - JINGYAN
+🥉 Conversion - 削除
 🏅 Jailbreak - 削除
+🏅 Glitched Universe - 削除
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 ふわとろ☆Wストロベリー - アスタロッテ・ユグヴァール
 🥈 Yonshaku-dama (Extended Mix) - JINGYAN
-🥉 Conversion - 削除
-🏅 Jailbreak - 削除
-🏅 Glitched Universe - 削除
+🥉 あやかしかいぎ - 中恵光城
+🏅 朱隠し - 志方あきこ
+🏅 追想 - 大島ミチル/Moscow Symphony Orchestra
 ```
 
 <!-- netease-music-box end -->

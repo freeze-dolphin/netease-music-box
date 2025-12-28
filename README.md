@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 ふわとろ☆Wストロベリー - アスタロッテ・ユグヴァール
-🥈 Yonshaku-dama (Extended Mix) - JINGYAN
-🥉 あやかしかいぎ - 中恵光城
-🏅 朱隠し - 志方あきこ
-🏅 追想 - 大島ミチル/Moscow Symphony Orchestra
+🥈 Lovesong - MALCRIADA/Mathilde Sobrino/Pepe Pecas
+🥉 Last regrets (instrumental) - 麻枝准
+🏅 Last regrets - 彩菜
+🏅 あやかしかいぎ - 中恵光城
 ```
 
 <!-- netease-music-box end -->

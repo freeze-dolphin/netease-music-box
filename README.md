@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 当此刻听见你我 - 知晏/Zenn白景
-🥈 Love - Daniel Sadowski
-🥉 ふわとろ☆Wストロベリー - アスタロッテ・ユグヴァール
-🏅 Once More - Gregory Esayan/武川アイ
+🥇 Love - Daniel Sadowski
+🥈 ふわとろ☆Wストロベリー - アスタロッテ・ユグヴァール
+🥉 Once More - Gregory Esayan/武川アイ
 🏅 Lovesong - MALCRIADA/Mathilde Sobrino/Pepe Pecas
+🏅 リバーランド地方 - 西木康智
 ```
 
 <!-- netease-music-box end -->

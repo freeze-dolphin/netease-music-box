@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Love - Daniel Sadowski
-🥈 ふわとろ☆Wストロベリー - アスタロッテ・ユグヴァール
-🥉 Once More - Gregory Esayan/武川アイ
-🏅 Lovesong - MALCRIADA/Mathilde Sobrino/Pepe Pecas
-🏅 リバーランド地方 - 西木康智
+🥇 Once More - Gregory Esayan/武川アイ
+🥈 Love - Daniel Sadowski
+🥉 Lovesong - MALCRIADA/Mathilde Sobrino/Pepe Pecas
+🏅 Titanomachia II - ELFL
+🏅 #dreamcore - MALCRIADA
 ```
 
 <!-- netease-music-box end -->

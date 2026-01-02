@@ -7,9 +7,9 @@
 ```text
 🥇 Synthetic Sun - ELFL
 🥈 Once More - Gregory Esayan/武川アイ
-🥉 Love - Daniel Sadowski
-🏅 Lovesong - MALCRIADA/Mathilde Sobrino/Pepe Pecas
-🏅 Titanomachia II - ELFL
+🥉 Titanomachia II - ELFL
+🏅 Mystique - Suleymer
+🏅 vacant heart - void
 ```
 
 <!-- netease-music-box end -->

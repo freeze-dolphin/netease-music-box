@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Synthetic Sun - ELFL
-🥈 Once More - Gregory Esayan/武川アイ
-🥉 Titanomachia II - ELFL
-🏅 Mystique - Suleymer
-🏅 vacant heart - void
+🥈 Burning Game (Extended Mix) - Alan Morris/Fenna Day
+🥉 Once More - Gregory Esayan/武川アイ
+🏅 Space Meditation - KRUK
+🏅 Titanomachia II - ELFL
 ```
 
 <!-- netease-music-box end -->

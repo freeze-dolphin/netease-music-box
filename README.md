@@ -7,9 +7,9 @@
 ```text
 🥇 Synthetic Sun - ELFL
 🥈 Burning Game (Extended Mix) - Alan Morris/Fenna Day
-🥉 Once More - Gregory Esayan/武川アイ
-🏅 Space Meditation - KRUK
-🏅 Titanomachia II - ELFL
+🥉 Titanomachia II - ELFL
+🏅 Mystique - Suleymer
+🏅 vacant heart - void
 ```
 
 <!-- netease-music-box end -->

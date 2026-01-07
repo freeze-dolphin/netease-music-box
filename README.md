@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Synthetic Sun - ELFL
-🥈 Burning Game (Extended Mix) - Alan Morris/Fenna Day
-🥉 Titanomachia II - ELFL
-🏅 Mystique - Suleymer
-🏅 vacant heart - void
+🥇 Space Meditation - KRUK
+🥈 Synthetic Sun - ELFL
+🥉 散花 - 水月陵
+🏅 Melantropie - Ivan Torrent/Lara Ausensi
+🏅 Sleeping Frog - くるぶっこちゃん
 ```
 
 <!-- netease-music-box end -->

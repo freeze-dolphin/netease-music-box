@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Space Meditation - KRUK
-🥈 Synthetic Sun - ELFL
-🥉 散花 - 水月陵
-🏅 Melantropie - Ivan Torrent/Lara Ausensi
+🥈 散花 - 水月陵
+🥉 Melantropie - Ivan Torrent/Lara Ausensi
 🏅 Sleeping Frog - くるぶっこちゃん
+🏅 snowfall (Sped Up) - Øneheart/reidenshi
 ```
 
 <!-- netease-music-box end -->

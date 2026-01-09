@@ -7,9 +7,9 @@
 ```text
 🥇 Space Meditation - KRUK
 🥈 散花 - 水月陵
-🥉 Melantropie - Ivan Torrent/Lara Ausensi
+🥉 Vibration (One More Time) - Sub Focus/AR/CO
+🏅 Melantropie - Ivan Torrent/Lara Ausensi
 🏅 Sleeping Frog - くるぶっこちゃん
-🏅 snowfall (Sped Up) - Øneheart/reidenshi
 ```
 
 <!-- netease-music-box end -->

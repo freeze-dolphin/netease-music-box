@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Space Meditation - KRUK
-🥈 散花 - 水月陵
-🥉 Vibration (One More Time) - Sub Focus/AR/CO
-🏅 Melantropie - Ivan Torrent/Lara Ausensi
-🏅 Sleeping Frog - くるぶっこちゃん
+🥈 Vibration (One More Time) - Sub Focus/AR/CO
+🥉 双星 - VISUAL ARTS / Key
+🏅 散花 - 水月陵
+🏅 Letting Go - 蔡健雅
 ```
 
 <!-- netease-music-box end -->

@@ -5,8 +5,8 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Space Meditation - KRUK
-🥈 Vibration (One More Time) - Sub Focus/AR/CO
+🥇 Vibration (One More Time) - Sub Focus/AR/CO
+🥈 Space Meditation - KRUK
 🥉 双星 - VISUAL ARTS / Key
 🏅 散花 - 水月陵
 🏅 Letting Go - 蔡健雅

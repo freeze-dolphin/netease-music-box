@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Vibration (One More Time) - Sub Focus/AR/CO
-🥈 Fine Day - Sub Focus
-🥉 Off The Ground - Sub Focus
+🥈 Off The Ground - Sub Focus
+🥉 Secrets - Sub Focus/CamelPhat/Culture Shock/RHODES
+🏅 Fine Day - Sub Focus
 🏅 Ready To Fly (Sub Focus & Dimension) - Sub Focus/Dimension
-🏅 Secrets - Sub Focus/CamelPhat/Culture Shock/RHODES
 ```
 
 <!-- netease-music-box end -->

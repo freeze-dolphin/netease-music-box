@@ -6,9 +6,9 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Vibration (One More Time) - Sub Focus/AR/CO
-🥈 Off The Ground - Sub Focus
-🥉 Secrets - Sub Focus/CamelPhat/Culture Shock/RHODES
-🏅 Fine Day - Sub Focus
+🥈 Fine Day - Sub Focus
+🥉 Calling For A Sign - Sub Focus/Kelli-Leigh
+🏅 Off The Ground - Sub Focus
 🏅 Ready To Fly (Sub Focus & Dimension) - Sub Focus/Dimension
 ```
 

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Vibration (One More Time) - Sub Focus/AR/CO
-🥈 Fine Day - Sub Focus
-🥉 Off The Ground - Sub Focus
-🏅 Ready To Fly (Sub Focus & Dimension) - Sub Focus/Dimension
-🏅 Into Your Arms - Grafix
+🥇 Into Your Arms - Grafix
+🥈 Disconnection - Metrik
+🥉 Made For The Game - Cartoon/JESSEE/Kazhi/AC13
+🏅 F Minor Simulator - MUZZ
+🏅 Heart Wall - Glenmax/SO4-soap
 ```
 
 <!-- netease-music-box end -->

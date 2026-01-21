@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Into Your Arms - Grafix
-🥈 Disconnection - Metrik
-🥉 Made For The Game - Cartoon/JESSEE/Kazhi/AC13
-🏅 F Minor Simulator - MUZZ
-🏅 Heart Wall - Glenmax/SO4-soap
+🥇 Heart Wall - Glenmax/SO4-soap
+🥈 Vibration (One More Time) - Sub Focus/AR/CO
+🥉 Into Your Arms - Grafix
+🏅 Disconnection - Metrik
+🏅 Made For The Game - Cartoon/JESSEE/Kazhi/AC13
 ```
 
 <!-- netease-music-box end -->

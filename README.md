@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Hold Me Tight - Sean Ven
-🥈 Vibration (One More Time) - Sub Focus/AR/CO
-🥉 Into Your Arms - Grafix
-🏅 Disconnection - Metrik
-🏅 Made For The Game - Cartoon/JESSEE/Kazhi/AC13
+🥈 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
+🥉 Such a cloudy (feat. Salita) - void (Mournfinale)/Salita
+🏅 I am "End" - 削除
+🏅 Valedict - void
 ```
 
 <!-- netease-music-box end -->

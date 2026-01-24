@@ -7,8 +7,8 @@
 ```text
 🥇 Hold Me Tight - Sean Ven
 🥈 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
-🥉 Such a cloudy (feat. Salita) - void (Mournfinale)/Salita
-🏅 I am "End" - 削除
+🥉 I am "End" - 削除
+🏅 Such a cloudy (feat. Salita) - void (Mournfinale)/Salita
 🏅 Valedict - void
 ```
 

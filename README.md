@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Hold Me Tight - Sean Ven
-🥈 I am "End" - 削除
-🥉 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
-🏅 Such a cloudy (feat. Salita) - void (Mournfinale)/Salita
+🥈 Such a cloudy (feat. Salita) - void (Mournfinale)/Salita
+🥉 I am "End" - 削除
 🏅 Valedict - void
+🏅 Odyssey (Au5 Remix) - Akira Complex/Au5
 ```
 
 <!-- netease-music-box end -->

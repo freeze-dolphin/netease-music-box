@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Hold Me Tight - Sean Ven
-🥈 I am "End" - 削除
-🥉 水没都市 (feat. noeric) - DJ Raisei/noeric
-🏅 Odyssey (Au5 Remix) - Akira Complex/Au5
-🏅 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
+🥇 水没都市 (feat. noeric) - DJ Raisei/noeric
+🥈 Hold Me Tight - Sean Ven
+🥉 I am "End" - 削除
+🏅 果て前の花 - noyrfa
+🏅 Shakah - Feryquitous
 ```
 
 <!-- netease-music-box end -->

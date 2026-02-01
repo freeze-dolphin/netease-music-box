@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 水没都市 (feat. noeric) - DJ Raisei/noeric
-🥈 Hold Me Tight - Sean Ven
-🥉 I am "End" - 削除
-🏅 果て前の花 - noyrfa
-🏅 Shakah - Feryquitous
+🥈 果て前の花 - noyrfa
+🥉 Godslain - Juggernaut.
+🏅 Core of Dreams - Salty Salt
+🏅 False God - Taishi
 ```
 
 <!-- netease-music-box end -->

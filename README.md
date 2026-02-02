@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 水没都市 (feat. noeric) - DJ Raisei/noeric
-🥈 果て前の花 - noyrfa
-🥉 Godslain - Juggernaut.
-🏅 Core of Dreams - Salty Salt
-🏅 False God - Taishi
+🥇 2 Phút Hơn (KAIZ Remix) - Pháo/KAIZ
+🥈 Ơ Sao Bé Không Lak (KAIZ Remix) - KAIZ/BigDaddy/Emily
+🥉 水没都市 (feat. noeric) - DJ Raisei/noeric
+🏅 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
+🏅 Godslain - Juggernaut.
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 2 Phút Hơn (KAIZ Remix) - Pháo/KAIZ
 🥈 Ơ Sao Bé Không Lak (KAIZ Remix) - KAIZ/BigDaddy/Emily
-🥉 水没都市 (feat. noeric) - DJ Raisei/noeric
-🏅 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
-🏅 Godslain - Juggernaut.
+🥉 I am "End" - 削除
+🏅 水没都市 (feat. noeric) - DJ Raisei/noeric
+🏅 Hold Me Tight - Sean Ven
 ```
 
 <!-- netease-music-box end -->

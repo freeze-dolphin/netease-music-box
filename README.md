@@ -7,9 +7,9 @@
 ```text
 🥇 2 Phút Hơn (KAIZ Remix) - Pháo/KAIZ
 🥈 Ơ Sao Bé Không Lak (KAIZ Remix) - KAIZ/BigDaddy/Emily
-🥉 I am "End" - 削除
-🏅 水没都市 (feat. noeric) - DJ Raisei/noeric
-🏅 Hold Me Tight - Sean Ven
+🥉 Mosaic - KOAN Sound/Culprate/Asa/Sorrow
+🏅 SUPER MEMORIES (feat. HiTNEX-X) - Kobaryo
+🏅 天妖ノ舞 - 天子/清水達也
 ```
 
 <!-- netease-music-box end -->

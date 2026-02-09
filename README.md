@@ -7,9 +7,9 @@
 ```text
 🥇 2 Phút Hơn (KAIZ Remix) - Pháo/KAIZ
 🥈 Ơ Sao Bé Không Lak (KAIZ Remix) - KAIZ/BigDaddy/Emily
-🥉 Mosaic - KOAN Sound/Culprate/Asa/Sorrow
+🥉 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
 🏅 SUPER MEMORIES (feat. HiTNEX-X) - Kobaryo
-🏅 天妖ノ舞 - 天子/清水達也
+🏅 Shut The Techno - KAIZ
 ```
 
 <!-- netease-music-box end -->

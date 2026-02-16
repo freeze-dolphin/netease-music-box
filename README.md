@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
-🥈 SUPER MEMORIES (feat. HiTNEX-X) - Kobaryo
-🥉 Rằng Em Mãi Ở Bên - Bích Phương
-🏅 Cắt Đôi Nỗi Sầu - Tăng Duy Tân/Drum 7
+🥈 Rằng Em Mãi Ở Bên - Bích Phương
+🥉 Cắt Đôi Nỗi Sầu - Tăng Duy Tân/Drum 7
 🏅 Limen - Silentroom
+🏅 Shut The Techno - KAIZ
 ```
 
 <!-- netease-music-box end -->

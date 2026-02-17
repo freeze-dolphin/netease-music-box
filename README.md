@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
-🥈 Rằng Em Mãi Ở Bên - Bích Phương
-🥉 Cắt Đôi Nỗi Sầu - Tăng Duy Tân/Drum 7
-🏅 Limen - Silentroom
-🏅 Shut The Techno - KAIZ
+🥇 Limen - Silentroom
+🥈 TRIMURTI (三相神) - CVRCH
+🥉 Ehrenweg - Taishi
+🏅 Orbit - Koven/HALIENE
+🏅 Révolution (feat. Ratzotek) - Kalbo/Ratzotek
 ```
 
 <!-- netease-music-box end -->

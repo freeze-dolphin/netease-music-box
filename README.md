@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Limen - Silentroom
-🥈 TRIMURTI (三相神) - CVRCH
-🥉 Ehrenweg - Taishi
-🏅 Orbit - Koven/HALIENE
-🏅 Révolution (feat. Ratzotek) - Kalbo/Ratzotek
+🥇 Tamsioj Naktelėj - hentairavegod
+🥈 navy - tai hirose
+🥉 Chinese Taxi Driver (Original Mix) - Hyrule War
+🏅 扶桑 THE FUSOR ARBOR - BLACK 0
+🏅 OUTRAGE - USAO/DJ Myosuke
 ```
 
 <!-- netease-music-box end -->

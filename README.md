@@ -6,9 +6,9 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Tamsioj Naktelėj - hentairavegod
-🥈 Chinese Taxi Driver (Original Mix) - Hyrule War
-🥉 Révolution (feat. Ratzotek) - Kalbo/Ratzotek
-🏅 navy - tai hirose
+🥈 Révolution (feat. Ratzotek) - Kalbo/Ratzotek
+🥉 navy - tai hirose
+🏅 Chinese Taxi Driver (Original Mix) - Hyrule War
 🏅 扶桑 THE FUSOR ARBOR - BLACK 0
 ```
 

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 The Sky On Fire (Dr. Peacock Remix) (Original Mix) - Ophidian/Dr. Peacock
-🥈 The Sky On Fire (Dr. Peacock Remix) - Ophidian
+🥇 Embrace The Chaos - Merkurius
+🥈 Creeping - Merkurius
 🥉 るりいろ - 平岡歌恋
 🏅 Phantom - Nardis
-🏅 Kaede (Chillout Mix) - Nhato
+🏅 As Silver as Clouds - IceflameCat
 ```
 
 <!-- netease-music-box end -->

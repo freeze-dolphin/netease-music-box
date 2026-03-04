@@ -7,9 +7,9 @@
 ```text
 🥇 Embrace The Chaos - Merkurius
 🥈 Creeping - Merkurius
-🥉 るりいろ - 平岡歌恋
-🏅 Phantom - Nardis
+🥉 Phantom - Nardis
 🏅 As Silver as Clouds - IceflameCat
+🏅 21 - Lcz-Sv
 ```
 
 <!-- netease-music-box end -->

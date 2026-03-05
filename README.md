@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Embrace The Chaos - Merkurius
-🥈 Creeping - Merkurius
-🥉 Phantom - Nardis
-🏅 As Silver as Clouds - IceflameCat
+🥈 Phantom - Nardis
+🥉 As Silver as Clouds - IceflameCat
 🏅 21 - Lcz-Sv
+🏅 Creeping - Merkurius
 ```
 
 <!-- netease-music-box end -->

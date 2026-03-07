@@ -5,11 +5,7 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Embrace The Chaos - Merkurius
-🥈 21 - Lcz-Sv
-🥉 Creeping - Merkurius
-🏅 Phantom - Nardis
-🏅 Reborn(VIP) - Xilent/Twine
+🥇 Hope Island (Original Mix) - Sound Apparel
 ```
 
 <!-- netease-music-box end -->

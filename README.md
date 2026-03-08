@@ -6,6 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Hope Island (Original Mix) - Sound Apparel
+🥈 吉祥如意 - 凤凰传奇
+🥉 Bass Telekinesis - Vanguard Sound
+🏅 雾篁 - 铁痕电台-MSR/Mike Truman/Lottie Truman
+🏅 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
 ```
 
 <!-- netease-music-box end -->

@@ -9,7 +9,7 @@
 🥈 Bass Telekinesis - Vanguard Sound
 🥉 雾篁 - 铁痕电台-MSR/Mike Truman/Lottie Truman
 🏅 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
-🏅 《证我天音》 （《诛仙世界》天音阁门派推广曲） - 诛仙世界
+🏅 行渡 - 铁痕电台-MSR/Gareth Coker
 ```
 
 <!-- netease-music-box end -->

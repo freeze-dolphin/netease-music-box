@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 吉祥如意 - 凤凰传奇
-🥈 Bass Telekinesis - Vanguard Sound
-🥉 雾篁 - 铁痕电台-MSR/Mike Truman/Lottie Truman
-🏅 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
-🏅 行渡 - 铁痕电台-MSR/Gareth Coker
+🥇 月の雫 - Φ串Φ
+🥈 EON BREAK - Virtual Self
+🥉 吉祥如意 - 凤凰传奇
+🏅 Bass Telekinesis - Vanguard Sound
+🏅 雾篁 - 铁痕电台-MSR/Mike Truman/Lottie Truman
 ```
 
 <!-- netease-music-box end -->

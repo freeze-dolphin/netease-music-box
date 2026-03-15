@@ -8,8 +8,8 @@
 🥇 月の雫 - Φ串Φ
 🥈 EON BREAK - Virtual Self
 🥉 吉祥如意 - 凤凰传奇
+🏅 Vagrant - Feint/Veela
 🏅 Bass Telekinesis - Vanguard Sound
-🏅 雾篁 - 铁痕电台-MSR/Mike Truman/Lottie Truman
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 月の雫 - Φ串Φ
 🥈 EON BREAK - Virtual Self
-🥉 吉祥如意 - 凤凰传奇
+🥉 咏春 - 七朵组合
 🏅 Vagrant - Feint/Veela
-🏅 Bass Telekinesis - Vanguard Sound
+🏅 行渡 - 铁痕电台-MSR/Gareth Coker
 ```
 
 <!-- netease-music-box end -->

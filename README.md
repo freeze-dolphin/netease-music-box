@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 月の雫 - Φ串Φ
-🥈 EON BREAK - Virtual Self
-🥉 咏春 - 七朵组合
-🏅 Vagrant - Feint/Veela
-🏅 行渡 - 铁痕电台-MSR/Gareth Coker
+🥇 Graces of Heaven - aran
+🥈 片羽 - 天音かなた
+🥉 月の雫 - Φ串Φ
+🏅 Phantom - Nardis
+🏅 Sulyvahn - Kobaryo/USAO
 ```
 
 <!-- netease-music-box end -->

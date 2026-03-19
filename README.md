@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Graces of Heaven - aran
-🥈 片羽 - 天音かなた
-🥉 月の雫 - Φ串Φ
-🏅 Phantom - Nardis
-🏅 Sulyvahn - Kobaryo/USAO
+🥈 赤羽砯崖·尘濯贰 - Nanchou
+🥉 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
+🏅 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
+🏅 Una Mattina - Papa Tin
 ```
 
 <!-- netease-music-box end -->

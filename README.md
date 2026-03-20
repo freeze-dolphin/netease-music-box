@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Graces of Heaven - aran
-🥈 赤羽砯崖·尘濯贰 - Nanchou
-🥉 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
-🏅 IF = Infinity - Remnlar/プシ/Particulate/Nanchou/艾苏凛/Jiuwenzi
-🏅 Una Mattina - Papa Tin
+🥈 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
+🥉 Una Mattina - Papa Tin
+🏅 片羽 - 天音かなた
+🏅 Psychedelic Wasteland (Defqon 1 Australia 2011 Anthem) - Toneshifterz
 ```
 
 <!-- netease-music-box end -->

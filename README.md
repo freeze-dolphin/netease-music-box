@@ -8,8 +8,8 @@
 🥇 Graces of Heaven - aran
 🥈 Night Blooming Jasmine - Hello Meteor
 🥉 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
+🏅 見ル見エル (feat. 安次嶺希和子) - 未来古代楽団/安次嶺希和子
 🏅 21 - Lcz-Sv
-🏅 Una Mattina - Papa Tin
 ```
 
 <!-- netease-music-box end -->

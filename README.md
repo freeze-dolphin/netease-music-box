@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Graces of Heaven - aran
-🥈 Night Blooming Jasmine - Hello Meteor
-🥉 孤案灯青 - 铁痕电台-MSR/MSR Studio/BLACK 0/Aurora Sky
-🏅 見ル見エル (feat. 安次嶺希和子) - 未来古代楽団/安次嶺希和子
-🏅 21 - Lcz-Sv
+🥇 見ル見エル (feat. 安次嶺希和子) - 未来古代楽団/安次嶺希和子
+🥈 21 - Lcz-Sv
+🥉 Night Blooming Jasmine - Hello Meteor
+🏅 unsymmetry(long version) - KOTOKO
+🏅 Aural Deluge - Animadrop
 ```
 
 <!-- netease-music-box end -->

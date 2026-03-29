@@ -9,7 +9,7 @@
 🥈 unsymmetry(long version) - KOTOKO
 🥉 るりいろ - 平岡歌恋
 🏅 天妖ノ舞 - 天子/清水達也
-🏅 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
+🏅 Aural Deluge - Animadrop
 ```
 
 <!-- netease-music-box end -->

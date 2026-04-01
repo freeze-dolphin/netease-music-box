@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 見ル見エル (feat. 安次嶺希和子) - 未来古代楽団/安次嶺希和子
-🥈 Aural Deluge - Animadrop
-🥉 unsymmetry(long version) - KOTOKO
+🥈 unsymmetry(long version) - KOTOKO
+🥉 Aural Deluge - Animadrop
+🏅 Written by... - BLACKDD
 🏅 るりいろ - 平岡歌恋
-🏅 ハードコア般若心経 (feat. Dj Grimoire) - Team Grimoire/Dj Grimoire
 ```
 
 <!-- netease-music-box end -->

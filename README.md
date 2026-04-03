@@ -8,8 +8,8 @@
 🥇 Aural Deluge - Animadrop
 🥈 Daily Night - Famishin
 🥉 Written by... - BLACKDD
+🏅 I Will Give You My All 2017 - Simon Viklund
 🏅 Sneaky Driver - Various Artists
-🏅 unsymmetry(long version) - KOTOKO
 ```
 
 <!-- netease-music-box end -->

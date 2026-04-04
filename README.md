@@ -8,8 +8,8 @@
 🥇 Aural Deluge - Animadrop
 🥈 Daily Night - Famishin
 🥉 Written by... - BLACKDD
-🏅 I Will Give You My All 2017 - Simon Viklund
 🏅 Sneaky Driver - Various Artists
+🏅 Array (feat. Srezcat, DJ NECOJITA, Matatabi Sound System & blaxervant) - Kobaryo/Srezcat/DJ NECOJITA/Matatabi Sound System/blaxervant
 ```
 
 <!-- netease-music-box end -->

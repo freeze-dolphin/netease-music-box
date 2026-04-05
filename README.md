@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Aural Deluge - Animadrop
-🥈 Daily Night - Famishin
-🥉 Written by... - BLACKDD
-🏅 Sneaky Driver - Various Artists
+🥈 I Will Give You My All 2017 - Simon Viklund
+🥉 Sneaky Driver - Various Artists
 🏅 Array (feat. Srezcat, DJ NECOJITA, Matatabi Sound System & blaxervant) - Kobaryo/Srezcat/DJ NECOJITA/Matatabi Sound System/blaxervant
+🏅 Χάρων (K-Sz Remix) - Daily天利/Reku Mochizuki/K-Sz
 ```
 
 <!-- netease-music-box end -->

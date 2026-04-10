@@ -6,8 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 I Will Give You My All 2017 - Simon Viklund
-🥈 Daily Night - Famishin
-🥉 Endless Blue - Seb Gardner
+🥈 Endless Blue - Seb Gardner
+🥉 Daily Night - Famishin
 🏅 一觉醒来全Phigros愚人节曲速度减半，而你手速保持不变 - K-Sz/Daily天利
 🏅 花影未终 ～ Unended Shadow - 春野杉卉
 ```

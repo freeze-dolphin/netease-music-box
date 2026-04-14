@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Endless Blue - Seb Gardner
-🥈 Daily Night - Famishin
-🥉 罗刹海市 - 刀郎
-🏅 I Will Give You My All 2017 - Simon Viklund
-🏅 Nakunaru - P3T_SAYU/卉HUI-Works
+🥇 罗刹海市 - 刀郎
+🥈 大江南 - 刀郎/奚晓天
+🥉 屋久島の声 kodama - KOKIA
+🏅 Daily Night - Famishin
+🏅 Endless Blue - Seb Gardner
 ```
 
 <!-- netease-music-box end -->

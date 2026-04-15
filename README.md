@@ -7,9 +7,9 @@
 ```text
 🥇 罗刹海市 - 刀郎
 🥈 大江南 - 刀郎/奚晓天
-🥉 屋久島の声 kodama - KOKIA
-🏅 Daily Night - Famishin
-🏅 Endless Blue - Seb Gardner
+🥉 R.エ.M. - NoKANY
+🏅 open your heart - 梶浦由記
+🏅 バンバード (Piano Version) - mozell
 ```
 
 <!-- netease-music-box end -->

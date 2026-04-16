@@ -8,8 +8,8 @@
 🥇 罗刹海市 - 刀郎
 🥈 大江南 - 刀郎/奚晓天
 🥉 R.エ.M. - NoKANY
-🏅 open your heart - 梶浦由記
-🏅 バンバード (Piano Version) - mozell
+🏅 Koki Chant - Glacier
+🏅 路南柯 - 刀郎
 ```
 
 <!-- netease-music-box end -->

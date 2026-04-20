@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 罗刹海市 - 刀郎
-🥈 大江南 - 刀郎/奚晓天
-🥉 R.エ.M. - NoKANY
-🏅 Koki Chant - Glacier
-🏅 路南柯 - 刀郎
+🥇 Koki Chant - Glacier
+🥈 罗刹海市 - 刀郎
+🥉 大江南 - 刀郎/奚晓天
+🏅 But U（Feat.Ella） - Clear Sky
+🏅 追龙 (Chasing The Dragon) (Extended Mix) - VESK GREEN 青菜
 ```
 
 <!-- netease-music-box end -->

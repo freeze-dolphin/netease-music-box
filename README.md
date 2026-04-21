@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Koki Chant - Glacier
-🥈 罗刹海市 - 刀郎
-🥉 大江南 - 刀郎/奚晓天
-🏅 But U（Feat.Ella） - Clear Sky
-🏅 追龙 (Chasing The Dragon) (Extended Mix) - VESK GREEN 青菜
+🥈 But U（Feat.Ella） - Clear Sky
+🥉 追龙 (Chasing The Dragon) (Extended Mix) - VESK GREEN 青菜
+🏅 CURTSY - 澤野弘之
+🏅 Film Canister Slime (feat. Srezcat) - Kobaryo/Srezcat
 ```
 
 <!-- netease-music-box end -->

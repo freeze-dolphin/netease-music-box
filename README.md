@@ -9,7 +9,7 @@
 🥈 追龙 (Chasing The Dragon) (Extended Mix) - VESK GREEN 青菜
 🥉 CURTSY - 澤野弘之
 🏅 Film Canister Slime (feat. Srezcat) - Kobaryo/Srezcat
-🏅 Koki Chant - Glacier
+🏅 Fly - MYTK
 ```
 
 <!-- netease-music-box end -->

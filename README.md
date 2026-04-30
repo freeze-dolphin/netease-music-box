@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
-🥈 大江南 - 刀郎/奚晓天
-🥉 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
+🥈 Moonfall (Pdg Remix) - Xomu/PDG
+🥉 大江南 - 刀郎/奚晓天
+🏅 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
 🏅 Rằng Em Mãi Ở Bên - Bích Phương
-🏅 Cắt Đôi Nỗi Sầu - Tăng Duy Tân/Drum 7
 ```
 
 <!-- netease-music-box end -->

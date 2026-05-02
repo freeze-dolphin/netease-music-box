@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
-🥈 Moonfall (Pdg Remix) - Xomu/PDG
-🥉 大江南 - 刀郎/奚晓天
-🏅 Nhà Giam Tâm Hồn - Tăng Duy Tân/2pillz
-🏅 Rằng Em Mãi Ở Bên - Bích Phương
+🥇 Meat Grinder - Various Artists
+🥈 Only U - Clear Sky
+🥉 Azure Breathing - Sean Ven
+🏅 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
+🏅 镜听 - 刀郎
 ```
 
 <!-- netease-music-box end -->

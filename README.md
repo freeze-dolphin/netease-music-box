@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Meat Grinder - Various Artists
-🥈 Only U - Clear Sky
-🥉 Azure Breathing - Sean Ven
-🏅 Anh Đã Loop Trong Niềm Đau Này - Tăng Duy Tân/Drum7
-🏅 镜听 - 刀郎
+🥇 沙耶の唄 - いとうかなこ
+🥈 Growing! - 佐藤しずく
+🥉 Moonfall (Pdg Remix) - Xomu/PDG
+🏅 Once In A Lifetime - Dimension/bbyclose
+🏅 Only U - Clear Sky
 ```
 
 <!-- netease-music-box end -->

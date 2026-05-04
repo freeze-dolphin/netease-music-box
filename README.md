@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 沙耶の唄 - いとうかなこ
-🥈 Growing! - 佐藤しずく
-🥉 Moonfall (Pdg Remix) - Xomu/PDG
+🥇 栖景室 - 塞壬唱片-MSR/Christian Lee
+🥈 沙耶の唄 - いとうかなこ
+🥉 Growing! - 佐藤しずく
+🏅 Moonfall (Pdg Remix) - Xomu/PDG
 🏅 Once In A Lifetime - Dimension/bbyclose
-🏅 Only U - Clear Sky
 ```
 
 <!-- netease-music-box end -->

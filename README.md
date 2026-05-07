@@ -8,8 +8,8 @@
 🥇 沙耶の唄 - いとうかなこ
 🥈 Growing! - 佐藤しずく
 🥉 栖景室 - 塞壬唱片-MSR/Christian Lee
-🏅 Moonfall (Pdg Remix) - Xomu/PDG
 🏅 Once In A Lifetime - Dimension/bbyclose
+🏅 Only U - Clear Sky
 ```
 
 <!-- netease-music-box end -->

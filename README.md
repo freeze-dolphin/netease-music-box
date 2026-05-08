@@ -8,8 +8,8 @@
 🥇 沙耶の唄 - いとうかなこ
 🥈 Growing! - 佐藤しずく
 🥉 栖景室 - 塞壬唱片-MSR/Christian Lee
-🏅 Once In A Lifetime - Dimension/bbyclose
 🏅 Only U - Clear Sky
+🏅 FADE - Alesso/Pendulum
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 アイデン貞貞メルトダウン - えなこ/P丸様。
 🥈 I Can Fly In The Universe - かめりあ
-🥉 Future Forward(2025 Remasterd) - cleanmindsounds
-🏅 Future Forward - cleanmindsounds
-🏅 Flaming June (BT & PvD Original Mix) - BT/Paul van Dyk
+🥉 Flaming June (BT & PvD Original Mix) - BT/Paul van Dyk
+🏅 LAMENTO (;_;) - Blacklolita
+🏅 無慈悲レクイエム~I'm engulfed in sorrow~ - UMA
 ```
 
 <!-- netease-music-box end -->

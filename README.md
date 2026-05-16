@@ -8,8 +8,8 @@
 🥇 アイデン貞貞メルトダウン - えなこ/P丸様。
 🥈 I Can Fly In The Universe - かめりあ
 🥉 Flaming June (BT & PvD Original Mix) - BT/Paul van Dyk
-🏅 LAMENTO (;_;) - Blacklolita
 🏅 無慈悲レクイエム~I'm engulfed in sorrow~ - UMA
+🏅 Zonestic - lapix/Blacklolita
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 アイデン貞貞メルトダウン - えなこ/P丸様。
-🥈 I Can Fly In The Universe - かめりあ
-🥉 Flaming June (BT & PvD Original Mix) - BT/Paul van Dyk
-🏅 Zonestic - lapix/Blacklolita
-🏅 沙耶の唄 - いとうかなこ
+🥇 自己嫌悪 - 立入禁止
+🥈 アイデン貞貞メルトダウン - えなこ/P丸様。
+🥉 I Can Fly In The Universe - かめりあ
+🏅 Canto IX Boss 10 Battle Theme - ProjectMoon/StudioEIM
+🏅 雨岸线 - 西城的夏
 ```
 
 <!-- netease-music-box end -->

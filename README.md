@@ -9,7 +9,7 @@
 🥈 アイデン貞貞メルトダウン - えなこ/P丸様。
 🥉 I Can Fly In The Universe - かめりあ
 🏅 Canto IX Boss 10 Battle Theme - ProjectMoon/StudioEIM
-🏅 雨岸线 - 西城的夏
+🏅 Bright Lights - Lyctum
 ```
 
 <!-- netease-music-box end -->

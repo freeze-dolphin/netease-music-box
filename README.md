@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 自己嫌悪 - 立入禁止
-🥈 Canto IX Boss 10 Battle Theme - ProjectMoon/StudioEIM
-🥉 雨岸线 - 西城的夏
-🏅 冲动的惩罚(Remix) - 刀郎
-🏅 Hallucination (Goblin - X Remix) - Status Zero/Goblin - X
+🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
+🥈 坠入星河的帷幕 - Warsic/壹勺籽糖
+🥉 四大喜 - Zp大王
+🏅 TIAN TIAN - Mili
+🏅 蜘蛛糸モノポリー - sasakure.UK/初音ミク
 ```
 
 <!-- netease-music-box end -->

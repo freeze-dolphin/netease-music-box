@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
-🥈 HiTECH Shotgun - ハイテック職人の朝は早い - - DJ Raisei/RYOQUCHA
-🥉 A Matter of Time - Alexandra Lilly
-🏅 Hallucination (Goblin - X Remix) - Status Zero/Goblin - X
-🏅 Canto IX Boss 10 Battle Theme - ProjectMoon/StudioEIM
+🥈 A Matter of Time - Alexandra Lilly
+🥉 Devil Trigger - Ali Edwards
+🏅 Ether Second - Akira Complex
+🏅 HiTECH Shotgun - ハイテック職人の朝は早い - - DJ Raisei/RYOQUCHA
 ```
 
 <!-- netease-music-box end -->

@@ -7,9 +7,9 @@
 ```text
 🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
 🥈 A Matter of Time - Alexandra Lilly
-🥉 Devil Trigger - Ali Edwards
-🏅 Ether Second - Akira Complex
-🏅 HiTECH Shotgun - ハイテック職人の朝は早い - - DJ Raisei/RYOQUCHA
+🥉 HiTECH Shotgun - ハイテック職人の朝は早い - - DJ Raisei/RYOQUCHA
+🏅 Zero Eclipse - 澤野弘之/Laco
+🏅 Devil Trigger - Ali Edwards
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
-🥈 雨岸线 - 西城的夏
-🥉 A Matter of Time - Alexandra Lilly
-🏅 HiTECH Shotgun - ハイテック職人の朝は早い - - DJ Raisei/RYOQUCHA
-🏅 Zero Eclipse - 澤野弘之/Laco
+🥈 A Matter of Time - Alexandra Lilly
+🥉 Zero Eclipse - 澤野弘之/Laco
+🏅 Devil Trigger - Ali Edwards
+🏅 The Words I Never Said In D&B - Mage
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
-🥈 A Matter of Time - Alexandra Lilly
-🥉 Zero Eclipse - 澤野弘之/Laco
-🏅 Devil Trigger - Ali Edwards
-🏅 The Words I Never Said In D&B - Mage
+🥈 The Words I Never Said In D&B - Mage
+🥉 Time(Chillout Mix) - Abstract Vision/Elite Electronic
+🏅 Defying Gravity (Original Ambient Space Mix) - Solarsoul
+🏅 Klangsine (Original Mix) - Sine
 ```
 
 <!-- netease-music-box end -->

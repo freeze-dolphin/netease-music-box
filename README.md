@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 SECTR05 (feat. 終末うにこ) - DJ Raisei/終末うにこ
-🥈 The Words I Never Said In D&B - Mage
-🥉 Time(Chillout Mix) - Abstract Vision/Elite Electronic
-🏅 Defying Gravity (Original Ambient Space Mix) - Solarsoul
+🥇 The Words I Never Said In D&B - Mage
+🥈 Time(Chillout Mix) - Abstract Vision/Elite Electronic
+🥉 Defying Gravity (Original Ambient Space Mix) - Solarsoul
 🏅 Klangsine (Original Mix) - Sine
+🏅 Instrospection - Waking Dreams
 ```
 
 <!-- netease-music-box end -->

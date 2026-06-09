@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 青衣 (DJ我为你唱一曲如游丝的气息) - 尘ah.
-🥈 Time(Chillout Mix) - Abstract Vision/Elite Electronic
-🥉 Defying Gravity (Original Ambient Space Mix) - Solarsoul
+🥈 Instrospection - Waking Dreams
+🥉 Time(Chillout Mix) - Abstract Vision/Elite Electronic
+🏅 Defying Gravity (Original Ambient Space Mix) - Solarsoul
 🏅 Klangsine (Original Mix) - Sine
-🏅 Instrospection - Waking Dreams
 ```
 
 <!-- netease-music-box end -->

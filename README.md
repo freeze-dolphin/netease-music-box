@@ -9,7 +9,7 @@
 🥈 Racemization - かめりあ
 🥉 TIAN TIAN - Mili
 🏅 Sky Seeker (feat. 千花) - 千花/rejection
-🏅 I am "End" - 削除
+🏅 時代を超える想い2 - 和田薫
 ```
 
 <!-- netease-music-box end -->

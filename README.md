@@ -7,9 +7,9 @@
 ```text
 🥇 青衣 (DJ我为你唱一曲如游丝的气息) - 尘ah.
 🥈 Racemization - かめりあ
-🥉 TIAN TIAN - Mili
+🥉 Rebooting Wings - Kobaryo
+🏅 星降る夜と一輪の花 - seatrus
 🏅 Sky Seeker (feat. 千花) - 千花/rejection
-🏅 時代を超える想い2 - 和田薫
 ```
 
 <!-- netease-music-box end -->

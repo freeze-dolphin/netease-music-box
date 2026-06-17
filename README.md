@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 青衣 (DJ我为你唱一曲如游丝的气息) - 尘ah.
-🥈 Racemization - かめりあ
-🥉 Rebooting Wings - Kobaryo
-🏅 星降る夜と一輪の花 - seatrus
-🏅 Sky Seeker (feat. 千花) - 千花/rejection
+🥇 Rebooting Wings - Kobaryo
+🥈 Squall - M.Graveyard
+🥉 星降る夜と一輪の花 - seatrus
+🏅 時代を超える想い2 - 和田薫
+🏅 An Old Song - MoreanP
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 Rebooting Wings - Kobaryo
 🥈 Squall - M.Graveyard
 🥉 星降る夜と一輪の花 - seatrus
+🏅 SLEEPWALK - ヒトリエ
 🏅 時代を超える想い2 - 和田薫
-🏅 An Old Song - MoreanP
 ```
 
 <!-- netease-music-box end -->

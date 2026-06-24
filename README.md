@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Rebooting Wings - Kobaryo
-🥈 Squall - M.Graveyard
-🥉 星降る夜と一輪の花 - seatrus
-🏅 SLEEPWALK - ヒトリエ
-🏅 時代を超える想い2 - 和田薫
+🥇 Clover Heart's -New days recording- full ver. - 真理絵
+🥈 Clover Heart's -Re:product mix- full chorus ver - fripSide
+🥉 運命(さだめ) - Angel Note/井ノ原智
+🏅 花葬 - 水城新人
+🏅 キズナヒトツ - 山本希望
 ```
 
 <!-- netease-music-box end -->

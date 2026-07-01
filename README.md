@@ -7,9 +7,9 @@
 ```text
 🥇 Clover Heart's -New days recording- full ver. - 真理絵
 🥈 Clover Heart's -Re:product mix- full chorus ver - fripSide
-🥉 運命(さだめ) - Angel Note/井ノ原智
-🏅 花葬 - 水城新人
-🏅 キズナヒトツ - 山本希望
+🥉 キズナヒトツ - ムラサメ（CV： 佐藤みかん）
+🏅 湿原 - Taz
+🏅 Clover Heart's -New days recording- game ver. - 真理絵
 ```
 
 <!-- netease-music-box end -->

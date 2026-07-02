@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Clover Heart's -New days recording- full ver. - 真理絵
-🥈 Clover Heart's -Re:product mix- full chorus ver - fripSide
-🥉 キズナヒトツ - ムラサメ（CV： 佐藤みかん）
-🏅 湿原 - Taz
-🏅 Clover Heart's -New days recording- game ver. - 真理絵
+🥇 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
+🥈 空山•野马 - Bethybai/岸炘
+🥉 In Hell We Live, Lament (Let's Lament) - Mili/KIHOW
+🏅 far in the blue sky... - Saikoro
+🏅 Little Busters! (Ecstacy Ver.) - Rita/VISUAL ARTS / Key
 ```
 
 <!-- netease-music-box end -->

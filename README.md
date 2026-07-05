@@ -8,8 +8,8 @@
 🥇 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
 🥈 空山•野马 - Bethybai/岸炘
 🥉 far in the blue sky... - Saikoro
-🏅 Little Busters! (Ecstacy Ver.) - Rita/VISUAL ARTS / Key
-🏅 キズナヒトツ - ムラサメ（CV： 佐藤みかん）
+🏅 bright sun - 黄昏フロンティア
+🏅 空夢 - M.Graveyard
 ```
 
 <!-- netease-music-box end -->

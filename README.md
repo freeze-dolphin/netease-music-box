@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
-🥈 空山•野马 - Bethybai/岸炘
-🥉 far in the blue sky... - Saikoro
-🏅 bright sun - 黄昏フロンティア
-🏅 空夢 - M.Graveyard
+🥈 bright sun - 黄昏フロンティア
+🥉 空夢 - M.Graveyard
+🏅 Soul scour - M.Graveyard
+🏅 陰 - M.Graveyard
 ```
 
 <!-- netease-music-box end -->

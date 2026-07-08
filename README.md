@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
-🥈 bright sun - 黄昏フロンティア
-🥉 空夢 - M.Graveyard
-🏅 Soul scour - M.Graveyard
-🏅 陰 - M.Graveyard
+🥈 雪野原 - VISUAL ARTS / Key
+🥉 Ether Second - Akira Complex
+🏅 悔_ - Essbee
+🏅 Metheus - ARForest
 ```
 
 <!-- netease-music-box end -->

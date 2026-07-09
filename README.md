@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
-🥈 雪野原 - VISUAL ARTS / Key
-🥉 Ether Second - Akira Complex
-🏅 悔_ - Essbee
-🏅 Metheus - ARForest
+🥇 悔_ - Essbee
+🥈 Metheus - ARForest
+🥉 雪野原 - VISUAL ARTS / Key
+🏅 Flaming June - BT
+🏅 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
 ```
 
 <!-- netease-music-box end -->

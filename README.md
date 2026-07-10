@@ -8,8 +8,8 @@
 🥇 悔_ - Essbee
 🥈 Metheus - ARForest
 🥉 雪野原 - VISUAL ARTS / Key
-🏅 Flaming June - BT
-🏅 far in the blue sky...(4mberST0NE&porrige Bootleg) - 4mberST0NE/porrige
+🏅 Undying Macula ~penumbra~ - Ashrount
+🏅 Never End - Cres.
 ```
 
 <!-- netease-music-box end -->

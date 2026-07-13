@@ -7,8 +7,8 @@
 ```text
 🥇 悔_ - Essbee
 🥈 Metheus - ARForest
-🥉 Never End - Cres.
-🏅 Counting Breaths - Gardens/Eili
+🥉 Counting Breaths - Gardens/Eili
+🏅 Never End - Cres.
 🏅 雪野原 - VISUAL ARTS / Key
 ```
 

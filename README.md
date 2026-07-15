@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 悔_ - Essbee
-🥈 Metheus - ARForest
-🥉 Counting Breaths - Gardens/Eili
-🏅 Never End - Cres.
+🥇 Counting Breaths - Gardens/Eili
+🥈 悔_ - Essbee
+🥉 Never End - Cres.
+🏅 Metheus - ARForest
 🏅 Prediction - Ik4sumi
 ```
 

@@ -7,9 +7,9 @@
 ```text
 🥇 Prediction - Ik4sumi
 🥈 Counting Breaths - Gardens/Eili
-🥉 AiAe - ゆよゆっぺ
-🏅 悔_ - Essbee
+🥉 悔_ - Essbee
 🏅 Never End - Cres.
+🏅 Edge Of The Universe - Gero Goerlich
 ```
 
 <!-- netease-music-box end -->

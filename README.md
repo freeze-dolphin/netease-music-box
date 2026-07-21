@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Prediction - Ik4sumi
-🥈 Counting Breaths - Gardens/Eili
-🥉 AiAe - ゆよゆっぺ
-🏅 ΩΩPARTS - かめりあ
-🏅 雪野原 - VISUAL ARTS / Key
+🥈 ΩΩPARTS - かめりあ
+🥉 RoquiRa : Between Life and Death - Raphiiel
+🏅 大地の閾を探して -Looking for Edge of Ground- - かめりあ
+🏅 #1f1e33 (#00102g version) - かめりあ
 ```
 
 <!-- netease-music-box end -->

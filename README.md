@@ -7,9 +7,9 @@
 ```text
 🥇 Prediction - Ik4sumi
 🥈 ΩΩPARTS - かめりあ
-🥉 RoquiRa : Between Life and Death - Raphiiel
-🏅 大地の閾を探して -Looking for Edge of Ground- - かめりあ
-🏅 #1f1e33 (#00102g version) - かめりあ
+🥉 雨 - 徐梦圆
+🏅 Heart Linked - Jannik
+🏅 Touch the Rain - Jannik
 ```
 
 <!-- netease-music-box end -->

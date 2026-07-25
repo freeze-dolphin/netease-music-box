@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Prediction - Ik4sumi
-🥈 雨 - 徐梦圆
-🥉 Heart Linked - Jannik
-🏅 Touch the Rain - Jannik
-🏅 RoquiRa : Between Life and Death - Raphiiel
+🥇 雨 - 徐梦圆
+🥈 Heart Linked - Jannik
+🥉 Touch the Rain - Jannik
+🏅 Prediction - Ik4sumi
+🏅 Idealized Romance - void
 ```
 
 <!-- netease-music-box end -->

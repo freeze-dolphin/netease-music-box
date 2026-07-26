@@ -8,8 +8,8 @@
 🥇 雨 - 徐梦圆
 🥈 Heart Linked - Jannik
 🥉 Touch the Rain - Jannik
-🏅 Prediction - Ik4sumi
 🏅 Idealized Romance - void
+🏅 風の住む街 - 磯村由紀子
 ```
 
 <!-- netease-music-box end -->

@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 雨 - 徐梦圆
-🥈 Heart Linked - Jannik
-🥉 Touch the Rain - Jannik
-🏅 Idealized Romance - void
-🏅 風の住む街 - 磯村由紀子
+🥇 Rain Rec - N.K.杨凯
+🥈 秋雨蒙蒙 - N.K.杨凯
+🥉 深秋的雨 - N.K.杨凯
+🏅 盛夏之雨 - N.K.杨凯
+🏅 那年的雨 - N.K.杨凯
 ```
 
 <!-- netease-music-box end -->

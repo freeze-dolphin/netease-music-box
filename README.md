@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Rain Rec - N.K.杨凯
-🥈 秋雨蒙蒙 - N.K.杨凯
-🥉 深秋的雨 - N.K.杨凯
-🏅 盛夏之雨 - N.K.杨凯
-🏅 那年的雨 - N.K.杨凯
+🥇 碧玉的江孜 - 钢琴曲 - 幽蓝键
+🥈 十六夜月 INST - onoken
+🥉 Meteor Blade - Laur
+🏅 迷 - 立入禁止
+🏅 君知我 - 铁痕电台-MSR
 ```
 
 <!-- netease-music-box end -->

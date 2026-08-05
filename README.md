@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 碧玉的江孜 - 钢琴曲 - 幽蓝键
-🥈 十六夜月 INST - onoken
-🥉 Meteor Blade - Laur
-🏅 迷 - 立入禁止
-🏅 君知我 - 铁痕电台-MSR
+🥇 君知我 - 铁痕电台-MSR
+🥈 抽屉里的花园 - Warsic/壹勺籽糖
+🥉 青空 (katsu+すみじゅん Remix) - Lia/VISUAL ARTS / Key
+🏅 Life We Sow - 魔法使いの約束
+🏅 木漏れ日 - riya
 ```
 
 <!-- netease-music-box end -->

@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 青空 (katsu+すみじゅん Remix) - Lia/VISUAL ARTS / Key
-🥈 時を刻む唄 - Lia
-🥉 Tchakaboom - Merkurius
+🥇 時を刻む唄 - Lia
+🥈 Tchakaboom - Merkurius
+🥉 Gestalt - aran
 🏅 ひぐらしのなく頃に - 島みやえい子
 🏅 時を刻む唄 - Lia
 ```

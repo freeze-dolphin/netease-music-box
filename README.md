@@ -8,8 +8,8 @@
 🥇 時を刻む唄 - Lia
 🥈 Tchakaboom - Merkurius
 🥉 Gestalt - aran
-🏅 ひぐらしのなく頃に - 島みやえい子
-🏅 時を刻む唄 - Lia
+🏅 君知我 - 铁痕电台-MSR
+🏅 抽屉里的花园 - Warsic/壹勺籽糖
 ```
 
 <!-- netease-music-box end -->

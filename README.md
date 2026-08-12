@@ -8,8 +8,8 @@
 🥇 時を刻む唄 - Lia
 🥈 Gestalt - aran
 🥉 Tchakaboom - Merkurius
-🏅 君知我 - 铁痕电台-MSR
-🏅 抽屉里的花园 - Warsic/壹勺籽糖
+🏅 少女の幻想 (ZTS Remix) - riya/Haruka Shimotsuki/takumaru
+🏅 時を刻む唄 - Lia
 ```
 
 <!-- netease-music-box end -->

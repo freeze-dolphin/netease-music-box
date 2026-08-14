@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 時を刻む唄 - Lia
+🥇 Tchakaboom - Merkurius
 🥈 Gestalt - aran
-🥉 Tchakaboom - Merkurius
-🏅 少女の幻想 (ZTS Remix) - riya/Haruka Shimotsuki/takumaru
+🥉 抽屉里的花园 - Warsic/壹勺籽糖
+🏅 Lost Secret - AcuticNotes/Nago
 🏅 時を刻む唄 - Lia
 ```
 

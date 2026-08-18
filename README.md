@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 レクヰエム - 衣笠努/ちさと
-🥈 抽屉里的花园 - Warsic/壹勺籽糖
-🥉 Lost Secret - AcuticNotes/Nago
-🏅 時を刻む唄 - Lia
-🏅 Tchakaboom - Merkurius
+🥈 素直と不器用と意地っ張り-Anime Version- - 三輪学
+🥉 Epiphany - Brand X Music
+🏅 抽屉里的花园 - Warsic/壹勺籽糖
+🏅 SCARSONG - flash8
 ```
 
 <!-- netease-music-box end -->

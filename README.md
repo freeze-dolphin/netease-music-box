@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 レクヰエム - 衣笠努/ちさと
-🥈 素直と不器用と意地っ張り-Anime Version- - 三輪学
-🥉 Epiphany - Brand X Music
-🏅 抽屉里的花园 - Warsic/壹勺籽糖
-🏅 SCARSONG - flash8
+🥇 Sidewalk Cafe - Blonker
+🥈 レクヰエム - 衣笠努/ちさと
+🥉 Sidewalk Café - Blonker
+🏅 レーザービーム - Perfume
+🏅 素直と不器用と意地っ張り-Anime Version- - 三輪学
 ```
 
 <!-- netease-music-box end -->

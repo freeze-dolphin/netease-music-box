@@ -6,8 +6,8 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Sidewalk Cafe - Blonker
-🥈 レクヰエム - 衣笠努/ちさと
-🥉 Sidewalk Café - Blonker
+🥈 Sidewalk Café - Blonker
+🥉 レクヰエム - 衣笠努/ちさと
 🏅 レーザービーム - Perfume
 🏅 素直と不器用と意地っ張り-Anime Version- - 三輪学
 ```

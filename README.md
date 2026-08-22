@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 GTRS - Kral
-🥈 Hypnotising - R3HAB/Skytech
-🥉 Sidewalk Cafe - Blonker
-🏅 Sidewalk Café - Blonker
-🏅 Answers (Extended Mix) - Au5
+🥇 Sidewalk Cafe - Blonker
+🥈 Sidewalk Café - Blonker
+🥉 Answers (Extended Mix) - Au5
+🏅 レーザービーム - Perfume
+🏅 レクヰエム - 衣笠努/ちさと
 ```
 
 <!-- netease-music-box end -->

@@ -9,7 +9,7 @@
 🥈 Sidewalk Café - Blonker
 🥉 Answers (Extended Mix) - Au5
 🏅 レーザービーム - Perfume
-🏅 レクヰエム - 衣笠努/ちさと
+🏅 Destiny - Alesso/SACHA
 ```
 
 <!-- netease-music-box end -->

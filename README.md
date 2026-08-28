@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Sidewalk Cafe - Blonker
-🥈 Sidewalk Café - Blonker
-🥉 Answers (Extended Mix) - Au5
-🏅 レーザービーム - Perfume
-🏅 Destiny - Alesso/SACHA
+🥇 Answers (Extended Mix) - Au5
+🥈 Destiny - Alesso/SACHA
+🥉 GTRS - Kral
+🏅 R.エ.M. - NoKANY
+🏅 CHROMA - Virtual Riot
 ```
 
 <!-- netease-music-box end -->

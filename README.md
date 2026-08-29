@@ -5,11 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Answers (Extended Mix) - Au5
-🥈 Destiny - Alesso/SACHA
-🥉 GTRS - Kral
-🏅 R.エ.M. - NoKANY
-🏅 CHROMA - Virtual Riot
+🥇 Clover Heart's~Four leaves~ - miko
+🥈 恋曲1990 - 罗大佑
+🥉 东方之珠 - 罗大佑
+🏅 你的样子 - 罗大佑
 ```
 
 <!-- netease-music-box end -->

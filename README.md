@@ -5,10 +5,7 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Clover Heart's~Four leaves~ - miko
-🥈 恋曲1990 - 罗大佑
-🥉 东方之珠 - 罗大佑
-🏅 你的样子 - 罗大佑
+🥇 东方之珠 - 罗大佑
 ```
 
 <!-- netease-music-box end -->

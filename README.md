@@ -5,7 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 东方之珠 - 罗大佑
+🥇 回流的时间 - Alan Mackin
+🥈 赐我(一颗狼星版) - 一颗狼星
+🥉 玫瑰也曾温柔过 (DJ慢摇版) - 王娜
+🏅 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
+🏅 ill city (Orzmic Edit) - MulRin
 ```
 
 <!-- netease-music-box end -->

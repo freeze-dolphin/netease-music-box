@@ -7,9 +7,9 @@
 ```text
 🥇 回流的时间 - Alan Mackin
 🥈 赐我(一颗狼星版) - 一颗狼星
-🥉 玫瑰也曾温柔过 (DJ慢摇版) - 王娜
+🥉 Eligos - Team Grimoire
+🏅 玫瑰也曾温柔过 (DJ慢摇版) - 王娜
 🏅 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
-🏅 ill city (Orzmic Edit) - MulRin
 ```
 
 <!-- netease-music-box end -->

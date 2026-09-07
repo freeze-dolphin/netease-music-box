@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 回流的时间 - Alan Mackin
-🥈 赐我(一颗狼星版) - 一颗狼星
-🥉 Eligos - Team Grimoire
-🏅 玫瑰也曾温柔过 (DJ慢摇版) - 王娜
-🏅 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
+🥇 レーザービーム (Album-mix) - Perfume
+🥈 Enchanting Stranger - Forza Horizon/Milk Talk
+🥉 KINGWORLD - sasakure.UK/白上フブキ
+🏅 僕の戦争 - 神聖かまってちゃん
+🏅 Clover Heart's~Four leaves~ - miko
 ```
 
 <!-- netease-music-box end -->

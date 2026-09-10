@@ -7,9 +7,9 @@
 ```text
 🥇 レーザービーム (Album-mix) - Perfume
 🥈 Enchanting Stranger - Forza Horizon/Milk Talk
-🥉 KINGWORLD - sasakure.UK/白上フブキ
+🥉 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
+🏅 KINGWORLD - sasakure.UK/白上フブキ
 🏅 僕の戦争 - 神聖かまってちゃん
-🏅 Clover Heart's~Four leaves~ - miko
 ```
 
 <!-- netease-music-box end -->

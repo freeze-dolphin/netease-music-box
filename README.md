@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
-🥈 Central Nucleus - Feryquitous
-🥉 December - Vacant
-🏅 Amaterasu - Xomu/Konet/Unari
-🏅 Judas - Visual Effect
+🥈 December - Vacant
+🥉 Last Regrets - Maozon
+🏅 腐り姫の伝説 - 椎名治美
+🏅 Decretum - 梶浦由記
 ```
 
 <!-- netease-music-box end -->

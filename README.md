@@ -7,8 +7,8 @@
 ```text
 🥇 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
 🥈 December - Vacant
-🥉 Last Regrets - Maozon
-🏅 腐り姫の伝説 - 椎名治美
+🥉 腐り姫の伝説 - 椎名治美
+🏅 思い出をありがとう - 坂本昌一郎
 🏅 Decretum - 梶浦由記
 ```
 

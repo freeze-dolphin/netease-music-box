@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
-🥈 December - Vacant
-🥉 腐り姫の伝説 - 椎名治美
-🏅 思い出をありがとう - 坂本昌一郎
-🏅 Decretum - 梶浦由記
+🥈 CONSCIOUS_LESS - DEEZL
+🥉 Disruptor Array - Akira Complex/kiraku
+🏅 Ethereal Cyber Angel XV - onumi/Akira Complex
+🏅 长征 - 罗大佑
 ```
 
 <!-- netease-music-box end -->

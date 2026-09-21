@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
-🥈 CONSCIOUS_LESS - DEEZL
-🥉 Disruptor Array - Akira Complex/kiraku
-🏅 Ethereal Cyber Angel XV - onumi/Akira Complex
-🏅 长征 - 罗大佑
+🥇 CONSCIOUS_LESS - DEEZL
+🥈 长征 - 罗大佑
+🥉 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
+🏅 FALLING - DEEZL
+🏅 Disruptor Array - Akira Complex/kiraku
 ```
 
 <!-- netease-music-box end -->

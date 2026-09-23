@@ -7,9 +7,9 @@
 ```text
 🥇 长征 - 罗大佑
 🥈 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
-🥉 CONSCIOUS_LESS - DEEZL
+🥉 Forbidden Souls - Nhato
+🏅 CONSCIOUS_LESS - DEEZL
 🏅 FALLING - DEEZL
-🏅 Disruptor Array - Akira Complex/kiraku
 ```
 
 <!-- netease-music-box end -->

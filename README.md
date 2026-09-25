@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 长征 - 罗大佑
-🥈 If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante) - VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante
-🥉 Forbidden Souls - Nhato
-🏅 CONSCIOUS_LESS - DEEZL
+🥈 Forbidden Souls - Nhato
+🥉 CONSCIOUS_LESS - DEEZL
 🏅 FALLING - DEEZL
+🏅 WonderRoom2.0 - N
 ```
 
 <!-- netease-music-box end -->

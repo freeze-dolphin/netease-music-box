@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Valkyrie II: Lacuna - Varien/Cassandra Kay
-🥈 Valkyrie III: Atonement - Varien/Laura Brehm
-🥉 CONSCIOUS_LESS - DEEZL
-🏅 FALLING - DEEZL
-🏅 长征 - 罗大佑
+🥇 Valkyrie III: Atonement - Varien/Laura Brehm
+🥈 Valkyrie II: Lacuna - Varien/Cassandra Kay
+🥉 After the festival - はちみつれもん
+🏅 恶道行者 (Down the Cursed Path) - 战双帕弥什/CNHKSS/庞雪倩
+🏅 Forbidden Souls - Nhato
 ```
 
 <!-- netease-music-box end -->

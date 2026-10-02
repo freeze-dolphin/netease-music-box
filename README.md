@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 祈神怜 - 一颗狼星
-🥈 After the festival - はちみつれもん
-🥉 Valkyrie II: Lacuna - Varien/Cassandra Kay
-🏅 Valkyrie III: Atonement - Varien/Laura Brehm
-🏅 恶道行者 (Down the Cursed Path) - 战双帕弥什/CNHKSS/庞雪倩
+🥈 恶道行者 (Down the Cursed Path) - 战双帕弥什/CNHKSS/庞雪倩
+🥉 After the festival - はちみつれもん
+🏅 狐雨 - 棗いつき
+🏅 SLOW MOTION (CASTLE. Remix) - Jonah Marais/Castle.
 ```
 
 <!-- netease-music-box end -->

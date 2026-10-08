@@ -8,8 +8,8 @@
 🥇 祈神怜 - 一颗狼星
 🥈 Last regrets - 彩菜
 🥉 梦的翅膀受了伤 (SouMix Remix) - 蒋雪儿Snow.J
-🏅 恶道行者 (Down the Cursed Path) - 战双帕弥什/CNHKSS/庞雪倩
 🏅 迷 - 立入禁止
+🏅 难解 - 一颗狼星
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 祈神怜 - 一颗狼星
-🥈 Last regrets - 彩菜
-🥉 梦的翅膀受了伤 (SouMix Remix) - 蒋雪儿Snow.J
-🏅 迷 - 立入禁止
-🏅 难解 - 一颗狼星
+🥈 STRUGGLING - DEEZL
+🥉 Last regrets - 彩菜
+🏅 赤外分光計算端末事象所見 - NoKANY
+🏅 梦的翅膀受了伤 (SouMix Remix) - 蒋雪儿Snow.J
 ```
 
 <!-- netease-music-box end -->

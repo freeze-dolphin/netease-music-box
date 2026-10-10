@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 祈神怜 - 一颗狼星
+🥇 The Rush - T & Sugah
 🥈 STRUGGLING - DEEZL
-🥉 Last regrets - 彩菜
-🏅 赤外分光計算端末事象所見 - NoKANY
-🏅 梦的翅膀受了伤 (SouMix Remix) - 蒋雪儿Snow.J
+🥉 We're On Fire - Grafix/Madishu
+🏅 Beautiful Lies - B-Complex
+🏅 BG - Falamensia
 ```
 
 <!-- netease-music-box end -->

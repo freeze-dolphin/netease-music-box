@@ -8,8 +8,8 @@
 🥇 The Rush - T & Sugah
 🥈 STRUGGLING - DEEZL
 🥉 We're On Fire - Grafix/Madishu
-🏅 Beautiful Lies - B-Complex
 🏅 BG - Falamensia
+🏅 Last regrets - 彩菜
 ```
 
 <!-- netease-music-box end -->

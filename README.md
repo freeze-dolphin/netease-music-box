@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 The Rush - T & Sugah
-🥈 STRUGGLING - DEEZL
+🥇 STRUGGLING - DEEZL
+🥈 The Rush - T & Sugah
 🥉 We're On Fire - Grafix/Madishu
-🏅 BG - Falamensia
-🏅 Last regrets - 彩菜
+🏅 Central Nucleus - Feryquitous
+🏅 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
 ```
 
 <!-- netease-music-box end -->

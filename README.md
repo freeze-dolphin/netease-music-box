@@ -5,10 +5,10 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 STRUGGLING - DEEZL
-🥈 The Rush - T & Sugah
-🥉 We're On Fire - Grafix/Madishu
-🏅 Central Nucleus - Feryquitous
+🥇 The Rush - T & Sugah
+🥈 STRUGGLING - DEEZL
+🥉 Central Nucleus - Feryquitous
+🏅 We're On Fire - Grafix/Madishu
 🏅 Star Fall in Evernight City (2024 Update) - Reku Mochizuki
 ```
 

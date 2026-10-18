@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 STRUGGLING - DEEZL
-🥈 Central Nucleus - Feryquitous
-🥉 We're On Fire - Grafix/Madishu
-🏅 The Rush - T & Sugah
-🏅 Out of Body - Netsky/Andromedik
+🥈 We're On Fire - Grafix/Madishu
+🥉 Central Nucleus - Feryquitous
+🏅 Droid - Dirtyphonics
+🏅 Taking My Time - Leniz/Brainwork
 ```
 
 <!-- netease-music-box end -->

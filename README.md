@@ -9,7 +9,7 @@
 🥈 We're On Fire - Grafix/Madishu
 🥉 Central Nucleus - Feryquitous
 🏅 Droid - Dirtyphonics
-🏅 Taking My Time - Leniz/Brainwork
+🏅 Last Regrets - Maozon
 ```
 
 <!-- netease-music-box end -->

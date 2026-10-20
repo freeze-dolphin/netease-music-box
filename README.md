@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 STRUGGLING - DEEZL
-🥈 We're On Fire - Grafix/Madishu
-🥉 Central Nucleus - Feryquitous
-🏅 Droid - Dirtyphonics
-🏅 Last Regrets - Maozon
+🥈 Droid - Dirtyphonics
+🥉 Last Regrets - Maozon
+🏅 We're On Fire - Grafix/Madishu
+🏅 うたかたのせかいで (feat. nayuta) - DJ Raisei/Setca./nayuta
 ```
 
 <!-- netease-music-box end -->

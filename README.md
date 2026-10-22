@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 KILL SWITCH - Laur
-🥈 Droid - Dirtyphonics
-🥉 STRUGGLING - DEEZL
-🏅 BREATH_LESS - DEEZL
-🏅 ACID TECH (Original Mix) - Anderex
+🥇 STRUGGLING - DEEZL
+🥈 BREATH_LESS - DEEZL
+🥉 KILL SWITCH - Laur
+🏅 Power - Kanine
+🏅 Droid - Dirtyphonics
 ```
 
 <!-- netease-music-box end -->

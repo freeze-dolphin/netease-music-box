@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 STRUGGLING - DEEZL
-🥈 BREATH_LESS - DEEZL
-🥉 KILL SWITCH - Laur
+🥇 BREATH_LESS - DEEZL
+🥈 KILL SWITCH - Laur
+🥉 Interoception (Original Mix) - Transpose (CA)
 🏅 Power - Kanine
-🏅 Droid - Dirtyphonics
+🏅 STRUGGLING - DEEZL
 ```
 
 <!-- netease-music-box end -->

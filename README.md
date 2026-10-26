@@ -9,7 +9,7 @@
 🥈 KILL SWITCH - Laur
 🥉 Interoception (Original Mix) - Transpose (CA)
 🏅 Power - Kanine
-🏅 STRUGGLING - DEEZL
+🏅 Glitched Universe - 削除
 ```
 
 <!-- netease-music-box end -->

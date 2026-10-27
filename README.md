@@ -5,9 +5,9 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 BREATH_LESS - DEEZL
-🥈 KILL SWITCH - Laur
-🥉 Interoception (Original Mix) - Transpose (CA)
+🥇 Interoception (Original Mix) - Transpose (CA)
+🥈 BREATH_LESS - DEEZL
+🥉 KILL SWITCH - Laur
 🏅 Power - Kanine
 🏅 Glitched Universe - 削除
 ```

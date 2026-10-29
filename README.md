@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Interoception (Original Mix) - Transpose (CA)
-🥈 BREATH_LESS - DEEZL
-🥉 KILL SWITCH - Laur
-🏅 Power - Kanine
-🏅 Glitched Universe - 削除
+🥈 Artificial Satellite - Spectra Sonics
+🥉 Обезоружена - Полина Гагарина
+🏅 Divine Intervention - Sara Landry/Electric Universe
+🏅 Hypnotic Vibration - X-side
 ```
 
 <!-- netease-music-box end -->

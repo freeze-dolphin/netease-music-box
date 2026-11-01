@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Interoception (Original Mix) - Transpose (CA)
-🥈 Artificial Satellite - Spectra Sonics
-🥉 Обезоружена - Полина Гагарина
-🏅 Divine Intervention - Sara Landry/Electric Universe
-🏅 Hypnotic Vibration - X-side
+🥇 Обезоружена - Полина Гагарина
+🥈 Interoception (Original Mix) - Transpose (CA)
+🥉 朧月 - Laur/i7to
+🏅 Merry Christmas Mr. Lawrence - 坂本龍一
+🏅 純白の花～Under Divine Gaze - 不凋花project
 ```
 
 <!-- netease-music-box end -->

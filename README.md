@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Обезоружена - Полина Гагарина
-🥈 Interoception (Original Mix) - Transpose (CA)
-🥉 朧月 - Laur/i7to
-🏅 Merry Christmas Mr. Lawrence - 坂本龍一
-🏅 純白の花～Under Divine Gaze - 不凋花project
+🥈 贝加尔湖畔（钢琴版） - Piano&Justin
+🥉 Merry Christmas Mr. Lawrence - 坂本龍一
+🏅 Interoception (Original Mix) - Transpose (CA)
+🏅 雪月桜花の国 - 上海アリス幻樂団
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 Обезоружена - Полина Гагарина
 🥈 贝加尔湖畔（钢琴版） - Piano&Justin
 🥉 Merry Christmas Mr. Lawrence - 坂本龍一
+🏅 Cupid Saw Us - TIC/Paperman
 🏅 Interoception (Original Mix) - Transpose (CA)
-🏅 雪月桜花の国 - 上海アリス幻樂団
 ```
 
 <!-- netease-music-box end -->

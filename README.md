@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Обезоружена - Полина Гагарина
-🥈 贝加尔湖畔（钢琴版） - Piano&Justin
-🥉 Merry Christmas Mr. Lawrence - 坂本龍一
-🏅 Cupid Saw Us - TIC/Paperman
-🏅 Interoception (Original Mix) - Transpose (CA)
+🥇 星夜语 - Alan Mackin
+🥈 樱花树 - Alan Mackin
+🥉 Обезоружена - Полина Гагарина
+🏅 贝加尔湖畔（钢琴版） - Piano&Justin
+🏅 Merry Christmas Mr. Lawrence - 坂本龍一
 ```
 
 <!-- netease-music-box end -->

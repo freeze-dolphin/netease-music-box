@@ -7,9 +7,9 @@
 ```text
 🥇 Collide - Fred V/DNMO/Paul Dowling
 🥈 Deeper Love (Stonebank Remix) - BOTNEK/I See MONSTAS/Stonebank
-🥉 星夜语 - Alan Mackin
-🏅 樱花树 - Alan Mackin
+🥉 Endgame (VIP) - Bossfight
 🏅 Echoes - Dexcell
+🏅 Ascend - Vluarr/Arcando/Felix Samuel
 ```
 
 <!-- netease-music-box end -->

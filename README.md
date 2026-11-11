@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Collide - Fred V/DNMO/Paul Dowling
-🥈 Deeper Love (Stonebank Remix) - BOTNEK/I See MONSTAS/Stonebank
-🥉 Endgame (VIP) - Bossfight
-🏅 Echoes - Dexcell
-🏅 Ascend - Vluarr/Arcando/Felix Samuel
+🥇 Palingenesis - Akiuta/Saki_Neko/L3ADB1RD/Hilarity Leap Records
+🥈 颠覆海洋 - 铁痕电台-MSR/Au5/Essenger
+🥉 Falsequre - Blacklolita
+🏅 Endgame (VIP) - Bossfight
+🏅 Deeper Love (Stonebank Remix) - BOTNEK/I See MONSTAS/Stonebank
 ```
 
 <!-- netease-music-box end -->

@@ -6,10 +6,10 @@
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
 🥇 Palingenesis - Akiuta/Saki_Neko/L3ADB1RD/Hilarity Leap Records
-🥈 颠覆海洋 - 铁痕电台-MSR/Au5/Essenger
-🥉 Falsequre - Blacklolita
-🏅 Endgame (VIP) - Bossfight
-🏅 Deeper Love (Stonebank Remix) - BOTNEK/I See MONSTAS/Stonebank
+🥈 云户 - ITY
+🥉 ADHD Relief Music for Better Concentration and Focus - Greenred Productions
+🏅 颠覆海洋 - 铁痕电台-MSR/Au5/Essenger
+🏅 Falsequre - Blacklolita
 ```
 
 <!-- netease-music-box end -->

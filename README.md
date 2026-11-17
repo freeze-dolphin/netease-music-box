@@ -7,9 +7,9 @@
 ```text
 🥇 Palingenesis - Akiuta/Saki_Neko/L3ADB1RD/Hilarity Leap Records
 🥈 云户 - ITY
-🥉 ADHD Relief Music for Better Concentration and Focus - Greenred Productions
-🏅 Falsequre - Blacklolita
-🏅 无谓，无畏 - Shight
+🥉 无谓，无畏 - Shight
+🏅 时梦 - Zuayean
+🏅 ADHD Relief Music for Better Concentration and Focus - Greenred Productions
 ```
 
 <!-- netease-music-box end -->

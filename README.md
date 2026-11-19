@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Palingenesis - Akiuta/Saki_Neko/L3ADB1RD/Hilarity Leap Records
-🥈 云户 - ITY
-🥉 无谓，无畏 - Shight
-🏅 时梦 - Zuayean
-🏅 ADHD Relief Music for Better Concentration and Focus - Greenred Productions
+🥇 云户 - ITY
+🥈 无谓，无畏 - Shight
+🥉 时梦 - Zuayean
+🏅 t r a n s f u s 1 0 n - STARSET
+🏅 Ellie - E.Ellie/Star Breaker/Cedar彭涵
 ```
 
 <!-- netease-music-box end -->

@@ -8,8 +8,8 @@
 🥇 云户 - ITY
 🥈 无谓，无畏 - Shight
 🥉 时梦 - Zuayean
-🏅 t r a n s f u s 1 0 n - STARSET
-🏅 Ellie - E.Ellie/Star Breaker/Cedar彭涵
+🏅 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
+🏅 在冬季诀别 - Venoflame/冰块
 ```
 
 <!-- netease-music-box end -->

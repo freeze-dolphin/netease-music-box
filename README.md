@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 云户 - ITY
-🥈 无谓，无畏 - Shight
-🥉 时梦 - Zuayean
-🏅 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
-🏅 在冬季诀别 - Venoflame/冰块
+🥇 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
+🥈 在冬季诀别 - Venoflame/冰块
+🥉 t r a n s f u s 1 0 n - STARSET
+🏅 Ellie - E.Ellie/Star Breaker/Cedar彭涵
+🏅 幽ノ楽園 - Albemuth
 ```
 
 <!-- netease-music-box end -->

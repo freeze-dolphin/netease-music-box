@@ -7,9 +7,9 @@
 ```text
 🥇 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
 🥈 在冬季诀别 - Venoflame/冰块
-🥉 t r a n s f u s 1 0 n - STARSET
-🏅 Ellie - E.Ellie/Star Breaker/Cedar彭涵
-🏅 幽ノ楽園 - Albemuth
+🥉 Ellie - E.Ellie/Star Breaker/Cedar彭涵
+🏅 day after day - Venoflame
+🏅 海底泡 - philoi
 ```
 
 <!-- netease-music-box end -->

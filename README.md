@@ -7,9 +7,9 @@
 ```text
 🥇 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
 🥈 在冬季诀别 - Venoflame/冰块
-🥉 Ellie - E.Ellie/Star Breaker/Cedar彭涵
-🏅 day after day - Venoflame
-🏅 海底泡 - philoi
+🥉 day after day - Venoflame
+🏅 一去三千夜 - 兰音Reine
+🏅 self doubt (自我怀疑) - Venoflame
 ```
 
 <!-- netease-music-box end -->

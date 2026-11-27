@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 Breath of Ocean - Lunak
-🥈 一去三千夜 - 兰音Reine
-🥉 Judas - Visual Effect
-🏅 With A Smile - Maiah Manser
-🏅 Ocean's Great Waves (Supire Bootleg) - Supire/Hyrule War
+🥇 Enigma (Re-Verse Mix) - onoken/Atomic Tomoya
+🥈 Acnoss (long) - onoken
+🥉 絵空の月 (feat. Sennzai) [vocal ver.] - onoken/Sennzai
+🏅 Time Jacker (long) - onoken
+🏅 Ververg III (feat. b) [long] - onoken/b
 ```
 
 <!-- netease-music-box end -->

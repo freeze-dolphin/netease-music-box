@@ -5,11 +5,11 @@
 <!-- netease-music-box start -->
 #### <a href="https://gist.github.com/8341b370556ca6eb6b1451616894114a" target="_blank">🎵 我最近一周的听歌排行</a>
 ```text
-🥇 It's A Dream 2K19 (Rekkt Remix) - Rekkt/Dr. Peacock/DJ Panda
-🥈 在冬季诀别 - Venoflame/冰块
-🥉 Booting Up - In—Flow
-🏅 Breath of Ocean - Lunak
-🏅 day after day - Venoflame
+🥇 Breath of Ocean - Lunak
+🥈 一去三千夜 - 兰音Reine
+🥉 Judas - Visual Effect
+🏅 With A Smile - Maiah Manser
+🏅 Ocean's Great Waves (Supire Bootleg) - Supire/Hyrule War
 ```
 
 <!-- netease-music-box end -->
